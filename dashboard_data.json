@@ -10,7 +10,7 @@
       "date": "Wed, 27 May 2026 20:43:54 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921128"
+      "fetched_at": "2026-05-31T09:49:28.819514"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/",
@@ -22,7 +22,7 @@
       "date": "Wed, 27 May 2026 19:13:35 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-05-30T09:24:20.921187"
+      "fetched_at": "2026-05-31T09:49:28.819546"
     },
     {
       "id": "https://arstechnica.com/space/2026/05/us-space-force-confirms-spacex-will-build-sensor-to-shooter-targeting-network/",
@@ -34,7 +34,7 @@
       "date": "Wed, 27 May 2026 18:19:51 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921133"
+      "fetched_at": "2026-05-31T09:49:28.819518"
     },
     {
       "id": "https://www.utilitydive.com/news/streaming-wars-utilities-ai-data-center/820883/",
@@ -46,7 +46,7 @@
       "date": "Wed, 27 May 2026 10:39:36 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921104"
+      "fetched_at": "2026-05-31T09:49:28.819496"
     },
     {
       "id": "https://www.utilitydive.com/news/demand-management-data-center-flexibility-boost-regional-reliability-nerc/821225/",
@@ -58,7 +58,7 @@
       "date": "Wed, 27 May 2026 10:28:58 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921108"
+      "fetched_at": "2026-05-31T09:49:28.819499"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/27/nasa-outlines-nearly-1-billion-investment-into-initial-moon-base-missions/",
@@ -70,7 +70,7 @@
       "date": "Wed, 27 May 2026 01:18:19 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-05-30T09:24:20.921192"
+      "fetched_at": "2026-05-31T09:49:28.819550"
     },
     {
       "id": "https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/",
@@ -82,7 +82,7 @@
       "date": "Tue, 26 May 2026 21:03:03 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921137"
+      "fetched_at": "2026-05-31T09:49:28.819521"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/26/live-coverage-nasa-updates-progress-towards-established-a-moon-base-artemis-3-mission/",
@@ -94,7 +94,7 @@
       "date": "Tue, 26 May 2026 17:34:08 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921198"
+      "fetched_at": "2026-05-31T09:49:28.819557"
     },
     {
       "id": "https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/",
@@ -106,7 +106,7 @@
       "date": "Tue, 26 May 2026 13:57:30 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921141"
+      "fetched_at": "2026-05-31T09:49:28.819524"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-8/",
@@ -118,7 +118,7 @@
       "date": "Tue, 26 May 2026 12:48:17 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921207"
+      "fetched_at": "2026-05-31T09:49:28.819561"
     },
     {
       "id": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
@@ -130,7 +130,7 @@
       "date": "Thu, 28 May 2026 18:17:41 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921125"
+      "fetched_at": "2026-05-31T09:49:28.819512"
     },
     {
       "id": "https://www.utilitydive.com/news/new-mexico-der-interconnection-irec-vote-solar/821397/",
@@ -142,7 +142,7 @@
       "date": "Thu, 28 May 2026 15:11:30 -0400",
       "signal_type": "regulatory",
       "relevance_score": 6.5,
-      "fetched_at": "2026-05-30T09:24:20.921082"
+      "fetched_at": "2026-05-31T09:49:28.819479"
     },
     {
       "id": "https://www.energy-storage.news/the-urgency-is-real-pjm-considers-its-future-amidst-substantial-load-growth/",
@@ -154,7 +154,7 @@
       "date": "Thu, 28 May 2026 12:25:45 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921036"
+      "fetched_at": "2026-05-31T09:49:28.819443"
     },
     {
       "id": "https://www.energy-storage.news/ercot-incentivises-grid-forming-bess-with-us25-million-programme/",
@@ -166,7 +166,7 @@
       "date": "Thu, 28 May 2026 12:04:22 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-05-30T09:24:20.921054"
+      "fetched_at": "2026-05-31T09:49:28.819457"
     },
     {
       "id": "https://www.energy-storage.news/lg-es-system-integrator-subsidiary-signs-6gwh-bess-deal-with-michigan-utility-dte-energy/",
@@ -178,7 +178,7 @@
       "date": "Thu, 28 May 2026 11:36:46 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921060"
+      "fetched_at": "2026-05-31T09:49:28.819462"
     },
     {
       "id": "https://www.utilitydive.com/news/hyperscaler-data-center-power-companies-grid-utilities/820568/",
@@ -190,7 +190,7 @@
       "date": "Thu, 28 May 2026 11:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921087"
+      "fetched_at": "2026-05-31T09:49:28.819483"
     },
     {
       "id": "https://www.utilitydive.com/news/oregon-puc-approves-pges-large-load-tariff-framework-for-data-centers/821361/",
@@ -202,7 +202,7 @@
       "date": "Thu, 28 May 2026 10:42:05 -0400",
       "signal_type": "regulatory",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921092"
+      "fetched_at": "2026-05-31T09:49:28.819486"
     },
     {
       "id": "https://www.utilitydive.com/news/virginia-senator-suggests-scc-judge-recuse-from-nextera-dominion-merger/821352/",
@@ -214,7 +214,7 @@
       "date": "Thu, 28 May 2026 10:21:53 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921096"
+      "fetched_at": "2026-05-31T09:49:28.819489"
     },
     {
       "id": "https://www.energy-storage.news/contourglobal-brings-online-231mw-solar-1-3gwh-bess-in-chile/",
@@ -226,7 +226,7 @@
       "date": "Thu, 28 May 2026 09:26:29 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921065"
+      "fetched_at": "2026-05-31T09:49:28.819466"
     },
     {
       "id": "https://www.utilitydive.com/news/ferc-competitive-transmission-spp-miso-entergy-complaint/821328/",
@@ -238,19 +238,7 @@
       "date": "Thu, 28 May 2026 09:05:06 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921100"
-    },
-    {
-      "id": "https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/",
-      "title": "Launch preview: SpaceX tries again for first launch of its Starship Version 3 rocket",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/",
-      "sector": "space",
-      "summary": "The mission will see the debut of several upgrades to the launch vehicle, including redesigned engines. Liftoff from Pad 2 at Starbase, Texas, is scheduled during a window that opens at 5:30 p.m. CDT ",
-      "date": "Thu, 21 May 2026 13:13:17 +0000",
-      "signal_type": "technical",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921220"
+      "fetched_at": "2026-05-31T09:49:28.819493"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/",
@@ -262,7 +250,19 @@
       "date": "Sun, 24 May 2026 17:54:29 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921212"
+      "fetched_at": "2026-05-31T09:49:28.819563"
+    },
+    {
+      "id": "https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/",
+      "title": "SpaceX launches 50th Starlink mission of 2026",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/",
+      "sector": "space",
+      "summary": "The Starlink 17-41 mission was SpaceX\u2019s 10th and final launch of May. Liftoff of the Falcon 9 rocket from pad 4E at Vandenberg Space Force Base happened at 8:25 a.m. PDT (11:25 a.m. EDT / 1525 UTC). <",
+      "date": "Sat, 30 May 2026 13:46:18 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-05-31T09:49:28.819533"
     },
     {
       "id": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
@@ -274,7 +274,7 @@
       "date": "Sat, 23 May 2026 17:54:54 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921146"
+      "fetched_at": "2026-05-31T09:49:28.819527"
     },
     {
       "id": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
@@ -286,7 +286,7 @@
       "date": "Sat, 23 May 2026 11:30:35 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921149"
+      "fetched_at": "2026-05-31T09:49:28.819530"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/23/musk-praises-epic-super-heavy-starship-launch/",
@@ -298,7 +298,7 @@
       "date": "Sat, 23 May 2026 02:47:56 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921216"
+      "fetched_at": "2026-05-31T09:49:28.819567"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/29/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral-2/",
@@ -310,7 +310,7 @@
       "date": "Fri, 29 May 2026 21:52:15 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921153"
+      "fetched_at": "2026-05-31T09:49:28.819536"
     },
     {
       "id": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
@@ -322,7 +322,7 @@
       "date": "Fri, 29 May 2026 13:03:46 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921113"
+      "fetched_at": "2026-05-31T09:49:28.819502"
     },
     {
       "id": "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
@@ -334,7 +334,7 @@
       "date": "Fri, 29 May 2026 12:43:35 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921117"
+      "fetched_at": "2026-05-31T09:49:28.819506"
     },
     {
       "id": "https://www.energy-storage.news/us-roundup-bess-news-from-neovolta-goshe-frontier-power-stella-and-prevalon/",
@@ -346,7 +346,7 @@
       "date": "Fri, 29 May 2026 11:40:02 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.920773"
+      "fetched_at": "2026-05-31T09:49:28.819184"
     },
     {
       "id": "https://www.energy-storage.news/time-to-prove-its-potential-gresham-house-uk-bess-fund-at-a-crossroads/",
@@ -358,7 +358,7 @@
       "date": "Fri, 29 May 2026 11:30:46 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-05-30T09:24:20.921005"
+      "fetched_at": "2026-05-31T09:49:28.819419"
     },
     {
       "id": "https://www.utilitydive.com/news/innovative-customer-utility-agreements-derisk-new-technology-ceba/821402/",
@@ -370,7 +370,7 @@
       "date": "Fri, 29 May 2026 11:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921069"
+      "fetched_at": "2026-05-31T09:49:28.819469"
     },
     {
       "id": "https://www.energy-storage.news/german-regulators-grid-fee-decision-restores-investor-confidence-in-energy-storage-market/",
@@ -382,7 +382,7 @@
       "date": "Fri, 29 May 2026 10:32:47 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-05-30T09:24:20.921016"
+      "fetched_at": "2026-05-31T09:49:28.819427"
     },
     {
       "id": "https://www.utilitydive.com/news/entergy-gas-fired-miso-fast-track-interconnection-eras/821460/",
@@ -394,7 +394,7 @@
       "date": "Fri, 29 May 2026 09:06:01 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921074"
+      "fetched_at": "2026-05-31T09:49:28.819472"
     },
     {
       "id": "https://www.utilitydive.com/news/doe-funding-spark-initiative-transmission/820575/",
@@ -406,7 +406,7 @@
       "date": "Fri, 29 May 2026 08:20:56 -0400",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-05-30T09:24:20.921078"
+      "fetched_at": "2026-05-31T09:49:28.819476"
     },
     {
       "id": "https://www.energy-storage.news/nord-pools-new-european-bess-revenue-index-reduces-trader-bias-risk-for-merchant-plays/",
@@ -418,7 +418,7 @@
       "date": "Fri, 29 May 2026 07:55:23 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921022"
+      "fetched_at": "2026-05-31T09:49:28.819432"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/",
@@ -430,7 +430,7 @@
       "date": "Fri, 29 May 2026 05:03:45 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921157"
+      "fetched_at": "2026-05-31T09:49:28.819540"
     },
     {
       "id": "https://www.energy-storage.news/ausgrid-submits-300mwh-berkeley-vale-bess-in-new-south-wales-to-australias-epbc-act/",
@@ -442,7 +442,7 @@
       "date": "Fri, 29 May 2026 03:17:01 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921027"
+      "fetched_at": "2026-05-31T09:49:28.819436"
     },
     {
       "id": "https://www.energy-storage.news/south-australia-awards-1-3gw-of-battery-storage-in-first-firm-energy-reliability-mechanism-tender/",
@@ -454,7 +454,7 @@
       "date": "Fri, 29 May 2026 03:12:52 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921031"
+      "fetched_at": "2026-05-31T09:49:28.819439"
     },
     {
       "id": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
@@ -466,11 +466,11 @@
       "date": "Fri, 29 May 2026 02:21:08 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-05-30T09:24:20.921121"
+      "fetched_at": "2026-05-31T09:49:28.819509"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/29/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/",
-      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+      "title": "SpaceX launches 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
       "source": "Spaceflight Now",
       "url": "https://spaceflightnow.com/2026/05/29/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/",
       "sector": "space",
@@ -478,9 +478,9 @@
       "date": "Fri, 29 May 2026 00:33:17 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-05-30T09:24:20.921161"
+      "fetched_at": "2026-05-31T09:49:28.819543"
     }
   ],
   "regulations": [],
-  "last_update": "2026-05-30T09:24:21.789526"
+  "last_update": "2026-05-31T09:49:29.411898"
 }
