@@ -10,19 +10,7 @@
       "date": "Wed, 27 May 2026 19:13:35 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-06-05T10:52:59.514285"
-    },
-    {
-      "id": "https://spaceflightnow.com/2026/05/27/nasa-outlines-nearly-1-billion-investment-into-initial-moon-base-missions/",
-      "title": "NASA outlines nearly $1 billion investment into initial Moon Base missions",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/05/27/nasa-outlines-nearly-1-billion-investment-into-initial-moon-base-missions/",
-      "sector": "space",
-      "summary": "NASA\u2019s vision for a sprawling Moon Base will cover \u201chundreds of square miles\u201d to cover the multitudes of various sites that the agency wants to explore. <a class=\"mh-excerpt-more\" href=\"https://spacef",
-      "date": "Wed, 27 May 2026 01:18:19 +0000",
-      "signal_type": "capital_deployment",
-      "relevance_score": 7.0,
-      "fetched_at": "2026-06-05T10:52:59.514289"
+      "fetched_at": "2026-06-06T09:29:30.607415"
     },
     {
       "id": "https://www.utilitydive.com/news/customer-experience-better-modeling-can-boost-demand-side-portfolio-repor/821905/",
@@ -34,55 +22,19 @@
       "date": "Wed, 03 Jun 2026 13:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-05T10:52:59.514226"
+      "fetched_at": "2026-06-06T09:29:30.607327"
     },
     {
-      "id": "https://www.utilitydive.com/news/states-sue-trump-admin-over-totalenergies-offshore-wind-lease-buyout/821870/",
-      "title": "7 states sue Trump administration over TotalEnergies offshore wind lease buyout",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/states-sue-trump-admin-over-totalenergies-offshore-wind-lease-buyout/821870/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Jiv9MB1HPZs2Y_Y2P7W_79Aaua6FXAuCj9iAb9ftAsA/g:nowe:0:185/c:5979:3377/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0x",
-      "date": "Wed, 03 Jun 2026 10:44:53 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-06-05T10:52:59.514230"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/dte-energy-lg-battery-storage/821856/",
-      "title": "DTE Energy partners with LG to deploy 6 GWh of battery storage",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/dte-energy-lg-battery-storage/821856/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/6lBqyJ9ApO0wc05jrP_v8-35JlisZ2aIF6GGsECwfK0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDYyOTQ4NDc2LmpwZw==",
-      "date": "Wed, 03 Jun 2026 09:22:28 -0400",
-      "signal_type": "news",
+      "id": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
+      "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
+      "sector": "space",
+      "summary": "\"Everyone is in a place where it\u2019s no fun to be there.\"",
+      "date": "Wed, 03 Jun 2026 10:00:07 +0000",
+      "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514235"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/constellation-three-mile-island-crane-nuclear-ferc-waiver/821836/",
-      "title": "Constellation\u2019s Three Mile Island nuclear restart gets boost with FERC waiver",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/constellation-three-mile-island-crane-nuclear-ferc-waiver/821836/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/HUS5w8r5HHQBAh8gFhXdXNHNyZOlBl7uTs7p5uQtLXU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc3ODUxNDk3LmpwZw==",
-      "date": "Wed, 03 Jun 2026 08:35:38 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-06-05T10:52:59.514239"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/google-virtual-power-plant-vpp-pjm-voltus/821838/",
-      "title": "Google to fund 100-MW virtual power plant in PJM in \u2018first-of-its-kind\u2019 deal",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/google-virtual-power-plant-vpp-pjm-voltus/821838/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/1SsOkvaKDbhCtX2FZSIe97kULhnUOQuAkssY2LIkTYw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QYXNhZGVuYV9jaGFyZ2luZy5qcGc=.webp\" /",
-      "date": "Wed, 03 Jun 2026 08:23:51 -0400",
-      "signal_type": "capital_deployment",
-      "relevance_score": 7.0,
-      "fetched_at": "2026-06-05T10:52:59.514244"
+      "fetched_at": "2026-06-06T09:29:30.607347"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-3/",
@@ -94,7 +46,7 @@
       "date": "Wed, 03 Jun 2026 01:39:54 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514253"
+      "fetched_at": "2026-06-06T09:29:30.607380"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/03/blue-origin-vows-to-resume-new-glenn-flights-by-years-end/",
@@ -106,7 +58,7 @@
       "date": "Wed, 03 Jun 2026 01:23:32 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-05T10:52:59.514258"
+      "fetched_at": "2026-06-06T09:29:30.607385"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/",
@@ -118,7 +70,43 @@
       "date": "Wed, 03 Jun 2026 01:09:18 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514263"
+      "fetched_at": "2026-06-06T09:29:30.607394"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
+      "title": "In a surprise launch, China debuts another big rocket designed for reusability",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
+      "sector": "space",
+      "summary": "There are sound engineering reasons to use the same approach SpaceX uses with the Falcon 9.",
+      "date": "Tue, 02 Jun 2026 16:05:48 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-06-06T09:29:30.607351"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/",
+      "title": "Blue Origin has set a very aggressive return-to-flight timeline",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/",
+      "sector": "space",
+      "summary": "\"The propellant farm, oxygen, liquid hydrogen, and LNG tanks are all in good shape.\"",
+      "date": "Tue, 02 Jun 2026 15:16:13 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-06T09:29:30.607355"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/",
+      "title": "Impulse Space raises $500 million as orbital maneuvering race heats up",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/",
+      "sector": "space",
+      "summary": "\"The market's going to continue to find exciting new things.\"",
+      "date": "Tue, 02 Jun 2026 12:00:54 +0000",
+      "signal_type": "capital_deployment",
+      "relevance_score": 8.0,
+      "fetched_at": "2026-06-06T09:29:30.607359"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/04/nasa-head-urges-new-launcher-for-blue-origins-moon-landers-to-meet-artemis-mission-deadlines/",
@@ -130,7 +118,19 @@
       "date": "Thu, 04 Jun 2026 18:08:20 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514249"
+      "fetched_at": "2026-06-06T09:29:30.607376"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/",
+      "title": "After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/",
+      "sector": "space",
+      "summary": "\u201cI think the team has really experienced the loss of a loved one with the end of the mission.\u201d",
+      "date": "Thu, 04 Jun 2026 16:21:06 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-06T09:29:30.607343"
     },
     {
       "id": "https://www.utilitydive.com/news/colorado-electric-co-op-marks-first-month-serving-100-renewables/822042/",
@@ -142,7 +142,7 @@
       "date": "Thu, 04 Jun 2026 14:19:27 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-05T10:52:59.514202"
+      "fetched_at": "2026-06-06T09:29:30.607306"
     },
     {
       "id": "https://www.energy-storage.news/this-should-have-already-been-done-deploy-action-on-accelerating-california-ders/",
@@ -154,7 +154,7 @@
       "date": "Thu, 04 Jun 2026 12:40:15 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-05T10:52:59.514161"
+      "fetched_at": "2026-06-06T09:29:30.607252"
     },
     {
       "id": "https://www.energy-storage.news/us-solar-startup-t1-energy-to-acquire-bess-company-kore-power-for-us32-million/",
@@ -166,7 +166,7 @@
       "date": "Thu, 04 Jun 2026 12:35:13 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-06-05T10:52:59.514166"
+      "fetched_at": "2026-06-06T09:29:30.607257"
     },
     {
       "id": "https://www.energy-storage.news/giga-scale-swiss-data-centre-project-will-be-world-first-in-carving-out-niche-for-flow-batteries-invinity-says/",
@@ -178,7 +178,7 @@
       "date": "Thu, 04 Jun 2026 11:39:22 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-05T10:52:59.514185"
+      "fetched_at": "2026-06-06T09:29:30.607273"
     },
     {
       "id": "https://www.energy-storage.news/brazils-first-energy-storage-auctions-are-coming-this-year-regulatory-framework-approved/",
@@ -190,7 +190,7 @@
       "date": "Thu, 04 Jun 2026 11:33:12 +0000",
       "signal_type": "regulatory",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514192"
+      "fetched_at": "2026-06-06T09:29:30.607279"
     },
     {
       "id": "https://www.utilitydive.com/news/protesters-target-nv-energy-electric-utility-conference-anger-over-affordability-electric-rates/821995/",
@@ -202,7 +202,7 @@
       "date": "Thu, 04 Jun 2026 10:15:55 -0400",
       "signal_type": "technical",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-05T10:52:59.514207"
+      "fetched_at": "2026-06-06T09:29:30.607310"
     },
     {
       "id": "https://www.energy-storage.news/eu-roundup-r-power-ox2-bruc-aukera-finance-bess-in-poland-spain-and-belgium-totalling-2-2gwh-for-2027-cod/",
@@ -214,7 +214,7 @@
       "date": "Thu, 04 Jun 2026 10:08:12 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514197"
+      "fetched_at": "2026-06-06T09:29:30.607284"
     },
     {
       "id": "https://www.utilitydive.com/news/electric-sector-needs-firm-gas-supply-to-protect-grid-reliability-report/821981/",
@@ -226,7 +226,7 @@
       "date": "Thu, 04 Jun 2026 09:41:53 -0400",
       "signal_type": "supply_shock",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514212"
+      "fetched_at": "2026-06-06T09:29:30.607314"
     },
     {
       "id": "https://www.utilitydive.com/news/speed-to-power-competitive-transmission-ferc-complaint/821675/",
@@ -238,7 +238,7 @@
       "date": "Thu, 04 Jun 2026 09:37:06 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-05T10:52:59.514217"
+      "fetched_at": "2026-06-06T09:29:30.607318"
     },
     {
       "id": "https://www.utilitydive.com/news/oms-miso-survey-resource-outlook-generation/821973/",
@@ -250,7 +250,19 @@
       "date": "Thu, 04 Jun 2026 09:05:11 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-05T10:52:59.514222"
+      "fetched_at": "2026-06-06T09:29:30.607322"
+    },
+    {
+      "id": "https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/",
+      "title": "On its 40th anniversary, we reassess 1986's SpaceCamp",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/",
+      "sector": "space",
+      "summary": "Is it a hidden gem, a cult classic, or hopelessly dumb? We vote \"all of the above.\"",
+      "date": "Sun, 31 May 2026 11:15:12 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-06T09:29:30.607363"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/",
@@ -262,7 +274,7 @@
       "date": "Sat, 30 May 2026 13:46:18 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514267"
+      "fetched_at": "2026-06-06T09:29:30.607398"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/29/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral-2/",
@@ -274,7 +286,19 @@
       "date": "Fri, 29 May 2026 21:52:15 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514272"
+      "fetched_at": "2026-06-06T09:29:30.607403"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
+      "title": "Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
+      "sector": "space",
+      "summary": "A new crew launched to China's Tiangong space station, and one of the astronauts will stay for a year.",
+      "date": "Fri, 29 May 2026 13:03:46 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-06-06T09:29:30.607367"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/",
@@ -286,7 +310,7 @@
       "date": "Fri, 29 May 2026 05:03:45 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514276"
+      "fetched_at": "2026-06-06T09:29:30.607407"
     },
     {
       "id": "https://spaceflightnow.com/2026/05/29/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/",
@@ -298,7 +322,79 @@
       "date": "Fri, 29 May 2026 00:33:17 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514280"
+      "fetched_at": "2026-06-06T09:29:30.607411"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
+      "title": "The saga of the International Space Station air leak took a worrying turn Friday",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
+      "sector": "space",
+      "summary": "\"We look forward to working with Roscosmos on a collaborative approach to address the leaks.\"",
+      "date": "Fri, 05 Jun 2026 19:03:16 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-06T09:29:30.607331"
+    },
+    {
+      "id": "https://spaceflightnow.com/2026/06/05/nasa-crew-briefly-shelter-inside-dragon-capsule-as-russia-addresses-new-space-station-leaks/",
+      "title": "NASA crew briefly shelters inside Dragon capsule as Russia addresses new space station leaks",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/06/05/nasa-crew-briefly-shelter-inside-dragon-capsule-as-russia-addresses-new-space-station-leaks/",
+      "sector": "space",
+      "summary": "The precautions were announced the same day as NASA said Roscosmos cosmonauts are set to perform \u201ca more extensive repair operation\u201d, but without providing details as to what that entails. <a class=\"m",
+      "date": "Fri, 05 Jun 2026 15:38:54 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-06T09:29:30.607371"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/06/rocket-report-blue-origin-explosion-still-making-headlines-impulse-raises-money/",
+      "title": "Rocket Report: Blue Origin explosion still making headlines; Impulse raises money",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/rocket-report-blue-origin-explosion-still-making-headlines-impulse-raises-money/",
+      "sector": "space",
+      "summary": "NASA expects to begin stacking the SLS rocket this summer for next year's Artemis III launch.",
+      "date": "Fri, 05 Jun 2026 14:20:54 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-06T09:29:30.607335"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/06/safety-officials-finally-have-a-good-idea-of-what-a-big-rocket-explosion-can-do/",
+      "title": "Safety officials finally have a good idea of what a big rocket explosion can do",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/safety-officials-finally-have-a-good-idea-of-what-a-big-rocket-explosion-can-do/",
+      "sector": "space",
+      "summary": "Overpressure from the Blue Origin blast shattered windows at a hangar\u00a0about a mile away from the pad.",
+      "date": "Fri, 05 Jun 2026 13:55:05 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-06T09:29:30.607339"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/fervo-energy-geothermal-transmission-constraints/822141/",
+      "title": "Fervo Energy faces transmission constraints in the West, analysts say",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/fervo-energy-geothermal-transmission-constraints/822141/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/21Kt1KFyZdH-bLz8eSZYIrh0djkzaYBVvIFjMsmnqcA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81LW1pbi1SZWVsX1N0aWxsMDAxLTIwNDh4MTE1",
+      "date": "Fri, 05 Jun 2026 10:53:55 -0400",
+      "signal_type": "supply_shock",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-06T09:29:30.607289"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/doe-orlando-coal-florida-stanton-emergency-202/822119/",
+      "title": "DOE orders OUC\u2019s 465-MW coal unit in Florida to continue running",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/doe-orlando-coal-florida-stanton-emergency-202/822119/",
+      "sector": "energy-storage",
+      "summary": "<p>Although Florida is at &ldquo;normal risk&rdquo; for long-term energy adequacy, the unit near Orlando needs to remain online partly to help serve potential data centers in the state, the department",
+      "date": "Fri, 05 Jun 2026 09:58:18 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-06T09:29:30.607293"
     },
     {
       "id": "https://www.energy-storage.news/edf-and-masdar-enter-15-year-ppas-for-160mwh-hybrid-california-bess/",
@@ -310,7 +406,7 @@
       "date": "Fri, 05 Jun 2026 09:09:35 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.513849"
+      "fetched_at": "2026-06-06T09:29:30.606967"
     },
     {
       "id": "https://www.energy-storage.news/google-signs-100mw-distributed-energy-resource-vpp-agreement-with-voltus-for-pjm/",
@@ -322,7 +418,7 @@
       "date": "Fri, 05 Jun 2026 09:08:00 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-05T10:52:59.514135"
+      "fetched_at": "2026-06-06T09:29:30.607228"
     },
     {
       "id": "https://www.energy-storage.news/modelling-approaches-to-detecting-and-preventing-thermal-runaway-risk-in-li-ion-bess/",
@@ -334,7 +430,31 @@
       "date": "Fri, 05 Jun 2026 08:37:33 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514145"
+      "fetched_at": "2026-06-06T09:29:30.607237"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/doe-announces-850m-modernize-coal-capacity-build-new-plants/822109/",
+      "title": "Trump administration announces $850M to modernize US coal capacity, build 2 new plants",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/doe-announces-850m-modernize-coal-capacity-build-new-plants/822109/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/SNeF7hzDZcBnMhNxzZJOHL-xyb1fnyk5iaHHzTpc9ME/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90cnVtcF9jb2FsMi5wbmc=.webp\" /></div><",
+      "date": "Fri, 05 Jun 2026 08:20:30 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-06T09:29:30.607297"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/alex-fitzsimmons-energy-markets-ai-renewables/822095/",
+      "title": "DOE\u2019s Alex Fitzsimmons on energy markets, AI, renewables and more",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/alex-fitzsimmons-energy-markets-ai-renewables/822095/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/2TOJ_L2Fg5oJtcJxH9_gPcowulfqMLoF5v66gLXblg0/g:nowe:212:443/c:2220:1254/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbGV4X0ZpdHpzaW",
+      "date": "Fri, 05 Jun 2026 07:39:20 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-06T09:29:30.607302"
     },
     {
       "id": "https://www.energy-storage.news/akaysha-energys-waratah-super-battery-in-australia-returns-to-700mw-as-transformer-2-comes-back-online/",
@@ -346,7 +466,7 @@
       "date": "Fri, 05 Jun 2026 04:31:04 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514150"
+      "fetched_at": "2026-06-06T09:29:30.607242"
     },
     {
       "id": "https://www.energy-storage.news/australias-victoria-fast-tracks-1390mw-of-battery-storage-development-facilitation-program-approval-round/",
@@ -358,9 +478,9 @@
       "date": "Fri, 05 Jun 2026 02:20:29 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-05T10:52:59.514156"
+      "fetched_at": "2026-06-06T09:29:30.607247"
     }
   ],
   "regulations": [],
-  "last_update": "2026-06-05T10:52:59.841335"
+  "last_update": "2026-06-06T09:29:31.237049"
 }
