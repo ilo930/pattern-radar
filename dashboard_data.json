@@ -10,7 +10,7 @@
       "date": "Wed, 17 Jun 2026 15:47:09 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831815"
+      "fetched_at": "2026-06-22T12:55:25.962372"
     },
     {
       "id": "https://www.utilitydive.com/news/managed-bidirectional-ev-charging-advances-with-utility-automaker-support/823171/",
@@ -22,7 +22,7 @@
       "date": "Wed, 17 Jun 2026 12:24:57 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831779"
+      "fetched_at": "2026-06-22T12:55:25.962347"
     },
     {
       "id": "https://www.utilitydive.com/news/heat-pump-shipments-rise-through-april-with-more-use-for-both-heating-and/823153/",
@@ -34,7 +34,7 @@
       "date": "Wed, 17 Jun 2026 11:27:37 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831783"
+      "fetched_at": "2026-06-22T12:55:25.962351"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/17/live-coverage-arianespace-to-launch-its-heaviest-payload-to-date-with-amazon-leo-flight/",
@@ -46,43 +46,7 @@
       "date": "Wed, 17 Jun 2026 11:12:23 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831846"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/nextera-energy-lawsuit-political-scandal-dominion/823137/",
-      "title": "NextEra to pay $150M to settle charges related to Florida political misconduct allegations",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/nextera-energy-lawsuit-political-scandal-dominion/823137/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/2uEupU7kDMWiZ7yfTzmV1Rf88zbRPr4dPb2lAo0csXg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc2NDEzNjYwLmpwZw==",
-      "date": "Wed, 17 Jun 2026 10:12:46 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831787"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/california-gas-generation-down-60-percent-from-2024-as-solar-and-imports-surge/823104/",
-      "title": "California gas generation down 60% from 2024 as solar, imports surge",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/california-gas-generation-down-60-percent-from-2024-as-solar-and-imports-surge/823104/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/JC_tXHsHFHgTYger-9D_MTPUtB_9lMyaCL1pwtoMuzQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SRVNJWkVHZXR0eUltYWdlcy0yMTUwMTg1MjI5",
-      "date": "Wed, 17 Jun 2026 09:00:00 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831791"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/Champlain-Hudson-transmission-hydro-nyc/823115/",
-      "title": "New 339-mile transmission line brings Canadian hydropower to NYC",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/Champlain-Hudson-transmission-hydro-nyc/823115/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Cdw0gQurYWVtKGGY30A9L3YEmw0TdYzpvbByguKwnKw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzAyOTk3Njk1LmpwZw==",
-      "date": "Wed, 17 Jun 2026 07:21:26 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831795"
+      "fetched_at": "2026-06-22T12:55:25.962413"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/10/nasa-chief-defends-selection-of-all-male-artemis-iii-crew/",
@@ -94,7 +58,7 @@
       "date": "Wed, 10 Jun 2026 23:21:51 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831876"
+      "fetched_at": "2026-06-22T12:55:25.962439"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/16/live-coverage-spacex-to-launch-3-block-2-bluebird-satellites-for-ast-spacemobile/",
@@ -106,7 +70,7 @@
       "date": "Tue, 16 Jun 2026 21:45:21 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831851"
+      "fetched_at": "2026-06-22T12:55:25.962418"
     },
     {
       "id": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
@@ -118,7 +82,7 @@
       "date": "Tue, 16 Jun 2026 21:14:08 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831819"
+      "fetched_at": "2026-06-22T12:55:25.962376"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/16/astrobotic-showcases-griffin-1-lander-ahead-of-environmental-testing-in-california/",
@@ -130,19 +94,7 @@
       "date": "Tue, 16 Jun 2026 01:08:24 +0000",
       "signal_type": "technical",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831860"
-    },
-    {
-      "id": "https://spaceflightnow.com/2026/06/09/73614/",
-      "title": "NASA names four-man crew to Artemis 3 mission",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/06/09/73614/",
-      "sector": "space",
-      "summary": "The crew of NASA's next Artemis moon program mission was announced Tuesday, setting the stage for a flight to Earth orbit next year to test rendezvous and docking procedures with moon landers being bu",
-      "date": "Tue, 09 Jun 2026 17:48:42 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831881"
+      "fetched_at": "2026-06-22T12:55:25.962422"
     },
     {
       "id": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
@@ -154,7 +106,7 @@
       "date": "Thu, 18 Jun 2026 20:49:55 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831807"
+      "fetched_at": "2026-06-22T12:55:25.962364"
     },
     {
       "id": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
@@ -166,7 +118,7 @@
       "date": "Thu, 18 Jun 2026 14:34:36 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831811"
+      "fetched_at": "2026-06-22T12:55:25.962368"
     },
     {
       "id": "https://www.utilitydive.com/news/trump-administration-buys-out-four-more-offshore-wind-leases-for-765m/823314/",
@@ -178,7 +130,7 @@
       "date": "Thu, 18 Jun 2026 14:10:24 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831758"
+      "fetched_at": "2026-06-22T12:55:25.962325"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/18/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-2/",
@@ -190,7 +142,7 @@
       "date": "Thu, 18 Jun 2026 13:13:12 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831842"
+      "fetched_at": "2026-06-22T12:55:25.962404"
     },
     {
       "id": "https://www.energy-storage.news/enphase-co-founder-says-solid-state-transformer-can-ease-data-centre-power-problems/",
@@ -202,43 +154,7 @@
       "date": "Thu, 18 Jun 2026 12:32:52 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831721"
-    },
-    {
-      "id": "https://www.energy-storage.news/us-sodium-ion-startups-form-coalition-to-challenge-chinas-battery-dominance/",
-      "title": "US sodium-ion startups form coalition to challenge China\u2019s battery dominance",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/us-sodium-ion-startups-form-coalition-to-challenge-chinas-battery-dominance/",
-      "sector": "energy-storage",
-      "summary": "A group of sodium-ion (Na-ion) battery-focused companies have launched a new industry coalition, the American Battery Leadership Coalition (ABLC).",
-      "date": "Thu, 18 Jun 2026 12:30:07 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831726"
-    },
-    {
-      "id": "https://www.energy-storage.news/aypa-power-brings-1000mwh-arizona-bess-online-in-utility-salt-river-projects-busy-june/",
-      "title": "Aypa Power brings 1,000MWh Arizona BESS online in utility Salt River Project\u2019s busy June",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/aypa-power-brings-1000mwh-arizona-bess-online-in-utility-salt-river-projects-busy-june/",
-      "sector": "energy-storage",
-      "summary": "Energy storage developer-operator Aypa Power and utility Salt River Project (SRP) have brought the 250MW/1,000MWh Pediment energy storage project online in Mesa, Arizona.",
-      "date": "Thu, 18 Jun 2026 12:25:18 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831743"
-    },
-    {
-      "id": "https://www.energy-storage.news/energy-trader-second-foundation-on-owning-projects-and-the-art-of-trading-batteries-in-germany/",
-      "title": "Energy trader Second Foundation on owning projects and the \u2018art\u2019 of trading batteries in Germany",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/energy-trader-second-foundation-on-owning-projects-and-the-art-of-trading-batteries-in-germany/",
-      "sector": "energy-storage",
-      "summary": "We chat to Stephan Lehrke, head of Germany at Second Foundation, a Czech Republic-headquartered energy asset trading firm which is becoming an owner-operator of BESS.",
-      "date": "Thu, 18 Jun 2026 11:31:59 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831749"
+      "fetched_at": "2026-06-22T12:55:25.962307"
     },
     {
       "id": "https://www.utilitydive.com/news/carbon-direct-releases-low-carbon-fuels-criteria-to-help-voluntary-buyers/823283/",
@@ -250,7 +166,7 @@
       "date": "Thu, 18 Jun 2026 11:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831762"
+      "fetched_at": "2026-06-22T12:55:25.962330"
     },
     {
       "id": "https://www.utilitydive.com/news/doj-intervenes-xai-data-center-gas-turbine-lawsuit/823267/",
@@ -262,19 +178,7 @@
       "date": "Thu, 18 Jun 2026 10:09:43 -0400",
       "signal_type": "regulatory",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831767"
-    },
-    {
-      "id": "https://www.energy-storage.news/cee-roundup-epcs-complete-catl-and-sungrow-supplied-600mwh-bulgaria-projects/",
-      "title": "CEE Roundup: EPCs complete CATL and Sungrow-supplied 600MWh Bulgaria projects",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/cee-roundup-epcs-complete-catl-and-sungrow-supplied-600mwh-bulgaria-projects/",
-      "sector": "energy-storage",
-      "summary": "Activity in Central and Eastern Europe (CEE) continues to accelerate, with two separate c.600MWh projects completed in Bulgaria by Solarpro &#038; CATL and Sunotec and Sungrow, plus around 800MWh of c",
-      "date": "Thu, 18 Jun 2026 09:55:25 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831754"
+      "fetched_at": "2026-06-22T12:55:25.962334"
     },
     {
       "id": "https://www.utilitydive.com/news/el-nino-utility-risk-wildfire-drought-hurricane/823256/",
@@ -286,7 +190,7 @@
       "date": "Thu, 18 Jun 2026 09:36:31 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831771"
+      "fetched_at": "2026-06-22T12:55:25.962338"
     },
     {
       "id": "https://www.utilitydive.com/news/maryland-ratepayer-advocate-ferc-data-center-complaint-transmission/823244/",
@@ -298,7 +202,7 @@
       "date": "Thu, 18 Jun 2026 08:53:32 -0400",
       "signal_type": "regulatory",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831775"
+      "fetched_at": "2026-06-22T12:55:25.962343"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-4/",
@@ -310,7 +214,7 @@
       "date": "Thu, 11 Jun 2026 10:29:38 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831872"
+      "fetched_at": "2026-06-22T12:55:25.962435"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/14/live-coverage-spacex-to-launch-its-first-falcon-9-rocket-since-nasdaq-debut/",
@@ -322,19 +226,115 @@
       "date": "Sun, 14 Jun 2026 23:29:03 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831864"
+      "fetched_at": "2026-06-22T12:55:25.962427"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-5/",
-      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "title": "SpaceX to launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
       "source": "Spaceflight Now",
       "url": "https://spaceflightnow.com/2026/06/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-5/",
       "sector": "space",
-      "summary": "The Starlink 17-28 mission is the 58th mission launching the broadband satellites into low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 8:12:16 a.m. PDT (11:12:16 a",
+      "summary": "The Starlink 17-28 mission is the 58th mission launching the broadband satellites into low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base occurred at 9:39:06 a.m. PDT (12:39:06 p.m. E",
       "date": "Sat, 20 Jun 2026 15:07:25 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831838"
+      "fetched_at": "2026-06-22T12:55:25.962400"
+    },
+    {
+      "id": "https://www.energy-storage.news/there-is-now-more-installed-energy-storage-capacity-than-nuclear-in-europe-yet-no-country-has-reached-its-potential/",
+      "title": "There is now more installed energy storage capacity than nuclear in Europe, yet \u2018no country has reached its potential\u2019",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/there-is-now-more-installed-energy-storage-capacity-than-nuclear-in-europe-yet-no-country-has-reached-its-potential/",
+      "sector": "energy-storage",
+      "summary": "As of the second quarter of this year, installed energy storage capacity in Europe overtook nuclear, according to trade association Energy Storage Europe\u2019s new report.",
+      "date": "Mon, 22 Jun 2026 11:19:56 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-06-22T12:55:25.961981"
+    },
+    {
+      "id": "https://www.energy-storage.news/multi-day-energy-storage-startup-ore-energy-signs-1gwh-iron-air-battery-deal-with-dutch-utility/",
+      "title": "Multi-day energy storage startup Ore Energy signs 1GWh iron-air battery deal with Dutch utility",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/multi-day-energy-storage-startup-ore-energy-signs-1gwh-iron-air-battery-deal-with-dutch-utility/",
+      "sector": "energy-storage",
+      "summary": "Startup Ore Energy has signed an agreement with a utility in the Netherlands to deploy up to 1,000MWh of multi-day-duration iron-air batteries.",
+      "date": "Mon, 22 Jun 2026 08:07:17 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-06-22T12:55:25.962224"
+    },
+    {
+      "id": "https://www.utilitydive.com/spons/evs-are-already-on-your-grid-visibility-is-the-missing-piece/822856/",
+      "title": "EVs are already on your grid. Visibility is the missing piece.",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/spons/evs-are-already-on-your-grid-visibility-is-the-missing-piece/822856/",
+      "sector": "energy-storage",
+      "summary": "<p>The flexible loads utilities need exist on your system, but you can't manage what you can't see.</p>",
+      "date": "Mon, 22 Jun 2026 05:00:00 -0400",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-06-22T12:55:25.962312"
+    },
+    {
+      "id": "https://www.utilitydive.com/spons/how-ai-fits-in-the-energy-development-workflow/822870/",
+      "title": "How AI fits in the energy development workflow",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/spons/how-ai-fits-in-the-energy-development-workflow/822870/",
+      "sector": "energy-storage",
+      "summary": "<p>Energy's AI adoption is low. The developers pulling ahead know which workflows to automate.</p>",
+      "date": "Mon, 22 Jun 2026 05:00:00 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-22T12:55:25.962317"
+    },
+    {
+      "id": "https://www.utilitydive.com/spons/rate-cases-are-strategy-redefining-how-utilities-drive-regulatory-outcomes/822872/",
+      "title": "Rate cases are strategy: Redefining how utilities drive regulatory outcomes",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/spons/rate-cases-are-strategy-redefining-how-utilities-drive-regulatory-outcomes/822872/",
+      "sector": "energy-storage",
+      "summary": "<p>Approaching the utility rate case with data, strategy and diligence enables favorable outcomes and strengthens credibility.</p>",
+      "date": "Mon, 22 Jun 2026 05:00:00 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-22T12:55:25.962321"
+    },
+    {
+      "id": "https://www.energy-storage.news/policy-certainty-takes-priority-in-apac-battery-storage-investment-decisions-says-banpu-next/",
+      "title": "\u2018Policy certainty takes priority\u2019 in APAC battery storage investment decisions, says Banpu NEXT",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/policy-certainty-takes-priority-in-apac-battery-storage-investment-decisions-says-banpu-next/",
+      "sector": "energy-storage",
+      "summary": "In this interview with Energy-Storage.news, Colin Koon Peng Ho of Banpu NEXT explains why policy certainty now outweighs cost in APAC battery storage investment decisions, and discusses regulatory bar",
+      "date": "Mon, 22 Jun 2026 02:12:00 +0000",
+      "signal_type": "capital_deployment",
+      "relevance_score": 9.5,
+      "fetched_at": "2026-06-22T12:55:25.962234"
+    },
+    {
+      "id": "https://www.energy-storage.news/south-australia-hits-au20300-mwh-price-cap-twice-in-one-evening-as-battery-storage-fleet-captures-au324000/",
+      "title": "South Australia hits AU$20,300/MWh price cap twice in one evening as battery storage fleet captures AU$324,000",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/south-australia-hits-au20300-mwh-price-cap-twice-in-one-evening-as-battery-storage-fleet-captures-au324000/",
+      "sector": "energy-storage",
+      "summary": "South Australia's SA1 trading region reached the NEM AU$20,300/MWh price cap twice during the evening of 21 June.",
+      "date": "Mon, 22 Jun 2026 00:45:32 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-06-22T12:55:25.962240"
+    },
+    {
+      "id": "https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/",
+      "title": "NASA\u2019s Nancy Grace Roman Space Telescope arrives in Florida",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/",
+      "sector": "space",
+      "summary": "The $4.3 billion observatory will go through about 70 days of prelaunch processing at NASA's Kennedy Space Center before it launches on a SpaceX Falcon Heavy rocket no earlier than August 30. <a class",
+      "date": "Mon, 22 Jun 2026 00:40:47 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-06-22T12:55:25.962396"
     },
     {
       "id": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
@@ -346,7 +346,7 @@
       "date": "Mon, 15 Jun 2026 23:40:38 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831823"
+      "fetched_at": "2026-06-22T12:55:25.962380"
     },
     {
       "id": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/",
@@ -358,7 +358,7 @@
       "date": "Mon, 15 Jun 2026 18:55:41 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831827"
+      "fetched_at": "2026-06-22T12:55:25.962384"
     },
     {
       "id": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
@@ -370,7 +370,7 @@
       "date": "Mon, 15 Jun 2026 13:54:02 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831831"
+      "fetched_at": "2026-06-22T12:55:25.962388"
     },
     {
       "id": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
@@ -382,7 +382,7 @@
       "date": "Fri, 19 Jun 2026 13:36:53 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831799"
+      "fetched_at": "2026-06-22T12:55:25.962356"
     },
     {
       "id": "https://www.energy-storage.news/us-bess-integrator-flexgen-ldes-tech-provider-eos-enter-european-market-with-first-deals/",
@@ -394,7 +394,7 @@
       "date": "Fri, 19 Jun 2026 11:04:47 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831451"
+      "fetched_at": "2026-06-22T12:55:25.962245"
     },
     {
       "id": "https://www.energy-storage.news/european-utilities-association-eurelectric-long-duration-energy-storage-an-increasingly-viable-flexibility-option/",
@@ -406,7 +406,7 @@
       "date": "Fri, 19 Jun 2026 10:57:36 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831697"
+      "fetched_at": "2026-06-22T12:55:25.962250"
     },
     {
       "id": "https://www.energy-storage.news/investment-under-uncertainty-how-ai-volatility-and-real-options-thinking-are-reshaping-battery-storage-economics/",
@@ -418,7 +418,7 @@
       "date": "Fri, 19 Jun 2026 09:25:17 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-06-21T10:37:26.831706"
+      "fetched_at": "2026-06-22T12:55:25.962254"
     },
     {
       "id": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
@@ -430,7 +430,7 @@
       "date": "Fri, 19 Jun 2026 00:39:30 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831803"
+      "fetched_at": "2026-06-22T12:55:25.962360"
     },
     {
       "id": "https://www.energy-storage.news/blt-energy-bags-development-approval-for-4-8gwh-red-gully-bess-in-western-australia/",
@@ -442,7 +442,7 @@
       "date": "Fri, 19 Jun 2026 00:27:55 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831712"
+      "fetched_at": "2026-06-22T12:55:25.962295"
     },
     {
       "id": "https://www.energy-storage.news/eku-energy-submits-two-1200mwh-battery-storage-projects-to-australias-epbc-act/",
@@ -454,7 +454,7 @@
       "date": "Fri, 19 Jun 2026 00:13:50 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831716"
+      "fetched_at": "2026-06-22T12:55:25.962302"
     },
     {
       "id": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
@@ -466,7 +466,7 @@
       "date": "Fri, 12 Jun 2026 22:20:06 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-06-21T10:37:26.831834"
+      "fetched_at": "2026-06-22T12:55:25.962392"
     },
     {
       "id": "https://spaceflightnow.com/2026/06/12/live-coverage-spacex-to-launch-final-starlink-mission-as-it-begins-publicly-trade-its-stock-on-the-nasdaq-for-the-first-time/",
@@ -478,9 +478,9 @@
       "date": "Fri, 12 Jun 2026 02:06:09 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-06-21T10:37:26.831868"
+      "fetched_at": "2026-06-22T12:55:25.962430"
     }
   ],
   "regulations": [],
-  "last_update": "2026-06-21T10:37:27.524668"
+  "last_update": "2026-06-22T12:55:26.427086"
 }
