@@ -10,7 +10,7 @@
       "date": "Wed, 15 Jul 2026 22:10:41 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330538"
+      "fetched_at": "2026-07-21T09:32:17.852710"
     },
     {
       "id": "https://www.utilitydive.com/news/sunrun-distributed-data-center-pilot-taps-its-home-solar-and-battery-netw/825314/",
@@ -22,31 +22,7 @@
       "date": "Wed, 15 Jul 2026 12:06:04 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330497"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
-      "title": "A most improbable astronaut just went to space",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
-      "sector": "space",
-      "summary": "\"I pretty much, at that point in time, gave up on being an astronaut.\"",
-      "date": "Wed, 15 Jul 2026 11:30:07 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330542"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/virginia-scc-dominion-data-center-transmission-cost-allocation/825300/",
-      "title": "Virginia SCC weighs Dominion data center transmission cost allocation",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/virginia-scc-dominion-data-center-transmission-cost-allocation/825300/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KP-NZsE3EojMbciTvTHP9YO7oY_yJgVY9INp39Hf1ug/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI0OTEyMTA4X1JPQ05h",
-      "date": "Wed, 15 Jul 2026 10:45:44 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330502"
+      "fetched_at": "2026-07-21T09:32:17.852670"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/01/live-coverage-ula-to-launch-final-atlas-5-rocket-supporting-amazon-leos-broadband-internet-satellite-constellation/",
@@ -58,19 +34,67 @@
       "date": "Wed, 01 Jul 2026 23:20:40 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330585"
+      "fetched_at": "2026-07-21T09:32:17.852757"
     },
     {
-      "id": "https://spaceflightnow.com/2026/07/01/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-9/",
-      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/07/01/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-9/",
-      "sector": "space",
-      "summary": "The Starlink 17-46 mission flew on the 77th Falcon 9 rocket launch of the year. Liftoff from pad 4E at Vandenberg Space Force Base happened at 7:58 p.m. PDT (10:58 p.m. EDT / 0258 UTC). <a class=\"mh-e",
-      "date": "Wed, 01 Jul 2026 17:12:31 +0000",
-      "signal_type": "technical",
+      "id": "https://www.energy-storage.news/return-and-engie-enbw-and-zelestra-agree-long-term-bess-tolls-in-spain-italy/",
+      "title": "Return and Engie, EnBW and Zelestra agree long-term BESS tolls in Spain, Italy",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/return-and-engie-enbw-and-zelestra-agree-long-term-bess-tolls-in-spain-italy/",
+      "sector": "energy-storage",
+      "summary": "Return and Engie have agreed a long-term BESS toll in Spain while EnBW and Zelestra have finalised one in Italy, totalling 55MW and 300MW of capacity respectively.",
+      "date": "Tue, 21 Jul 2026 09:05:51 +0000",
+      "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330590"
+      "fetched_at": "2026-07-21T09:32:17.852293"
+    },
+    {
+      "id": "https://www.energy-storage.news/romania-roundup-aukera-enevo-group-and-kraftfeld-energy-and-ppc-renewables-advance-bess-projects/",
+      "title": "Romania ROUNDUP: Aukera, ENEVO Group and Kraftfeld Energy, and PPC Renewables advance BESS projects",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/romania-roundup-aukera-enevo-group-and-kraftfeld-energy-and-ppc-renewables-advance-bess-projects/",
+      "sector": "energy-storage",
+      "summary": "Energy companies are accelerating battery storage deployment in Romania, with Aukera, ENEVO Group and Kraftfeld Energy, and PPC Renewables Romania announcing significant project developments.",
+      "date": "Tue, 21 Jul 2026 09:03:55 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-21T09:32:17.852570"
+    },
+    {
+      "id": "https://www.energy-storage.news/india-awards-long-duration-energy-storage-contracts-for-1344mw-pumped-hydro-utility-scale-flow-battery/",
+      "title": "India awards long-duration energy storage contracts for 1,344MW pumped hydro, utility-scale flow battery",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/india-awards-long-duration-energy-storage-contracts-for-1344mw-pumped-hydro-utility-scale-flow-battery/",
+      "sector": "energy-storage",
+      "summary": "Two big developments for India\u2019s emerging long-duration energy storage (LDES) sector, with contracts awarded for pumped hydro energy storage (PHES) and the country\u2019s first large-scale flow battery.",
+      "date": "Tue, 21 Jul 2026 07:30:05 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-21T09:32:17.852579"
+    },
+    {
+      "id": "https://www.energy-storage.news/european-energy-reaches-financial-close-on-80mwh-mokoan-solar-plus-storage-site-in-australia/",
+      "title": "European Energy reaches financial close on 80MWh Mokoan solar-plus-storage site in Australia",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/european-energy-reaches-financial-close-on-80mwh-mokoan-solar-plus-storage-site-in-australia/",
+      "sector": "energy-storage",
+      "summary": "Danish developer European Energy has reached financial close on the 80MWh Mokoan solar-plus-storage project in Victoria, Australia.",
+      "date": "Tue, 21 Jul 2026 01:58:26 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-21T09:32:17.852585"
+    },
+    {
+      "id": "https://www.energy-storage.news/south-australias-lunio-energy-brings-20mwh-grid-scale-battery-storage-system-online/",
+      "title": "South Australia\u2019s Lunio Energy brings 20MWh grid-scale battery storage system online",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/south-australias-lunio-energy-brings-20mwh-grid-scale-battery-storage-system-online/",
+      "sector": "energy-storage",
+      "summary": "South Australia battery storage developer Lunio Energy has energised its first grid-scale BESS at Strathalbyn and started trading in the NEM.",
+      "date": "Tue, 21 Jul 2026 01:57:31 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-21T09:32:17.852590"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
@@ -82,7 +106,7 @@
       "date": "Thu, 16 Jul 2026 16:19:28 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330530"
+      "fetched_at": "2026-07-21T09:32:17.852702"
     },
     {
       "id": "https://www.utilitydive.com/news/renewables-remain-cheapest-lcoe-rising-lazard/825443/",
@@ -94,7 +118,7 @@
       "date": "Thu, 16 Jul 2026 13:33:09 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330475"
+      "fetched_at": "2026-07-21T09:32:17.852650"
     },
     {
       "id": "https://www.utilitydive.com/news/google-inks-deal-for-massive-arkansas-solar-and-storage-project/825432/",
@@ -106,7 +130,7 @@
       "date": "Thu, 16 Jul 2026 12:34:00 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330480"
+      "fetched_at": "2026-07-21T09:32:17.852654"
     },
     {
       "id": "https://www.utilitydive.com/news/data-center-interconnection-ferc-large-load-show-cause/824501/",
@@ -118,7 +142,7 @@
       "date": "Thu, 16 Jul 2026 12:30:45 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330484"
+      "fetched_at": "2026-07-21T09:32:17.852658"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
@@ -130,7 +154,7 @@
       "date": "Thu, 16 Jul 2026 11:00:21 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330534"
+      "fetched_at": "2026-07-21T09:32:17.852706"
     },
     {
       "id": "https://www.utilitydive.com/news/indiana-urc-affordability-utility-roe-tracker/825409/",
@@ -142,7 +166,7 @@
       "date": "Thu, 16 Jul 2026 10:26:33 -0400",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-07-20T10:18:18.330489"
+      "fetched_at": "2026-07-21T09:32:17.852662"
     },
     {
       "id": "https://www.utilitydive.com/news/retail-electric-rate-increases-outpace-inflation-with-prices-set-to-rise-hi/825391/",
@@ -154,7 +178,7 @@
       "date": "Thu, 16 Jul 2026 09:03:18 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330493"
+      "fetched_at": "2026-07-21T09:32:17.852667"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/",
@@ -166,7 +190,7 @@
       "date": "Thu, 16 Jul 2026 00:44:24 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330546"
+      "fetched_at": "2026-07-21T09:32:17.852718"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-launch-21-communications-satellites-for-the-space-development-agency/",
@@ -178,7 +202,7 @@
       "date": "Thu, 16 Jul 2026 00:12:34 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330550"
+      "fetched_at": "2026-07-21T09:32:17.852722"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/",
@@ -190,23 +214,11 @@
       "date": "Thu, 09 Jul 2026 02:14:49 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330573"
-    },
-    {
-      "id": "https://www.energy-storage.news/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres/",
-      "title": "Australia moves to legislate net-generator requirement for large-scale data centres",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres/",
-      "sector": "energy-storage",
-      "summary": "Australian Prime Minister Anthony Albanese has said that large-scale data centres will be legally required to put at least as much energy into the grid as they draw from it, and that this supply must ",
-      "date": "Sun, 19 Jul 2026 22:48:00 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330417"
+      "fetched_at": "2026-07-21T09:32:17.852745"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "title": "India's first privately developed rocket reaches orbit on dramatic debut launch",
       "source": "Space - Ars Technica",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
       "sector": "space",
@@ -214,7 +226,7 @@
       "date": "Sun, 19 Jul 2026 22:11:21 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330506"
+      "fetched_at": "2026-07-21T09:32:17.852679"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/04/live-coverage-semiconductor-manufacturing-test-bed-to-fly-alongside-starlink-satellites-on-falcon-9-launch/",
@@ -226,7 +238,91 @@
       "date": "Sat, 04 Jul 2026 21:56:12 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330581"
+      "fetched_at": "2026-07-21T09:32:17.852754"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+      "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+      "sector": "space",
+      "summary": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
+      "date": "Mon, 20 Jul 2026 20:30:25 +0000",
+      "signal_type": "capital_deployment",
+      "relevance_score": 8.0,
+      "fetched_at": "2026-07-21T09:32:17.852675"
+    },
+    {
+      "id": "https://www.energy-storage.news/residential-bess-access-without-upfront-cash-palmetto-launches-battery-subscription-in-25-us-states/",
+      "title": "Residential BESS \u2018access without upfront cash\u2019: Palmetto launches battery subscription in 25 US states",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/residential-bess-access-without-upfront-cash-palmetto-launches-battery-subscription-in-25-us-states/",
+      "sector": "energy-storage",
+      "summary": "Residential renewable energy solutions company Palmetto recently launched its Palmetto Energy Backup Plan, a residential battery subscription aimed at making residential storage more accessible in 25 ",
+      "date": "Mon, 20 Jul 2026 13:18:20 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-21T09:32:17.852594"
+    },
+    {
+      "id": "https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/",
+      "title": "SpaceX suffers rare, last-second Falcon 9 rocket launch abort",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/",
+      "sector": "space",
+      "summary": "The Starlink 17-39 mission is SpaceX\u2019s 85th Falcon 9 rocket launch of the year. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:49 a.m. PDT (10:49 a.m. EDT / 1449 UTC). <a class=",
+      "date": "Mon, 20 Jul 2026 12:38:44 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-21T09:32:17.852713"
+    },
+    {
+      "id": "https://www.energy-storage.news/1-8gwh-germany-bess-moves-to-construction-15gwh-progressed-since-grid-fees-decision/",
+      "title": "1.8GWh Germany BESS moves to construction; 15GWh+ progressed since grid fees decision",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/1-8gwh-germany-bess-moves-to-construction-15gwh-progressed-since-grid-fees-decision/",
+      "sector": "energy-storage",
+      "summary": "The shareholders of the 900MW Waltrop BESS project in Germany have approved key infrastructure works for the project, with full construction scheduled for the next few months.",
+      "date": "Mon, 20 Jul 2026 11:44:23 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-21T09:32:17.852599"
+    },
+    {
+      "id": "https://www.energy-storage.news/masdar-reaches-financial-close-on-round-the-clock-hybrid-solar-project-with-19gwh-bess-in-uae/",
+      "title": "Masdar reaches financial close on \u2018round-the-clock\u2019 hybrid solar project with 19GWh BESS in UAE",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/masdar-reaches-financial-close-on-round-the-clock-hybrid-solar-project-with-19gwh-bess-in-uae/",
+      "sector": "energy-storage",
+      "summary": "UAE state-owned IPP Masdar has reached financial close on what it has claimed is the world\u2019s \u201cfirst gigascale 24/7 renewable energy project\u201d.",
+      "date": "Mon, 20 Jul 2026 10:36:00 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-21T09:32:17.852617"
+    },
+    {
+      "id": "https://www.energy-storage.news/eu-releases-electrification-action-plan-reaffirms-200gw-2030-energy-storage-target/",
+      "title": "EU releases Electrification Action Plan, reaffirms 200GW 2030 energy storage target",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/eu-releases-electrification-action-plan-reaffirms-200gw-2030-energy-storage-target/",
+      "sector": "energy-storage",
+      "summary": "The European Commission has released its final Electrification Action Plan, reaffirming its belief that the bloc needs 200GW of energy storage by 2030.",
+      "date": "Mon, 20 Jul 2026 10:18:01 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-21T09:32:17.852623"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/best-buy-adds-more-solar-generation-to-portfolio/825634/",
+      "title": "Best Buy adds more solar generation to portfolio",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/best-buy-adds-more-solar-generation-to-portfolio/825634/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/43ZtubM5CT0CcgBU0dZP0qfH4x_X-aIhN9YzgWxWd6Q/g:nowe:84:244/c:1178:665/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjQzNC5qcGVn",
+      "date": "Mon, 20 Jul 2026 10:10:51 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-07-21T09:32:17.852632"
     },
     {
       "id": "https://www.energy-storage.news/middle-east-southeast-asia-and-india-emerge-as-key-alternate-manufacturing-hubs-to-china/",
@@ -238,43 +334,7 @@
       "date": "Mon, 20 Jul 2026 09:48:51 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330142"
-    },
-    {
-      "id": "https://www.energy-storage.news/hithium-looks-to-replicate-residential-solution-arkvolts-asian-success-into-europe/",
-      "title": "Hithium\u00a0looks to replicate residential solution ARKVOLT\u2019s Asian success into Europe",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/hithium-looks-to-replicate-residential-solution-arkvolts-asian-success-into-europe/",
-      "sector": "energy-storage",
-      "summary": "Hithium,\u00a0an integrated energy storage solutions provider known for its leadership in long-duration energy storage, is now\u00a0seeing strong momentum across its\u00a0residential businesses and\u00a0C&#038;I. We disc",
-      "date": "Mon, 20 Jul 2026 08:16:31 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330397"
-    },
-    {
-      "id": "https://www.energy-storage.news/chint-bridging-ai-infrastructure-and-energy-transition-through-integrated-power-solutions/",
-      "title": "CHINT: Bridging AI infrastructure and energy transition through integrated power solutions",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/chint-bridging-ai-infrastructure-and-energy-transition-through-integrated-power-solutions/",
-      "sector": "energy-storage",
-      "summary": "CHINT Global's Beibei Zheng discusses how the company is responding to Europe's dual challenge of AI sovereignty and energy security.",
-      "date": "Mon, 20 Jul 2026 08:14:53 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330407"
-    },
-    {
-      "id": "https://www.energy-storage.news/australia-adds-9-1gw-of-new-generation-and-storage-in-fy26-with-battery-storage-dominating/",
-      "title": "Australia adds 9.1GW of new generation and storage in FY26 with battery storage dominating",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/australia-adds-9-1gw-of-new-generation-and-storage-in-fy26-with-battery-storage-dominating/",
-      "sector": "energy-storage",
-      "summary": "Australia's NEM connected 9.1GW of new generation and energy storage to full output in FY26, more than double the result achieved in FY25.",
-      "date": "Mon, 20 Jul 2026 07:57:48 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330413"
+      "fetched_at": "2026-07-21T09:32:17.852628"
     },
     {
       "id": "https://www.utilitydive.com/spons/we-dont-need-more-proof-that-flexibility-works-we-need-more-people-using/825192/",
@@ -286,7 +346,7 @@
       "date": "Mon, 20 Jul 2026 05:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330461"
+      "fetched_at": "2026-07-21T09:32:17.852636"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/",
@@ -298,7 +358,7 @@
       "date": "Mon, 13 Jul 2026 19:53:23 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330555"
+      "fetched_at": "2026-07-21T09:32:17.852726"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-6/",
@@ -310,7 +370,7 @@
       "date": "Mon, 13 Jul 2026 18:37:21 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330560"
+      "fetched_at": "2026-07-21T09:32:17.852736"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/06/live-coverage-fire-detectors-military-tech-demos-3d-printers-among-spacex-rideshare-payloads-launching-on-midnight-falcon-9-flight/",
@@ -322,7 +382,7 @@
       "date": "Mon, 06 Jul 2026 21:36:51 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330577"
+      "fetched_at": "2026-07-21T09:32:17.852750"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
@@ -334,7 +394,7 @@
       "date": "Fri, 17 Jul 2026 19:50:18 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330510"
+      "fetched_at": "2026-07-21T09:32:17.852682"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
@@ -346,7 +406,7 @@
       "date": "Fri, 17 Jul 2026 19:19:42 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330514"
+      "fetched_at": "2026-07-21T09:32:17.852686"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
@@ -358,31 +418,7 @@
       "date": "Fri, 17 Jul 2026 16:42:19 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330518"
-    },
-    {
-      "id": "https://www.energy-storage.news/california-batteries-missing-out-on-revenue-due-to-suboptimal-bidding-strategies-gridmatic-analysis-finds/",
-      "title": "California batteries missing out on revenue due to suboptimal bidding strategies, Gridmatic analysis finds",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/california-batteries-missing-out-on-revenue-due-to-suboptimal-bidding-strategies-gridmatic-analysis-finds/",
-      "sector": "energy-storage",
-      "summary": "Battery energy storage systems (BESS) operating in California's grid left approximately US$98 million on the table due to suboptimal bidding strategies, according to a new analysis from Gridmatic.",
-      "date": "Fri, 17 Jul 2026 12:53:57 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330422"
-    },
-    {
-      "id": "https://www.energy-storage.news/eos-to-provide-energy-storage-for-us-department-of-defense-golden-dome-releases-preliminary-q2-financials/",
-      "title": "Eos to provide energy storage for US Department of Defense \u2018Golden Dome,\u2019 releases preliminary Q2 financials",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/eos-to-provide-energy-storage-for-us-department-of-defense-golden-dome-releases-preliminary-q2-financials/",
-      "sector": "energy-storage",
-      "summary": "Zinc hybrid cathode battery and storage system maker Eos Energy Enterprises has announced a strategic partnership with the US Department of Defense (DoD) to \u201cenhance the resilience of national defence",
-      "date": "Fri, 17 Jul 2026 12:45:29 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330427"
+      "fetched_at": "2026-07-21T09:32:17.852690"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
@@ -394,19 +430,7 @@
       "date": "Fri, 17 Jul 2026 11:00:04 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330522"
-    },
-    {
-      "id": "https://www.energy-storage.news/its-on-the-up-now-how-grid-fee-clarity-unlocked-bw-ess-german-ambitions/",
-      "title": "\u2018It\u2019s on the up now\u2019: How grid fee clarity unlocked BW ESS\u2019 German ambitions",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/its-on-the-up-now-how-grid-fee-clarity-unlocked-bw-ess-german-ambitions/",
-      "sector": "energy-storage",
-      "summary": "BW ESS' executive director Roberto Jimenez discusses the company's recently-announced first Germany project, in Klostermansfeld, Saxony-Anhalt, which could be one of Europe's largest when completed in",
-      "date": "Fri, 17 Jul 2026 10:53:00 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330445"
+      "fetched_at": "2026-07-21T09:32:17.852694"
     },
     {
       "id": "https://www.utilitydive.com/news/ai-data-center-growth-utilities-generation-plans/825541/",
@@ -418,19 +442,7 @@
       "date": "Fri, 17 Jul 2026 10:45:39 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330466"
-    },
-    {
-      "id": "https://www.energy-storage.news/waaree-indias-biggest-pv-module-supplier-opens-5-15gwh-battery-storage-assembly-plant/",
-      "title": "Waaree, India\u2019s biggest PV module supplier, opens 5.15GWh battery storage assembly plant",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/waaree-indias-biggest-pv-module-supplier-opens-5-15gwh-battery-storage-assembly-plant/",
-      "sector": "energy-storage",
-      "summary": "A subsidiary of Indian renewable energy equipment and component manufacturer Waaree Energies has opened a battery energy storage system (BESS) enclosure factory.",
-      "date": "Fri, 17 Jul 2026 09:46:20 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330452"
+      "fetched_at": "2026-07-21T09:32:17.852641"
     },
     {
       "id": "https://www.utilitydive.com/news/pjm-capacity-auction-governance-ferc-swett/825508/",
@@ -442,19 +454,7 @@
       "date": "Fri, 17 Jul 2026 08:44:15 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-20T10:18:18.330470"
-    },
-    {
-      "id": "https://www.energy-storage.news/ib-vogt-wins-approval-for-480mwh-battery-storage-site-in-australias-wagga-wagga-special-activation-precinct/",
-      "title": "ib vogt wins approval for 480MWh battery storage site in Australia\u2019s Wagga Wagga Special Activation Precinct",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/ib-vogt-wins-approval-for-480mwh-battery-storage-site-in-australias-wagga-wagga-special-activation-precinct/",
-      "sector": "energy-storage",
-      "summary": "German solar and storage developer ib vogt has received state planning approval for the 120MW/480MWh Wagga North battery energy storage system (BESS) in New South Wales, Australia.",
-      "date": "Fri, 17 Jul 2026 04:21:49 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330456"
+      "fetched_at": "2026-07-21T09:32:17.852645"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
@@ -466,7 +466,7 @@
       "date": "Fri, 17 Jul 2026 00:02:54 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330526"
+      "fetched_at": "2026-07-21T09:32:17.852698"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/",
@@ -478,9 +478,9 @@
       "date": "Fri, 10 Jul 2026 20:59:39 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-20T10:18:18.330569"
+      "fetched_at": "2026-07-21T09:32:17.852741"
     }
   ],
   "regulations": [],
-  "last_update": "2026-07-20T10:18:19.065804"
+  "last_update": "2026-07-21T09:32:18.434039"
 }
