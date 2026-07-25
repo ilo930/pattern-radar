@@ -10,7 +10,7 @@
       "date": "Wed, 22 Jul 2026 17:02:44 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088262"
+      "fetched_at": "2026-07-25T09:05:23.850332"
     },
     {
       "id": "https://www.utilitydive.com/news/ford-and-global-power-products-debut-vehicle-to-home-backup-solution/825928/",
@@ -22,7 +22,7 @@
       "date": "Wed, 22 Jul 2026 13:08:52 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088245"
+      "fetched_at": "2026-07-25T09:05:23.850299"
     },
     {
       "id": "https://www.utilitydive.com/news/utility-model-grid-investment-affordability-roe/825672/",
@@ -34,7 +34,7 @@
       "date": "Wed, 22 Jul 2026 10:27:22 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088248"
+      "fetched_at": "2026-07-25T09:05:23.850303"
     },
     {
       "id": "https://www.utilitydive.com/news/wisconsin-gas-plant-proposals-test-state-review-process/825885/",
@@ -46,7 +46,7 @@
       "date": "Wed, 22 Jul 2026 10:16:18 -0400",
       "signal_type": "technical",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088252"
+      "fetched_at": "2026-07-25T09:05:23.850307"
     },
     {
       "id": "https://www.utilitydive.com/news/srp-marigold-project-board-energy-storage/825813/",
@@ -58,19 +58,7 @@
       "date": "Tue, 21 Jul 2026 12:16:37 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088255"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/carbon-dioxide-emissions-electric-power-eia/825805/",
-      "title": "CO2 emissions from US power sector rose 4% last year",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/carbon-dioxide-emissions-electric-power-eia/825805/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/xJaMKWDWn2ivaZ2vYOShBDdK8TUAaOZEsrQpfWi53vc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LZW50dWNreV9jb2FsX3BsYW50LmpwZw==.web",
-      "date": "Tue, 21 Jul 2026 12:06:48 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088259"
+      "fetched_at": "2026-07-25T09:05:23.850311"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-to-launch-novel-geosynchronous-robotic-servicing-satellite-on-decade-long-mission/",
@@ -82,7 +70,7 @@
       "date": "Tue, 21 Jul 2026 11:46:14 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088297"
+      "fetched_at": "2026-07-25T09:05:23.850369"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-tries-again-to-launch-starlink-mission-from-california-following-abort/",
@@ -94,11 +82,11 @@
       "date": "Tue, 21 Jul 2026 10:49:41 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088301"
+      "fetched_at": "2026-07-25T09:05:23.850379"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/",
-      "title": "Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work",
+      "title": "Launch preview: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work",
       "source": "Spaceflight Now",
       "url": "https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/",
       "sector": "space",
@@ -106,7 +94,7 @@
       "date": "Thu, 23 Jul 2026 19:12:50 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088294"
+      "fetched_at": "2026-07-25T09:05:23.850365"
     },
     {
       "id": "https://www.energy-storage.news/brookfield-buys-bess-developer-aypa-power-from-blackstone/",
@@ -118,7 +106,7 @@
       "date": "Thu, 23 Jul 2026 14:53:49 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088192"
+      "fetched_at": "2026-07-25T09:05:23.850234"
     },
     {
       "id": "https://www.utilitydive.com/news/renewables-and-storage-can-meet-one-third-of-us-industrial-heat-demand-r/826057/",
@@ -130,7 +118,7 @@
       "date": "Thu, 23 Jul 2026 13:17:17 -0400",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088227"
+      "fetched_at": "2026-07-25T09:05:23.850276"
     },
     {
       "id": "https://www.utilitydive.com/news/ge-vernova-gas-turbine-backlog-climbs-to-116-gw/826039/",
@@ -142,7 +130,7 @@
       "date": "Thu, 23 Jul 2026 12:07:52 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088231"
+      "fetched_at": "2026-07-25T09:05:23.850280"
     },
     {
       "id": "https://www.energy-storage.news/germany-sets-september-date-for-first-capacity-market-auction/",
@@ -154,7 +142,7 @@
       "date": "Thu, 23 Jul 2026 11:40:09 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088196"
+      "fetched_at": "2026-07-25T09:05:23.850239"
     },
     {
       "id": "https://www.utilitydive.com/news/people-are-critical-infrastructure-too-utilities-must-do-more-or-lose-tal/824765/",
@@ -166,7 +154,7 @@
       "date": "Thu, 23 Jul 2026 11:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088234"
+      "fetched_at": "2026-07-25T09:05:23.850286"
     },
     {
       "id": "https://www.energy-storage.news/analysis-recent-ai-data-centre-bess-technology-and-deployment-partnerships/",
@@ -178,7 +166,7 @@
       "date": "Thu, 23 Jul 2026 10:37:12 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088199"
+      "fetched_at": "2026-07-25T09:05:23.850257"
     },
     {
       "id": "https://www.energy-storage.news/growing-interest-in-us-microgrids-attracts-tax-equity-investor-foss-company-to-us30-million-maryland-deal/",
@@ -190,7 +178,7 @@
       "date": "Thu, 23 Jul 2026 10:14:33 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-07-24T09:26:59.088205"
+      "fetched_at": "2026-07-25T09:05:23.850263"
     },
     {
       "id": "https://www.energy-storage.news/on-energy-and-crusoe-partner-on-ups-technology-for-us-data-centres-skeleton-tech-in-800-vdc-partnership-with-dg-matrix/",
@@ -202,19 +190,7 @@
       "date": "Thu, 23 Jul 2026 10:05:47 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088219"
-    },
-    {
-      "id": "https://www.energy-storage.news/spain-and-portugal-back-3-5gw-of-new-pumped-hydro-energy-storage-capacity/",
-      "title": "Spain and Portugal back 3.5GW of new pumped hydro energy storage capacity",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/spain-and-portugal-back-3-5gw-of-new-pumped-hydro-energy-storage-capacity/",
-      "sector": "energy-storage",
-      "summary": "Spain has awarded \u20ac165 million to seven pumped hydro storage projects totalling around 2.1GW/21GWh, while Portugal has set a target of 1.4GW of new pumped hydro capacity by 2040.",
-      "date": "Thu, 23 Jul 2026 10:01:03 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088223"
+      "fetched_at": "2026-07-25T09:05:23.850267"
     },
     {
       "id": "https://www.utilitydive.com/news/doe-electricity-export-authorization-energy-emergency/825876/",
@@ -226,7 +202,7 @@
       "date": "Thu, 23 Jul 2026 09:33:10 -0400",
       "signal_type": "regulatory",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088237"
+      "fetched_at": "2026-07-25T09:05:23.850290"
     },
     {
       "id": "https://www.utilitydive.com/news/ferc-grid-enhancing-technology-incentives-atts-senate-hearing/825992/",
@@ -238,31 +214,7 @@
       "date": "Thu, 23 Jul 2026 08:41:39 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088241"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
-      "title": "Could China and Russia really destroy Starlink? Only with a boomerang.",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
-      "sector": "space",
-      "summary": "\"We will likely have similar concerns and discussions when China fields its Starlink-like constellation.\"",
-      "date": "Thu, 16 Jul 2026 16:19:28 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088288"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
-      "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
-      "sector": "space",
-      "summary": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
-      "date": "Thu, 16 Jul 2026 11:00:21 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088291"
+      "fetched_at": "2026-07-25T09:05:23.850294"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/",
@@ -274,7 +226,7 @@
       "date": "Thu, 16 Jul 2026 00:44:24 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088311"
+      "fetched_at": "2026-07-25T09:05:23.850389"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-launch-21-communications-satellites-for-the-space-development-agency/",
@@ -286,19 +238,7 @@
       "date": "Thu, 16 Jul 2026 00:12:34 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088315"
-    },
-    {
-      "id": "https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/",
-      "title": "SpaceX launches Falcon 9 rocket on record-breaking 36th flight",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/",
-      "sector": "space",
-      "summary": "The flight-leading booster, B1067, launched the Starlink 10-42 mission from Cape Canaveral Space Force Station. Liftoff from pad 40 happened at 5:25 a.m. EDT (0925 UTC) on Thursday morning. <a class=\"",
-      "date": "Thu, 09 Jul 2026 02:14:49 +0000",
-      "signal_type": "technical",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088328"
+      "fetched_at": "2026-07-25T09:05:23.850393"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
@@ -310,7 +250,19 @@
       "date": "Sun, 19 Jul 2026 22:11:21 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088269"
+      "fetched_at": "2026-07-25T09:05:23.850340"
+    },
+    {
+      "id": "https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/",
+      "title": "Super Heavy-Starship rocket chalks up mostly successful test flight",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/",
+      "sector": "space",
+      "summary": "Powered by 33 methane-fueled Raptor engines, the 397-foot-tall two-stage rocket blasted off from SpaceX's \"Starbase,\" Texas, launch site at 5:51 p.m. EDT, putting on a spectacular show for area reside",
+      "date": "Sat, 25 Jul 2026 01:08:45 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-25T09:05:23.850357"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
@@ -322,7 +274,7 @@
       "date": "Mon, 20 Jul 2026 20:30:25 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-07-24T09:26:59.088266"
+      "fetched_at": "2026-07-25T09:05:23.850336"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/",
@@ -334,7 +286,7 @@
       "date": "Mon, 20 Jul 2026 12:38:44 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088304"
+      "fetched_at": "2026-07-25T09:05:23.850384"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/",
@@ -346,7 +298,7 @@
       "date": "Mon, 13 Jul 2026 19:53:23 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088319"
+      "fetched_at": "2026-07-25T09:05:23.850397"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-6/",
@@ -358,7 +310,91 @@
       "date": "Mon, 13 Jul 2026 18:37:21 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088322"
+      "fetched_at": "2026-07-25T09:05:23.850402"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+      "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+      "sector": "space",
+      "summary": "\"Any potential damage will be assessed when it is safe to do so.\"",
+      "date": "Fri, 24 Jul 2026 22:28:20 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-07-25T09:05:23.850315"
+    },
+    {
+      "id": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
+      "title": "Critical NASA Deep Space ground station in Spain evacuated due to wildfires",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
+      "sector": "space",
+      "summary": "The Madrid Deep Space Communications Complex is one of three critical sites around the world that communicate with spacecraft beyond the reach of near-Earth communications capabilities. <a class=\"mh-e",
+      "date": "Fri, 24 Jul 2026 20:11:08 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-07-25T09:05:23.850361"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
+      "title": "European Union grants US request to restrict satellite images of Iran War region",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
+      "sector": "space",
+      "summary": "New delay on Copernicus satellite pics comes as US ramps up war with Iran again.",
+      "date": "Fri, 24 Jul 2026 17:45:05 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-25T09:05:23.850320"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+      "title": "This is the world's most advanced robotic servicing satellite\u2014that we know about",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+      "sector": "space",
+      "summary": "\"These are things that tend to be really hard.\"",
+      "date": "Fri, 24 Jul 2026 15:23:06 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-25T09:05:23.850324"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
+      "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
+      "sector": "space",
+      "summary": "Relativity Space announced plans to build a second rocket factory near Cape Canaveral, Florida.",
+      "date": "Fri, 24 Jul 2026 14:34:25 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-07-25T09:05:23.850328"
+    },
+    {
+      "id": "https://www.energy-storage.news/poland-r-power-enlists-epcs-for-2-2gwh-of-bess-edf-and-eurus-eiffel-and-ergy-co-invest-in-projects/",
+      "title": "Poland: R.Power enlists EPCs for 2.2GWh of BESS, EDF and Eurus, Eiffel and Ergy co-invest in projects",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/poland-r-power-enlists-epcs-for-2-2gwh-of-bess-edf-and-eurus-eiffel-and-ergy-co-invest-in-projects/",
+      "sector": "energy-storage",
+      "summary": "It's been a busy week for the large-scale energy storage market in Poland, with projects moved to construction and delivery by EDF Power Solutions &#038; Eurus Energy Europe, Eiffel Investment Group &",
+      "date": "Fri, 24 Jul 2026 10:48:49 +0000",
+      "signal_type": "capital_deployment",
+      "relevance_score": 8.0,
+      "fetched_at": "2026-07-25T09:05:23.849969"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/ferc-pjm-governance-reforms-data-centers-capacity-market/826140/",
+      "title": "FERC will impose reforms if PJM fails to adopt changes by September, chairman warns",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/ferc-pjm-governance-reforms-data-centers-capacity-market/826140/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/LqpQa-WF_UYrSLcADu13TSO2mdfMBis-pLYEtB12PJA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzI1M19mNmVzN1FELnBuZw==",
+      "date": "Fri, 24 Jul 2026 10:48:44 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-07-25T09:05:23.850272"
     },
     {
       "id": "https://www.energy-storage.news/sodium-ion-bess-catl-in-2gwh-eastern-europe-collaboration-ess-inc-signs-loi-for-500mwh-of-us-deployments/",
@@ -370,7 +406,7 @@
       "date": "Fri, 24 Jul 2026 08:40:48 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.087922"
+      "fetched_at": "2026-07-25T09:05:23.850209"
     },
     {
       "id": "https://www.energy-storage.news/alpiq-follows-harmony-energy-acquisition-with-1-2gwh-project-announcement/",
@@ -382,7 +418,7 @@
       "date": "Fri, 24 Jul 2026 08:35:47 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088174"
+      "fetched_at": "2026-07-25T09:05:23.850218"
     },
     {
       "id": "https://www.energy-storage.news/ai-data-centres-battery-dilemma-when-mission-critical-uptime-meets-thermal-runaway-risk/",
@@ -394,7 +430,7 @@
       "date": "Fri, 24 Jul 2026 08:16:16 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088183"
+      "fetched_at": "2026-07-25T09:05:23.850224"
     },
     {
       "id": "https://www.energy-storage.news/europe-roundup-grenergy-maxsolar-with-saft-and-amarenco-progress-bess-projects-in-spain-germany-and-france/",
@@ -406,7 +442,7 @@
       "date": "Fri, 24 Jul 2026 07:01:49 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088189"
+      "fetched_at": "2026-07-25T09:05:23.850229"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
@@ -418,7 +454,7 @@
       "date": "Fri, 17 Jul 2026 19:50:18 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088272"
+      "fetched_at": "2026-07-25T09:05:23.850345"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
@@ -430,7 +466,7 @@
       "date": "Fri, 17 Jul 2026 19:19:42 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088275"
+      "fetched_at": "2026-07-25T09:05:23.850349"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
@@ -442,45 +478,9 @@
       "date": "Fri, 17 Jul 2026 16:42:19 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088278"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
-      "title": "Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
-      "sector": "space",
-      "summary": "\"We have done everything that could be done to test Vikram-1 on ground.\"",
-      "date": "Fri, 17 Jul 2026 11:00:04 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-07-24T09:26:59.088282"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-      "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-      "sector": "space",
-      "summary": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
-      "date": "Fri, 17 Jul 2026 00:02:54 +0000",
-      "signal_type": "technical",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088285"
-    },
-    {
-      "id": "https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/",
-      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/",
-      "sector": "space",
-      "summary": "The Starlink 17-48 mission added another 24 satellites to the low Earth orbit constellation. Liftoff from pad 4E at Vandenberg Space Force Base happened at 8:01 p.m. PDT (11:01 p.m. EDT / 0301 UTC). <",
-      "date": "Fri, 10 Jul 2026 20:59:39 +0000",
-      "signal_type": "technical",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-07-24T09:26:59.088325"
+      "fetched_at": "2026-07-25T09:05:23.850353"
     }
   ],
   "regulations": [],
-  "last_update": "2026-07-24T09:26:59.828093"
+  "last_update": "2026-07-25T09:05:24.286540"
 }
