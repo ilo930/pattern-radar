@@ -10,7 +10,7 @@
       "date": "Wed, 29 Jul 2026 23:15:30 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483612"
+      "fetched_at": "2026-08-02T09:15:07.110446"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
@@ -22,7 +22,7 @@
       "date": "Wed, 29 Jul 2026 17:24:41 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483575"
+      "fetched_at": "2026-08-02T09:15:07.110413"
     },
     {
       "id": "https://www.utilitydive.com/news/cms-energy-plans-to-sell-renewable-assets-to-focus-on-regulated-utilities/826489/",
@@ -34,7 +34,7 @@
       "date": "Wed, 29 Jul 2026 12:12:01 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483550"
+      "fetched_at": "2026-08-02T09:15:07.110392"
     },
     {
       "id": "https://www.utilitydive.com/news/v2g-could-deliver-15-times-more-value-than-one-way-managed-ev-charging-rep/826458/",
@@ -46,19 +46,7 @@
       "date": "Wed, 29 Jul 2026 09:51:19 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483554"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/doe-mulls-changes-to-biden-era-transformer-rule-raising-utility-concerns/826440/",
-      "title": "DOE mulls changes to Biden-era transformer rule, raising utility concerns",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/doe-mulls-changes-to-biden-era-transformer-rule-raising-utility-concerns/826440/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/sLh_pu60YnKxReMaQg-POX3DhUd8aexrJxZF9XDOOyw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UcmFuc2Zvcm1lcnMuanBn.webp\" /></div><",
-      "date": "Wed, 29 Jul 2026 06:40:40 -0400",
-      "signal_type": "regulatory",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483558"
+      "fetched_at": "2026-08-02T09:15:07.110396"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
@@ -70,19 +58,7 @@
       "date": "Tue, 28 Jul 2026 22:09:00 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483579"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/30-mw-nebraska-microgrid-gets-a-non-lithium-battery-boost/826393/",
-      "title": "30-MW Nebraska microgrid gets a non-lithium battery boost",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/30-mw-nebraska-microgrid-gets-a-non-lithium-battery-boost/826393/",
-      "sector": "energy-storage",
-      "summary": "<p>Lincoln Electric System is energizing a 3-MW/12-MWh zinc-based battery to support the Nebraska state Capitol complex and other critical infrastructure.</p>",
-      "date": "Tue, 28 Jul 2026 14:16:21 -0400",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483562"
+      "fetched_at": "2026-08-02T09:15:07.110417"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-to-launch-novel-geosynchronous-robotic-servicing-satellite-on-decade-long-mission/",
@@ -94,7 +70,7 @@
       "date": "Tue, 21 Jul 2026 11:46:14 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483639"
+      "fetched_at": "2026-08-02T09:15:07.110471"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-tries-again-to-launch-starlink-mission-from-california-following-abort/",
@@ -106,7 +82,7 @@
       "date": "Tue, 21 Jul 2026 10:49:41 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483643"
+      "fetched_at": "2026-08-02T09:15:07.110476"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/",
@@ -118,7 +94,7 @@
       "date": "Thu, 30 Jul 2026 17:35:57 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483571"
+      "fetched_at": "2026-08-02T09:15:07.110409"
     },
     {
       "id": "https://www.utilitydive.com/news/texas-approves-ai-data-center-co-location-next-to-wind-farm-with-curtailme/826617/",
@@ -130,7 +106,7 @@
       "date": "Thu, 30 Jul 2026 12:57:06 -0400",
       "signal_type": "regulatory",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483527"
+      "fetched_at": "2026-08-02T09:15:07.110371"
     },
     {
       "id": "https://www.utilitydive.com/news/the-plug-in-solar-solution-that-utilities-and-lawmakers-can-agree-on-2/826058/",
@@ -142,7 +118,7 @@
       "date": "Thu, 30 Jul 2026 12:45:50 -0400",
       "signal_type": "regulatory",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483532"
+      "fetched_at": "2026-08-02T09:15:07.110376"
     },
     {
       "id": "https://www.energy-storage.news/aecon-executes-energy-storage-agreement-for-1200mwh-ontario-bess/",
@@ -154,7 +130,7 @@
       "date": "Thu, 30 Jul 2026 12:27:15 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483489"
+      "fetched_at": "2026-08-02T09:15:07.110323"
     },
     {
       "id": "https://www.energy-storage.news/eolian-begins-construction-on-1-06gwh-ohio-bess-largest-system-built-in-pjm/",
@@ -166,7 +142,7 @@
       "date": "Thu, 30 Jul 2026 12:17:14 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483507"
+      "fetched_at": "2026-08-02T09:15:07.110341"
     },
     {
       "id": "https://www.utilitydive.com/news/california-carbon-pricing-program-generated-362b-for-climate-initiatives-carb/826598/",
@@ -178,7 +154,7 @@
       "date": "Thu, 30 Jul 2026 11:37:41 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483537"
+      "fetched_at": "2026-08-02T09:15:07.110380"
     },
     {
       "id": "https://www.energy-storage.news/video-rept-batteros-overseas-team-on-navigating-the-evolving-landscape-and-requirements-for-chinese-oems/",
@@ -190,7 +166,7 @@
       "date": "Thu, 30 Jul 2026 10:57:58 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483513"
+      "fetched_at": "2026-08-02T09:15:07.110347"
     },
     {
       "id": "https://www.energy-storage.news/central-eastern-europe-uks-alcemi-buys-2-3gwh-romania-projects-slovakias-biggest-bess-brought-online/",
@@ -202,7 +178,7 @@
       "date": "Thu, 30 Jul 2026 10:30:03 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483518"
+      "fetched_at": "2026-08-02T09:15:07.110352"
     },
     {
       "id": "https://www.utilitydive.com/news/entergy-cottonwood-texas-gas-plant-meta/826565/",
@@ -214,7 +190,7 @@
       "date": "Thu, 30 Jul 2026 08:53:57 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483541"
+      "fetched_at": "2026-08-02T09:15:07.110384"
     },
     {
       "id": "https://www.utilitydive.com/news/firstenergy-data-center-west-virginia-maidsville-earnings/826558/",
@@ -226,7 +202,7 @@
       "date": "Thu, 30 Jul 2026 08:43:51 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483546"
+      "fetched_at": "2026-08-02T09:15:07.110388"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/",
@@ -238,7 +214,7 @@
       "date": "Thu, 23 Jul 2026 19:12:50 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483634"
+      "fetched_at": "2026-08-02T09:15:07.110467"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/",
@@ -250,7 +226,7 @@
       "date": "Thu, 16 Jul 2026 00:44:24 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483651"
+      "fetched_at": "2026-08-02T09:15:07.110485"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
@@ -262,7 +238,7 @@
       "date": "Sat, 25 Jul 2026 17:47:22 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483587"
+      "fetched_at": "2026-08-02T09:15:07.110425"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
@@ -274,7 +250,7 @@
       "date": "Sat, 25 Jul 2026 13:58:51 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483616"
+      "fetched_at": "2026-08-02T09:15:07.110450"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/",
@@ -286,7 +262,19 @@
       "date": "Sat, 25 Jul 2026 01:08:45 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483620"
+      "fetched_at": "2026-08-02T09:15:07.110454"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+      "sector": "space",
+      "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+      "date": "Sat, 01 Aug 2026 18:20:11 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-08-02T09:15:07.110400"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
@@ -298,7 +286,7 @@
       "date": "Mon, 27 Jul 2026 18:34:40 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483583"
+      "fetched_at": "2026-08-02T09:15:07.110421"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/",
@@ -310,7 +298,7 @@
       "date": "Mon, 20 Jul 2026 12:38:44 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483647"
+      "fetched_at": "2026-08-02T09:15:07.110480"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/31/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-12/",
@@ -322,7 +310,7 @@
       "date": "Fri, 31 Jul 2026 18:07:54 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483608"
+      "fetched_at": "2026-08-02T09:15:07.110441"
     },
     {
       "id": "https://www.energy-storage.news/antora-energy-closes-us550-million-series-c-to-scale-us-thermal-battery-deployment/",
@@ -334,7 +322,7 @@
       "date": "Fri, 31 Jul 2026 11:48:18 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-08-01T09:11:30.483215"
+      "fetched_at": "2026-08-02T09:15:07.110060"
     },
     {
       "id": "https://www.energy-storage.news/veolia-to-operate-350mw-microgrid-for-ai-data-centre-in-central-ohio/",
@@ -346,7 +334,7 @@
       "date": "Fri, 31 Jul 2026 11:43:43 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483459"
+      "fetched_at": "2026-08-02T09:15:07.110294"
     },
     {
       "id": "https://www.energy-storage.news/business-as-usual-just-accelerated-harmony-energy-ceo-on-life-after-alpiq-acquisition/",
@@ -358,11 +346,11 @@
       "date": "Fri, 31 Jul 2026 11:24:41 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483468"
+      "fetched_at": "2026-08-02T09:15:07.110303"
     },
     {
       "id": "https://www.utilitydive.com/news/california-utilities-credit-downgrades-wildfire-liability-edison/826678/",
-      "title": "California utilities face credit downgrades without wildfire reforms, Edison CEO warns",
+      "title": "Edison CEO: California utilities face credit downgrades without wildfire reforms",
       "source": "Utility Dive - Latest News",
       "url": "https://www.utilitydive.com/news/california-utilities-credit-downgrades-wildfire-liability-edison/826678/",
       "sector": "energy-storage",
@@ -370,7 +358,7 @@
       "date": "Fri, 31 Jul 2026 11:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483523"
+      "fetched_at": "2026-08-02T09:15:07.110357"
     },
     {
       "id": "https://www.energy-storage.news/greenvolt-inaugurates-200mw-800mwh-capacity-market-contracted-bess-in-poland/",
@@ -382,7 +370,7 @@
       "date": "Fri, 31 Jul 2026 10:40:19 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483474"
+      "fetched_at": "2026-08-02T09:15:07.110309"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
@@ -394,7 +382,31 @@
       "date": "Fri, 31 Jul 2026 10:30:24 +0000",
       "signal_type": "regulatory",
       "relevance_score": 7.5,
-      "fetched_at": "2026-08-01T09:11:30.483567"
+      "fetched_at": "2026-08-02T09:15:07.110404"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/xcel-energy-on-track-retail-sales-growth-this-year-executives-say/826705/",
+      "title": "Xcel Energy on track for 3% retail sales growth this year, executives say",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/xcel-energy-on-track-retail-sales-growth-this-year-executives-say/826705/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jdEQG5pYAzFg0KgRgQdu8iYOyKTSKERN4vqK5t5chWg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tb250aWNlbGxvLmpwZw==.webp\" /></div><",
+      "date": "Fri, 31 Jul 2026 08:30:38 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-08-02T09:15:07.110362"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/exelon-data-center-load-new-jersey-battery-earnings/826686/",
+      "title": "Exelon \u2018high probability\u2019 data center load falls 40%",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/exelon-data-center-load-new-jersey-battery-earnings/826686/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/bLDRpFTLS7kveLk87eltsk6CwscVamsfyRB_16ER-uU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80ODgyMjMwMTZfMTI4Mjk2MjE5MzMwMTUwOF81",
+      "date": "Fri, 31 Jul 2026 07:57:09 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-08-02T09:15:07.110366"
     },
     {
       "id": "https://www.energy-storage.news/chinas-15th-five-year-carbon-peaking-action-plan-aims-to-accelerate-shift-of-energy-mix-from-coal-dominant/",
@@ -406,7 +418,7 @@
       "date": "Fri, 31 Jul 2026 05:40:47 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483479"
+      "fetched_at": "2026-08-02T09:15:07.110314"
     },
     {
       "id": "https://www.energy-storage.news/thermal-energy-storage-company-1414-degrees-secures-1gw-data-centre-deal-in-south-australia/",
@@ -418,7 +430,7 @@
       "date": "Fri, 31 Jul 2026 03:32:11 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483484"
+      "fetched_at": "2026-08-02T09:15:07.110319"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
@@ -430,7 +442,7 @@
       "date": "Fri, 24 Jul 2026 22:28:20 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483591"
+      "fetched_at": "2026-08-02T09:15:07.110429"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
@@ -442,7 +454,7 @@
       "date": "Fri, 24 Jul 2026 20:11:08 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-01T09:11:30.483630"
+      "fetched_at": "2026-08-02T09:15:07.110463"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
@@ -454,7 +466,7 @@
       "date": "Fri, 24 Jul 2026 17:45:05 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483595"
+      "fetched_at": "2026-08-02T09:15:07.110433"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
@@ -466,21 +478,9 @@
       "date": "Fri, 24 Jul 2026 15:23:06 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483600"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
-      "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
-      "sector": "space",
-      "summary": "Relativity Space announced plans to build a second rocket factory near Cape Canaveral, Florida.",
-      "date": "Fri, 24 Jul 2026 14:34:25 +0000",
-      "signal_type": "technical",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-08-01T09:11:30.483604"
+      "fetched_at": "2026-08-02T09:15:07.110437"
     }
   ],
   "regulations": [],
-  "last_update": "2026-08-01T09:11:31.192769"
+  "last_update": "2026-08-02T09:15:07.641380"
 }
