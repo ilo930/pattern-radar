@@ -10,7 +10,7 @@
       "date": "Wed, 29 Jul 2026 23:15:30 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110446"
+      "fetched_at": "2026-08-03T10:49:48.468308"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
@@ -22,31 +22,7 @@
       "date": "Wed, 29 Jul 2026 17:24:41 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110413"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/cms-energy-plans-to-sell-renewable-assets-to-focus-on-regulated-utilities/826489/",
-      "title": "CMS Energy plans to sell renewable assets to focus on regulated utilities",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/cms-energy-plans-to-sell-renewable-assets-to-focus-on-regulated-utilities/826489/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/QSKSABRqpDLq0QBTzK4WTgYp1xXPJXx3VYvTNE0Dhpc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTY3MzA4MDk0LmpwZw==",
-      "date": "Wed, 29 Jul 2026 12:12:01 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110392"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/v2g-could-deliver-15-times-more-value-than-one-way-managed-ev-charging-rep/826458/",
-      "title": "V2G could deliver 15 times more value than one-way managed EV charging: report",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/v2g-could-deliver-15-times-more-value-than-one-way-managed-ev-charging-rep/826458/",
-      "sector": "energy-storage",
-      "summary": "<p>The U.S. fleet of bidirectional-capable electric vehicles is growing, and regulatory reforms could help utilities unlock $7 billion in potential value, according to an E3 analysis.</p>",
-      "date": "Wed, 29 Jul 2026 09:51:19 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110396"
+      "fetched_at": "2026-08-03T10:49:48.468275"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
@@ -58,7 +34,7 @@
       "date": "Tue, 28 Jul 2026 22:09:00 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110417"
+      "fetched_at": "2026-08-03T10:49:48.468279"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-to-launch-novel-geosynchronous-robotic-servicing-satellite-on-decade-long-mission/",
@@ -70,7 +46,7 @@
       "date": "Tue, 21 Jul 2026 11:46:14 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110471"
+      "fetched_at": "2026-08-03T10:49:48.468335"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-tries-again-to-launch-starlink-mission-from-california-following-abort/",
@@ -82,7 +58,7 @@
       "date": "Tue, 21 Jul 2026 10:49:41 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110476"
+      "fetched_at": "2026-08-03T10:49:48.468339"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/",
@@ -94,7 +70,7 @@
       "date": "Thu, 30 Jul 2026 17:35:57 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110409"
+      "fetched_at": "2026-08-03T10:49:48.468270"
     },
     {
       "id": "https://www.utilitydive.com/news/texas-approves-ai-data-center-co-location-next-to-wind-farm-with-curtailme/826617/",
@@ -106,7 +82,7 @@
       "date": "Thu, 30 Jul 2026 12:57:06 -0400",
       "signal_type": "regulatory",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110371"
+      "fetched_at": "2026-08-03T10:49:48.468245"
     },
     {
       "id": "https://www.utilitydive.com/news/the-plug-in-solar-solution-that-utilities-and-lawmakers-can-agree-on-2/826058/",
@@ -118,7 +94,7 @@
       "date": "Thu, 30 Jul 2026 12:45:50 -0400",
       "signal_type": "regulatory",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110376"
+      "fetched_at": "2026-08-03T10:49:48.468249"
     },
     {
       "id": "https://www.energy-storage.news/aecon-executes-energy-storage-agreement-for-1200mwh-ontario-bess/",
@@ -130,19 +106,7 @@
       "date": "Thu, 30 Jul 2026 12:27:15 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110323"
-    },
-    {
-      "id": "https://www.energy-storage.news/eolian-begins-construction-on-1-06gwh-ohio-bess-largest-system-built-in-pjm/",
-      "title": "Eolian begins construction on 1.06GWh Ohio BESS, largest system built in PJM",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/eolian-begins-construction-on-1-06gwh-ohio-bess-largest-system-built-in-pjm/",
-      "sector": "energy-storage",
-      "summary": "IPP Eolian has begun construction on Flint Grid, a 200MW/1.06GWh energy storage project in Jersey Township, Licking County, Ohio, US.",
-      "date": "Thu, 30 Jul 2026 12:17:14 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110341"
+      "fetched_at": "2026-08-03T10:49:48.468214"
     },
     {
       "id": "https://www.utilitydive.com/news/california-carbon-pricing-program-generated-362b-for-climate-initiatives-carb/826598/",
@@ -154,31 +118,7 @@
       "date": "Thu, 30 Jul 2026 11:37:41 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110380"
-    },
-    {
-      "id": "https://www.energy-storage.news/video-rept-batteros-overseas-team-on-navigating-the-evolving-landscape-and-requirements-for-chinese-oems/",
-      "title": "VIDEO: Rept Battero\u2019s overseas team on navigating the evolving landscape and requirements for Chinese OEMs",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/video-rept-batteros-overseas-team-on-navigating-the-evolving-landscape-and-requirements-for-chinese-oems/",
-      "sector": "energy-storage",
-      "summary": "How do Chinese OEMs respond to evolving customer requirements and new risks that come with business outside their home market? We sat down with executives from Rept Battero at Intersolar in June to di",
-      "date": "Thu, 30 Jul 2026 10:57:58 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110347"
-    },
-    {
-      "id": "https://www.energy-storage.news/central-eastern-europe-uks-alcemi-buys-2-3gwh-romania-projects-slovakias-biggest-bess-brought-online/",
-      "title": "Central & Eastern Europe: UK\u2019s Alcemi buys 2.3GWh Romania projects, Slovakia\u2019s biggest BESS brought online",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/central-eastern-europe-uks-alcemi-buys-2-3gwh-romania-projects-slovakias-biggest-bess-brought-online/",
-      "sector": "energy-storage",
-      "summary": "Alcemi, developer of some of the UK\u2019s biggest projects, has entered the Romanian battery storage market, while Slovakia\u2019s biggest project to date has gone into operation.",
-      "date": "Thu, 30 Jul 2026 10:30:03 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110352"
+      "fetched_at": "2026-08-03T10:49:48.468253"
     },
     {
       "id": "https://www.utilitydive.com/news/entergy-cottonwood-texas-gas-plant-meta/826565/",
@@ -190,19 +130,7 @@
       "date": "Thu, 30 Jul 2026 08:53:57 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110384"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/firstenergy-data-center-west-virginia-maidsville-earnings/826558/",
-      "title": "FirstEnergy data center contracts surge 50% in Q2",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/firstenergy-data-center-west-virginia-maidsville-earnings/826558/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Lc3mxNqmXdfz7fM-I4lINDOvRj5gxo5T9E243ETjgIw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxODUxMTM5XzEuanBn",
-      "date": "Thu, 30 Jul 2026 08:43:51 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110388"
+      "fetched_at": "2026-08-03T10:49:48.468257"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/",
@@ -214,7 +142,7 @@
       "date": "Thu, 23 Jul 2026 19:12:50 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110467"
+      "fetched_at": "2026-08-03T10:49:48.468330"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/",
@@ -226,7 +154,7 @@
       "date": "Thu, 16 Jul 2026 00:44:24 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110485"
+      "fetched_at": "2026-08-03T10:49:48.468348"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
@@ -238,7 +166,7 @@
       "date": "Sat, 25 Jul 2026 17:47:22 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110425"
+      "fetched_at": "2026-08-03T10:49:48.468287"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
@@ -250,7 +178,7 @@
       "date": "Sat, 25 Jul 2026 13:58:51 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110450"
+      "fetched_at": "2026-08-03T10:49:48.468312"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/",
@@ -262,7 +190,7 @@
       "date": "Sat, 25 Jul 2026 01:08:45 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110454"
+      "fetched_at": "2026-08-03T10:49:48.468316"
     },
     {
       "id": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
@@ -274,7 +202,7 @@
       "date": "Sat, 01 Aug 2026 18:20:11 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110400"
+      "fetched_at": "2026-08-03T10:49:48.468262"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
@@ -286,7 +214,7 @@
       "date": "Mon, 27 Jul 2026 18:34:40 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110421"
+      "fetched_at": "2026-08-03T10:49:48.468283"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/",
@@ -298,7 +226,79 @@
       "date": "Mon, 20 Jul 2026 12:38:44 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110480"
+      "fetched_at": "2026-08-03T10:49:48.468343"
+    },
+    {
+      "id": "https://www.energy-storage.news/samsung-sdi-on-track-with-us-lfp-cell-production-expects-demand-to-outstrip-production/",
+      "title": "Samsung SDI on track with US LFP cell production, expects demand to outstrip production",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/samsung-sdi-on-track-with-us-lfp-cell-production-expects-demand-to-outstrip-production/",
+      "sector": "energy-storage",
+      "summary": "Samsung SDI is on track to begin production of lithium iron phosphate (LFP) battery cells in the US in the third quarter of this year.",
+      "date": "Mon, 03 Aug 2026 08:31:51 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-08-03T10:49:48.467928"
+    },
+    {
+      "id": "https://www.utilitydive.com/spons/how-pge-scaled-home-energy-reports-into-wide-ranging-energy-reduction-and/826315/",
+      "title": "How PG&E scaled home energy reports into wide-ranging energy reduction and bill savings",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/spons/how-pge-scaled-home-energy-reports-into-wide-ranging-energy-reduction-and/826315/",
+      "sector": "energy-storage",
+      "summary": "<p>Learn how this approach can support savings, affordability and peak flexibility.</p>",
+      "date": "Mon, 03 Aug 2026 05:00:00 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-08-03T10:49:48.468219"
+    },
+    {
+      "id": "https://www.utilitydive.com/spons/converging-geopolitical-and-enterprise-risks-in-energy-what-leaders-need-t/825738/",
+      "title": "Converging geopolitical and enterprise risks in energy: What leaders need to anticipate now",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/spons/converging-geopolitical-and-enterprise-risks-in-energy-what-leaders-need-t/825738/",
+      "sector": "energy-storage",
+      "summary": "<p>Geopolitical developments are significantly reshaping North American energy risk and requiring leaders to adapt operations and strategies.</p>",
+      "date": "Mon, 03 Aug 2026 05:00:00 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-08-03T10:49:48.468224"
+    },
+    {
+      "id": "https://www.utilitydive.com/spons/leading-the-agentic-grid-transformation/826181/",
+      "title": "Leading the agentic grid transformation",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/spons/leading-the-agentic-grid-transformation/826181/",
+      "sector": "energy-storage",
+      "summary": "<p>The strategic priorities shaping the future of intelligent utility operations.</p>",
+      "date": "Mon, 03 Aug 2026 05:00:00 -0400",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-08-03T10:49:48.468228"
+    },
+    {
+      "id": "https://www.energy-storage.news/you-cannot-build-a-whole-electricity-system-purely-on-solar-hybrids-squadron-energy-ceo-warns/",
+      "title": "\u2018You cannot build a whole electricity system purely on solar hybrids\u2019: Squadron Energy CEO warns",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/you-cannot-build-a-whole-electricity-system-purely-on-solar-hybrids-squadron-energy-ceo-warns/",
+      "sector": "energy-storage",
+      "summary": "BESS and solar have driven Australia past the halfway mark in NEM renewable penetration, but the technology mix is not yet broad enough.",
+      "date": "Mon, 03 Aug 2026 03:50:49 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-08-03T10:49:48.468158"
+    },
+    {
+      "id": "https://www.energy-storage.news/grid-forming-bess-not-yet-confirmed-for-minimum-system-strength-in-australia-as-aemo-launches-fault-current-trial/",
+      "title": "Grid-forming BESS not yet confirmed for minimum system strength in Australia as AEMO launches fault current trial",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/grid-forming-bess-not-yet-confirmed-for-minimum-system-strength-in-australia-as-aemo-launches-fault-current-trial/",
+      "sector": "energy-storage",
+      "summary": "Grid-forming BESS have not yet been confirmed to meet the highest tier of system strength requirements in Australia's NEM, according to AEMO.",
+      "date": "Mon, 03 Aug 2026 03:29:54 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-08-03T10:49:48.468167"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/31/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-12/",
@@ -310,7 +310,7 @@
       "date": "Fri, 31 Jul 2026 18:07:54 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110441"
+      "fetched_at": "2026-08-03T10:49:48.468304"
     },
     {
       "id": "https://www.energy-storage.news/antora-energy-closes-us550-million-series-c-to-scale-us-thermal-battery-deployment/",
@@ -322,7 +322,7 @@
       "date": "Fri, 31 Jul 2026 11:48:18 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-08-02T09:15:07.110060"
+      "fetched_at": "2026-08-03T10:49:48.468173"
     },
     {
       "id": "https://www.energy-storage.news/veolia-to-operate-350mw-microgrid-for-ai-data-centre-in-central-ohio/",
@@ -334,7 +334,7 @@
       "date": "Fri, 31 Jul 2026 11:43:43 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110294"
+      "fetched_at": "2026-08-03T10:49:48.468177"
     },
     {
       "id": "https://www.energy-storage.news/business-as-usual-just-accelerated-harmony-energy-ceo-on-life-after-alpiq-acquisition/",
@@ -346,7 +346,7 @@
       "date": "Fri, 31 Jul 2026 11:24:41 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110303"
+      "fetched_at": "2026-08-03T10:49:48.468182"
     },
     {
       "id": "https://www.utilitydive.com/news/california-utilities-credit-downgrades-wildfire-liability-edison/826678/",
@@ -358,7 +358,7 @@
       "date": "Fri, 31 Jul 2026 11:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110357"
+      "fetched_at": "2026-08-03T10:49:48.468232"
     },
     {
       "id": "https://www.energy-storage.news/greenvolt-inaugurates-200mw-800mwh-capacity-market-contracted-bess-in-poland/",
@@ -370,7 +370,7 @@
       "date": "Fri, 31 Jul 2026 10:40:19 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110309"
+      "fetched_at": "2026-08-03T10:49:48.468186"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
@@ -382,7 +382,7 @@
       "date": "Fri, 31 Jul 2026 10:30:24 +0000",
       "signal_type": "regulatory",
       "relevance_score": 7.5,
-      "fetched_at": "2026-08-02T09:15:07.110404"
+      "fetched_at": "2026-08-03T10:49:48.468266"
     },
     {
       "id": "https://www.utilitydive.com/news/xcel-energy-on-track-retail-sales-growth-this-year-executives-say/826705/",
@@ -394,7 +394,7 @@
       "date": "Fri, 31 Jul 2026 08:30:38 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110362"
+      "fetched_at": "2026-08-03T10:49:48.468237"
     },
     {
       "id": "https://www.utilitydive.com/news/exelon-data-center-load-new-jersey-battery-earnings/826686/",
@@ -406,7 +406,7 @@
       "date": "Fri, 31 Jul 2026 07:57:09 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110366"
+      "fetched_at": "2026-08-03T10:49:48.468241"
     },
     {
       "id": "https://www.energy-storage.news/chinas-15th-five-year-carbon-peaking-action-plan-aims-to-accelerate-shift-of-energy-mix-from-coal-dominant/",
@@ -418,7 +418,7 @@
       "date": "Fri, 31 Jul 2026 05:40:47 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110314"
+      "fetched_at": "2026-08-03T10:49:48.468203"
     },
     {
       "id": "https://www.energy-storage.news/thermal-energy-storage-company-1414-degrees-secures-1gw-data-centre-deal-in-south-australia/",
@@ -430,7 +430,7 @@
       "date": "Fri, 31 Jul 2026 03:32:11 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110319"
+      "fetched_at": "2026-08-03T10:49:48.468209"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
@@ -442,7 +442,7 @@
       "date": "Fri, 24 Jul 2026 22:28:20 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110429"
+      "fetched_at": "2026-08-03T10:49:48.468291"
     },
     {
       "id": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
@@ -454,7 +454,7 @@
       "date": "Fri, 24 Jul 2026 20:11:08 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-02T09:15:07.110463"
+      "fetched_at": "2026-08-03T10:49:48.468325"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
@@ -466,7 +466,7 @@
       "date": "Fri, 24 Jul 2026 17:45:05 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110433"
+      "fetched_at": "2026-08-03T10:49:48.468295"
     },
     {
       "id": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
@@ -478,9 +478,9 @@
       "date": "Fri, 24 Jul 2026 15:23:06 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-02T09:15:07.110437"
+      "fetched_at": "2026-08-03T10:49:48.468300"
     }
   ],
   "regulations": [],
-  "last_update": "2026-08-02T09:15:07.641380"
+  "last_update": "2026-08-03T10:49:49.421266"
 }
