@@ -10,7 +10,7 @@
       "date": "Wed, 26 Aug 2026 14:14:52 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095201"
+      "fetched_at": "2026-08-31T15:00:47.375260"
     },
     {
       "id": "https://www.utilitydive.com/news/nevada-misses-an-opportunity-in-performance-based-der-tariffs-advocate/828836/",
@@ -22,43 +22,7 @@
       "date": "Wed, 26 Aug 2026 11:07:56 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095171"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/drones-are-the-next-big-security-challenge-for-critical-infrastructure/827036/",
-      "title": "Drones are the next big security challenge for critical infrastructure",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/drones-are-the-next-big-security-challenge-for-critical-infrastructure/827036/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/4VYPKv83xj3Sp-2f2U5WfsGZRIY3q9APok4iboekAkI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NTk5MzI5NzYuanBn.web",
-      "date": "Wed, 26 Aug 2026 11:00:00 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095175"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/harbert-acquires-cogenerating-heat-power-plant-in-georgia/828833/",
-      "title": "Harbert acquires cogenerating heat, power plant in Georgia",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/harbert-acquires-cogenerating-heat-power-plant-in-georgia/828833/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/TEq39BO8Kj1suO2USt4mBfeRq_I8ON0ErbCtoIrC0-I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWQtR2VvcmdpYV9Db2dlbi5wbmc=.webp\" /",
-      "date": "Wed, 26 Aug 2026 10:41:12 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095179"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/trumps-energy-policy-could-cost-us-540-gw-of-renewables-says-nrdc/828826/",
-      "title": "Trump\u2019s energy policy could cost US 540 GW of renewables, says NRDC",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/trumps-energy-policy-could-cost-us-540-gw-of-renewables-says-nrdc/828826/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/xFQ2o-DK7Q3Aij5XGfLAvVKYAG6K8a8R6jkKfhaSmAo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjIzODMzMTk2LmpwZw==",
-      "date": "Wed, 26 Aug 2026 10:01:37 -0400",
-      "signal_type": "regulatory",
-      "relevance_score": 6.5,
-      "fetched_at": "2026-08-30T12:45:34.095184"
+      "fetched_at": "2026-08-31T15:00:47.375233"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/",
@@ -70,7 +34,7 @@
       "date": "Wed, 19 Aug 2026 20:35:51 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095258"
+      "fetched_at": "2026-08-31T15:00:47.375311"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
@@ -82,7 +46,7 @@
       "date": "Tue, 25 Aug 2026 22:28:32 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095235"
+      "fetched_at": "2026-08-31T15:00:47.375287"
     },
     {
       "id": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
@@ -94,7 +58,7 @@
       "date": "Tue, 25 Aug 2026 22:21:06 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095205"
+      "fetched_at": "2026-08-31T15:00:47.375264"
     },
     {
       "id": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
@@ -106,7 +70,7 @@
       "date": "Tue, 25 Aug 2026 17:26:15 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-08-30T12:45:34.095209"
+      "fetched_at": "2026-08-31T15:00:47.375268"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/18/astronauts-remove-failed-antenna-run-out-of-time-to-install-a-spare/",
@@ -118,7 +82,7 @@
       "date": "Tue, 18 Aug 2026 20:13:57 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095262"
+      "fetched_at": "2026-08-31T15:00:47.375315"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/",
@@ -130,7 +94,7 @@
       "date": "Tue, 18 Aug 2026 13:13:09 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095266"
+      "fetched_at": "2026-08-31T15:00:47.375319"
     },
     {
       "id": "https://arstechnica.com/space/2026/08/nasa-t-38-astronaut-training-jet-gets-new-artemis-look/",
@@ -142,7 +106,7 @@
       "date": "Thu, 27 Aug 2026 17:26:25 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095197"
+      "fetched_at": "2026-08-31T15:00:47.375255"
     },
     {
       "id": "https://www.utilitydive.com/news/testing-of-long-term-enhanced-geothermal-production-begins-in-utah/828975/",
@@ -154,7 +118,7 @@
       "date": "Thu, 27 Aug 2026 12:53:43 -0400",
       "signal_type": "technical",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095149"
+      "fetched_at": "2026-08-31T15:00:47.375212"
     },
     {
       "id": "https://www.utilitydive.com/news/us-army-selects-5-companies-to-deploy-microreactors-at-military-installatio/828974/",
@@ -166,19 +130,7 @@
       "date": "Thu, 27 Aug 2026 12:49:14 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095154"
-    },
-    {
-      "id": "https://www.energy-storage.news/18gwh-of-bess-comes-online-in-july-year-to-date-total-up-27/",
-      "title": "18GWh of BESS comes online in July, year-to-date total up 27%",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/18gwh-of-bess-comes-online-in-july-year-to-date-total-up-27/",
-      "sector": "energy-storage",
-      "summary": "A total of 18GWh of large-scale BESS capacity came online in July 2026, of which China accounted for 70%.",
-      "date": "Thu, 27 Aug 2026 11:34:26 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095135"
+      "fetched_at": "2026-08-31T15:00:47.375216"
     },
     {
       "id": "https://www.utilitydive.com/news/duke-energy-florida-psc-large-load-rate/828951/",
@@ -190,19 +142,7 @@
       "date": "Thu, 27 Aug 2026 10:38:51 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095158"
-    },
-    {
-      "id": "https://www.energy-storage.news/roundup-greenvolt-elesela-enlight-european-energy-gen-i-large-scale-bess-projects-forward-cee-baltics/",
-      "title": "ROUNDUP: Greenvolt, Elesela, Enlight, European Energy and GEN-I move large-scale BESS projects forward in CEE and Baltics",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/roundup-greenvolt-elesela-enlight-european-energy-gen-i-large-scale-bess-projects-forward-cee-baltics/",
-      "sector": "energy-storage",
-      "summary": "A roundup of large-scale battery energy storage system (BESS) projects being financed, acquired or contracted in Poland, Lithuania, Latvia, Finland and Romania.",
-      "date": "Thu, 27 Aug 2026 10:00:10 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095140"
+      "fetched_at": "2026-08-31T15:00:47.375221"
     },
     {
       "id": "https://www.utilitydive.com/news/trump-declares-emergency-moves-to-block-some-foreign-made-equipment-from-g/828959/",
@@ -214,7 +154,7 @@
       "date": "Thu, 27 Aug 2026 09:58:29 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095163"
+      "fetched_at": "2026-08-31T15:00:47.375224"
     },
     {
       "id": "https://www.utilitydive.com/news/data-center-load-pjm-wholesale-market/828917/",
@@ -226,19 +166,7 @@
       "date": "Thu, 27 Aug 2026 09:02:31 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095166"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
-      "title": "Europe cancels planned upgrades for Ariane 6 rocket",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
-      "sector": "space",
-      "summary": "Arianespace hasn\u2019t publicly disclosed the cost for an Ariane 6 launch.",
-      "date": "Thu, 20 Aug 2026 21:40:52 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095226"
+      "fetched_at": "2026-08-31T15:00:47.375229"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/",
@@ -250,7 +178,19 @@
       "date": "Thu, 20 Aug 2026 09:10:40 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095253"
+      "fetched_at": "2026-08-31T15:00:47.375306"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+      "title": "Why it matters that President Trump just dialed in to a NASA news conference",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+      "sector": "space",
+      "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
+      "date": "Sun, 30 Aug 2026 17:40:30 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-08-31T15:00:47.375243"
     },
     {
       "id": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
@@ -262,7 +202,7 @@
       "date": "Sun, 23 Aug 2026 14:30:16 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095213"
+      "fetched_at": "2026-08-31T15:00:47.375273"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/29/roman-space-telescope-nasas-next-great-observatory-poised-for-sunday-launch/",
@@ -274,7 +214,7 @@
       "date": "Sat, 29 Aug 2026 22:17:36 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095231"
+      "fetched_at": "2026-08-31T15:00:47.375282"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/",
@@ -286,7 +226,115 @@
       "date": "Sat, 15 Aug 2026 23:51:27 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095270"
+      "fetched_at": "2026-08-31T15:00:47.375324"
+    },
+    {
+      "id": "https://www.energy-storage.news/trump-cites-unusual-and-extraordinary-threat-in-executive-order-banning-inverter-bess-transformer-imports/",
+      "title": "Trump cites \u2018unusual and extraordinary threat\u2019 in executive order banning inverter, BESS & transformer imports",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/trump-cites-unusual-and-extraordinary-threat-in-executive-order-banning-inverter-bess-transformer-imports/",
+      "sector": "energy-storage",
+      "summary": "US President Donald Trump has banned the import of inverters, transformers and other power equipment that pose a potential risk to US grid security.",
+      "date": "Mon, 31 Aug 2026 13:55:45 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-08-31T15:00:47.374823"
+    },
+    {
+      "id": "https://www.energy-storage.news/as-us-grid-reliability-risks-mount-distributed-bess-offer-localised-solutions-for-resilient-supply/",
+      "title": "As US grid reliability risks mount, distributed BESS offer localised solutions for resilient supply",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/as-us-grid-reliability-risks-mount-distributed-bess-offer-localised-solutions-for-resilient-supply/",
+      "sector": "energy-storage",
+      "summary": "Rural and distributed battery energy storage system (BESS) projects could be emerging as critical infrastructure in the US as grid reliability risks intensify nationwide.",
+      "date": "Mon, 31 Aug 2026 13:46:38 +0000",
+      "signal_type": "supply_shock",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-08-31T15:00:47.375126"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/",
+      "title": "NASA's next \"great observatory\" begins mission to widen our view of the Universe",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/",
+      "sector": "space",
+      "summary": "\"We would need over half a million 4K TVs to fully display the single Roman image from our largest survey.\"",
+      "date": "Mon, 31 Aug 2026 13:01:09 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-08-31T15:00:47.375238"
+    },
+    {
+      "id": "https://www.energy-storage.news/catl-targets-opportunities-in-brazils-capacity-reserve-auction-as-regulator-receives-nearly-300gw-of-bids/",
+      "title": "CATL targets opportunities in Brazil\u2019s capacity reserve auction, as regulator receives nearly 300GW of bids",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/catl-targets-opportunities-in-brazils-capacity-reserve-auction-as-regulator-receives-nearly-300gw-of-bids/",
+      "sector": "energy-storage",
+      "summary": "CATL has formed a partnership to work on projects awarded contracts through Brazil\u2019s first national energy storage auction programme, which received more than 6,000 bids.",
+      "date": "Mon, 31 Aug 2026 11:07:10 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-08-31T15:00:47.375136"
+    },
+    {
+      "id": "https://www.energy-storage.news/copenhagen-infrastructure-partners-acquires-104mw-grid-forming-bess-project-from-windlab-in-australia/",
+      "title": "Copenhagen Infrastructure Partners acquires 104MW grid-forming BESS project from Windlab in Australia",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-acquires-104mw-grid-forming-bess-project-from-windlab-in-australia/",
+      "sector": "energy-storage",
+      "summary": "CIP has acquired full ownership of the 104MW Gawara Baya wind-plus-storage project in North Queensland, Australia, from developer Windlab.",
+      "date": "Mon, 31 Aug 2026 05:33:45 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-08-31T15:00:47.375143"
+    },
+    {
+      "id": "https://www.energy-storage.news/youre-buying-a-liability-panel-warns-developers-on-buying-ageing-battery-storage-assets-in-australia/",
+      "title": "\u2018You\u2019re buying a liability\u2019: panel warns developers on buying ageing battery storage assets in Australia",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/youre-buying-a-liability-panel-warns-developers-on-buying-ageing-battery-storage-assets-in-australia/",
+      "sector": "energy-storage",
+      "summary": "Developers who buy or flip battery storage projects mid-life risk inheriting decommissioning liabilities they had not properly accounted for,",
+      "date": "Mon, 31 Aug 2026 05:30:53 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-08-31T15:00:47.375147"
+    },
+    {
+      "id": "https://www.energy-storage.news/australia-is-a-market-made-for-batteries-wartsila-strategy-lead-on-volatility-and-the-business-case-for-energy-storage/",
+      "title": "\u2018Australia is a market made for batteries\u2019: W\u00e4rtsil\u00e4 strategy lead on volatility and the business case for energy storage",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/australia-is-a-market-made-for-batteries-wartsila-strategy-lead-on-volatility-and-the-business-case-for-energy-storage/",
+      "sector": "energy-storage",
+      "summary": "Speaking to ESN Premium, Kashish Shah of W\u00e4rtsil\u00e4 explains why Australia's volatile market structure makes it uniquely suited for battery storage.",
+      "date": "Mon, 31 Aug 2026 05:12:34 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-08-31T15:00:47.375152"
+    },
+    {
+      "id": "https://www.utilitydive.com/spons/property-risk-in-natural-resources-the-shift-from-severity-to-duration/828467/",
+      "title": "Property risk in natural resources: The shift from severity to duration",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/spons/property-risk-in-natural-resources-the-shift-from-severity-to-duration/828467/",
+      "sector": "energy-storage",
+      "summary": "<p>Secondary perils, such as severe convective storms, are becoming a primary driver of earnings volatility.</p>",
+      "date": "Mon, 31 Aug 2026 05:00:00 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-08-31T15:00:47.375193"
+    },
+    {
+      "id": "https://www.utilitydive.com/spons/the-rules-of-data-center-development-are-evolving-is-your-strategy-1/828795/",
+      "title": "The rules of data center development are evolving. Is your strategy?",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/spons/the-rules-of-data-center-development-are-evolving-is-your-strategy-1/828795/",
+      "sector": "energy-storage",
+      "summary": "<p>Data center capacity continues to expand.</p>",
+      "date": "Mon, 31 Aug 2026 05:00:00 -0400",
+      "signal_type": "regulatory",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-08-31T15:00:47.375198"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/24/live-coverage-spacex-to-launch-starlink-mission-on-a-falcon-boosters-record-breaking-37th-flight/",
@@ -298,7 +346,7 @@
       "date": "Mon, 24 Aug 2026 19:19:59 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095239"
+      "fetched_at": "2026-08-31T15:00:47.375291"
     },
     {
       "id": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
@@ -310,7 +358,7 @@
       "date": "Fri, 28 Aug 2026 17:36:30 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095189"
+      "fetched_at": "2026-08-31T15:00:47.375247"
     },
     {
       "id": "https://www.energy-storage.news/ontario-municipality-rejects-bedrock-energys-canada-compressed-air-energy-storage-project-rejected/",
@@ -322,7 +370,7 @@
       "date": "Fri, 28 Aug 2026 13:12:20 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.094835"
+      "fetched_at": "2026-08-31T15:00:47.375157"
     },
     {
       "id": "https://www.energy-storage.news/mobile-bess-provider-nomad-begins-life-under-new-ownership-with-us-doe-approval-of-vermont-pilot/",
@@ -334,7 +382,7 @@
       "date": "Fri, 28 Aug 2026 13:08:33 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095082"
+      "fetched_at": "2026-08-31T15:00:47.375177"
     },
     {
       "id": "https://www.energy-storage.news/bess-industry-buzz-hot-takes-analysis-and-unofficial-news-from-across-the-sector/",
@@ -346,7 +394,7 @@
       "date": "Fri, 28 Aug 2026 12:55:54 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095092"
+      "fetched_at": "2026-08-31T15:00:47.375182"
     },
     {
       "id": "https://www.energy-storage.news/energy-storage-awards-2026-one-week-left-to-enter-the-industry-leading-celebration-of-excellence/",
@@ -358,7 +406,7 @@
       "date": "Fri, 28 Aug 2026 11:03:56 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095097"
+      "fetched_at": "2026-08-31T15:00:47.375187"
     },
     {
       "id": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
@@ -370,7 +418,7 @@
       "date": "Fri, 28 Aug 2026 11:00:39 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095193"
+      "fetched_at": "2026-08-31T15:00:47.375251"
     },
     {
       "id": "https://www.utilitydive.com/news/ohio-ratepayer-advocate-ferc-local-transmission/829066/",
@@ -382,55 +430,19 @@
       "date": "Fri, 28 Aug 2026 10:11:36 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095145"
+      "fetched_at": "2026-08-31T15:00:47.375202"
     },
     {
-      "id": "https://www.energy-storage.news/interim-reports-of-catl-eve-rept-and-other-listed-chinese-bess-players-leaders-see-steady-earnings-growth-second-tier-returns-to-profitability/",
-      "title": "Interim reports of CATL, EVE, REPT and other listed Chinese BESS players: Leaders see steady earnings growth, second\u2011tier returns to profitability",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/interim-reports-of-catl-eve-rept-and-other-listed-chinese-bess-players-leaders-see-steady-earnings-growth-second-tier-returns-to-profitability/",
+      "id": "https://www.utilitydive.com/news/federal-authorities-disrupt-china-hacking-US-critical-infrastructure/829094/",
+      "title": "Federal authorities disrupt China-backed hacking operation targeting US critical infrastructure",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/federal-authorities-disrupt-china-hacking-US-critical-infrastructure/829094/",
       "sector": "energy-storage",
-      "summary": "China\u2019s listed battery storage companies have entered the peak interim reporting season, with H1 2026 likely marking the broadest profit recovery in recent years.",
-      "date": "Fri, 28 Aug 2026 05:34:25 +0000",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHzi9njVRIRmL9XVlLqv9gwE_Jder0BHYundO00wb8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfWVk0RHIw",
+      "date": "Fri, 28 Aug 2026 08:33:36 -0400",
       "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095102"
-    },
-    {
-      "id": "https://www.energy-storage.news/octopus-australia-submits-4-8gwh-hanworth-battery-project-for-epbc-act-approval/",
-      "title": "Octopus Australia submits 4.8GWh Hanworth Battery Project for EPBC Act approval",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/octopus-australia-submits-4-8gwh-hanworth-battery-project-for-epbc-act-approval/",
-      "sector": "energy-storage",
-      "summary": "Octopus Australia, via its development partner Enervest, has submitted a 1.2GW/4.8GWh BESS for assessment under Australia's EPBC Act.",
-      "date": "Fri, 28 Aug 2026 03:22:11 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095107"
-    },
-    {
-      "id": "https://www.energy-storage.news/optigrid-wins-ampyr-australia-battery-storage-optimisation-deal-after-digital-twin-benchmarking/",
-      "title": "OptiGrid wins AMPYR Australia battery storage optimisation deal after digital twin benchmarking",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/optigrid-wins-ampyr-australia-battery-storage-optimisation-deal-after-digital-twin-benchmarking/",
-      "sector": "energy-storage",
-      "summary": "AMPYR Australia has selected OptiGrid's OptiBidder platform to optimise the battery storage systems in its portfolio, following a benchmarking process that compared the platform's revenue performance ",
-      "date": "Fri, 28 Aug 2026 01:49:34 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095112"
-    },
-    {
-      "id": "https://www.energy-storage.news/ausconnex-starts-construction-on-au65-million-community-battery-programme-in-australia/",
-      "title": "Ausconnex starts construction on AU$65 million community battery programme in Australia",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/ausconnex-starts-construction-on-au65-million-community-battery-programme-in-australia/",
-      "sector": "energy-storage",
-      "summary": "Ausconnex has begun construction on the first of eight community BESS planned across Greater Western Sydney, Australia.",
-      "date": "Fri, 28 Aug 2026 01:46:21 +0000",
-      "signal_type": "capital_deployment",
-      "relevance_score": 8.0,
-      "fetched_at": "2026-08-30T12:45:34.095130"
+      "relevance_score": 5.0,
+      "fetched_at": "2026-08-31T15:00:47.375207"
     },
     {
       "id": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
@@ -442,7 +454,7 @@
       "date": "Fri, 21 Aug 2026 23:32:17 +0000",
       "signal_type": "regulatory",
       "relevance_score": 6.5,
-      "fetched_at": "2026-08-30T12:45:34.095218"
+      "fetched_at": "2026-08-31T15:00:47.375278"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
@@ -454,19 +466,7 @@
       "date": "Fri, 21 Aug 2026 18:53:18 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-08-30T12:45:34.095243"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-      "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-      "sector": "space",
-      "summary": "Taiwan's effort to develop its own satellite launcher hit a setback this week.",
-      "date": "Fri, 21 Aug 2026 11:00:36 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095222"
+      "fetched_at": "2026-08-31T15:00:47.375302"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/14/nasa-administrator-extremely-confident-in-artemis-3-launch-in-2027/",
@@ -478,9 +478,9 @@
       "date": "Fri, 14 Aug 2026 23:51:47 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-08-30T12:45:34.095275"
+      "fetched_at": "2026-08-31T15:00:47.375328"
     }
   ],
   "regulations": [],
-  "last_update": "2026-08-30T12:45:35.058037"
+  "last_update": "2026-08-31T15:01:02.089326"
 }
