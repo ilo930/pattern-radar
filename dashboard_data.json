@@ -10,7 +10,7 @@
       "date": "Wed, 19 Aug 2026 20:35:51 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144512"
+      "fetched_at": "2026-09-13T12:40:20.449063"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/",
@@ -22,7 +22,7 @@
       "date": "Wed, 09 Sep 2026 22:32:04 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144474"
+      "fetched_at": "2026-09-13T12:40:20.449025"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
@@ -34,7 +34,7 @@
       "date": "Wed, 09 Sep 2026 20:27:40 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144458"
+      "fetched_at": "2026-09-13T12:40:20.449009"
     },
     {
       "id": "https://www.utilitydive.com/news/front-of-meter-solar-storage-could-serve-32-of-californias-2032-peak-loa/829935/",
@@ -46,7 +46,7 @@
       "date": "Wed, 09 Sep 2026 12:10:20 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144424"
+      "fetched_at": "2026-09-13T12:40:20.448976"
     },
     {
       "id": "https://www.utilitydive.com/news/google-xcel-miso-zero-injection-large-load-ferc/829912/",
@@ -58,7 +58,7 @@
       "date": "Wed, 09 Sep 2026 10:40:32 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144430"
+      "fetched_at": "2026-09-13T12:40:20.448981"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
@@ -70,7 +70,7 @@
       "date": "Tue, 25 Aug 2026 22:28:32 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144490"
+      "fetched_at": "2026-09-13T12:40:20.449041"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/18/astronauts-remove-failed-antenna-run-out-of-time-to-install-a-spare/",
@@ -82,7 +82,7 @@
       "date": "Tue, 18 Aug 2026 20:13:57 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144516"
+      "fetched_at": "2026-09-13T12:40:20.449067"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
@@ -94,7 +94,7 @@
       "date": "Tue, 08 Sep 2026 20:20:20 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144462"
+      "fetched_at": "2026-09-13T12:40:20.449014"
     },
     {
       "id": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
@@ -106,7 +106,7 @@
       "date": "Tue, 08 Sep 2026 16:20:58 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144466"
+      "fetched_at": "2026-09-13T12:40:20.449018"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/",
@@ -118,7 +118,7 @@
       "date": "Tue, 08 Sep 2026 12:29:18 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144470"
+      "fetched_at": "2026-09-13T12:40:20.449022"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/",
@@ -130,7 +130,7 @@
       "date": "Tue, 01 Sep 2026 20:56:22 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144482"
+      "fetched_at": "2026-09-13T12:40:20.449033"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/",
@@ -142,7 +142,7 @@
       "date": "Thu, 20 Aug 2026 09:10:40 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144508"
+      "fetched_at": "2026-09-13T12:40:20.449059"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
@@ -154,7 +154,7 @@
       "date": "Thu, 10 Sep 2026 19:09:29 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144450"
+      "fetched_at": "2026-09-13T12:40:20.449001"
     },
     {
       "id": "https://www.utilitydive.com/news/google-virtual-power-plant-vpp-pge/830036/",
@@ -166,7 +166,7 @@
       "date": "Thu, 10 Sep 2026 12:43:17 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144407"
+      "fetched_at": "2026-09-13T12:40:20.448959"
     },
     {
       "id": "https://www.utilitydive.com/news/beyond-category-5-what-extreme-hurricanes-mean-for-the-grid/828906/",
@@ -178,7 +178,7 @@
       "date": "Thu, 10 Sep 2026 11:58:16 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144412"
+      "fetched_at": "2026-09-13T12:40:20.448964"
     },
     {
       "id": "https://www.energy-storage.news/flexgen-smt-energy-commission-320mwh-texas-bess-in-just-six-weeks-as-ercot-grid-faces-record-demand/",
@@ -190,7 +190,7 @@
       "date": "Thu, 10 Sep 2026 11:57:14 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144348"
+      "fetched_at": "2026-09-13T12:40:20.448902"
     },
     {
       "id": "https://www.energy-storage.news/second-life-bess-firms-b2u-moment-and-rebaba-advance-project-operations-us-compliance-and-new-financing/",
@@ -202,7 +202,7 @@
       "date": "Thu, 10 Sep 2026 11:51:50 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144353"
+      "fetched_at": "2026-09-13T12:40:20.448907"
     },
     {
       "id": "https://www.energy-storage.news/theyre-just-chucking-grenades-gore-street-bess-fund-chair-urges-rejection-of-saba-proposal-as-germany-asset-sale-falls-through/",
@@ -214,7 +214,7 @@
       "date": "Thu, 10 Sep 2026 11:48:59 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-09-12T11:34:03.144373"
+      "fetched_at": "2026-09-13T12:40:20.448926"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
@@ -226,7 +226,7 @@
       "date": "Thu, 10 Sep 2026 11:30:42 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144454"
+      "fetched_at": "2026-09-13T12:40:20.449005"
     },
     {
       "id": "https://www.energy-storage.news/nordic-roundup-flower-volvo-and-delta-capacity-launch-bess-projects/",
@@ -238,7 +238,7 @@
       "date": "Thu, 10 Sep 2026 10:32:08 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144379"
+      "fetched_at": "2026-09-13T12:40:20.448931"
     },
     {
       "id": "https://www.utilitydive.com/news/california-puc-to-revise-general-rate-case-plan-around-transparency-goals/830042/",
@@ -250,7 +250,7 @@
       "date": "Thu, 10 Sep 2026 10:27:21 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144416"
+      "fetched_at": "2026-09-13T12:40:20.448968"
     },
     {
       "id": "https://www.utilitydive.com/news/data-centers-manufacturing-us-electricity-use-eia/830038/",
@@ -262,7 +262,7 @@
       "date": "Thu, 10 Sep 2026 10:18:06 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144420"
+      "fetched_at": "2026-09-13T12:40:20.448972"
     },
     {
       "id": "https://www.energy-storage.news/ore-energys-iron-air-technology-ldes-applications-trade-offs-deployments-and-next-gen-cells/",
@@ -274,7 +274,7 @@
       "date": "Thu, 10 Sep 2026 09:17:46 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144384"
+      "fetched_at": "2026-09-13T12:40:20.448937"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/29/roman-space-telescope-nasas-next-great-observatory-poised-for-sunday-launch/",
@@ -286,7 +286,7 @@
       "date": "Sat, 29 Aug 2026 22:17:36 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144486"
+      "fetched_at": "2026-09-13T12:40:20.449037"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/",
@@ -298,7 +298,7 @@
       "date": "Sat, 05 Sep 2026 22:06:47 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144478"
+      "fetched_at": "2026-09-13T12:40:20.449029"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/24/live-coverage-spacex-to-launch-starlink-mission-on-a-falcon-boosters-record-breaking-37th-flight/",
@@ -310,7 +310,7 @@
       "date": "Mon, 24 Aug 2026 19:19:59 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144500"
+      "fetched_at": "2026-09-13T12:40:20.449051"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
@@ -322,7 +322,7 @@
       "date": "Fri, 21 Aug 2026 18:53:18 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144504"
+      "fetched_at": "2026-09-13T12:40:20.449055"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
@@ -334,7 +334,7 @@
       "date": "Fri, 11 Sep 2026 23:34:45 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144434"
+      "fetched_at": "2026-09-13T12:40:20.448985"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
@@ -346,7 +346,7 @@
       "date": "Fri, 11 Sep 2026 16:20:43 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144438"
+      "fetched_at": "2026-09-13T12:40:20.448989"
     },
     {
       "id": "https://www.energy-storage.news/premier-energies-rct-india-plan-12gwh-bess-manufacturing-facility-in-telangana/",
@@ -358,7 +358,7 @@
       "date": "Fri, 11 Sep 2026 15:22:59 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144022"
+      "fetched_at": "2026-09-13T12:40:20.448601"
     },
     {
       "id": "https://www.energy-storage.news/metlen-agrees-to-sell-165mw-725mwh-chile-solar-plus-storage-project/",
@@ -370,7 +370,7 @@
       "date": "Fri, 11 Sep 2026 13:33:35 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144321"
+      "fetched_at": "2026-09-13T12:40:20.448877"
     },
     {
       "id": "https://www.energy-storage.news/axpo-and-energieuri-commission-switzerlands-largest-operational-bess-facility/",
@@ -382,7 +382,7 @@
       "date": "Fri, 11 Sep 2026 13:28:02 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144331"
+      "fetched_at": "2026-09-13T12:40:20.448887"
     },
     {
       "id": "https://www.energy-storage.news/bess-industry-buzz-beijings-manufacturing-ban-responsible-data-centre-policy-ldes-economics-and-more/",
@@ -394,7 +394,7 @@
       "date": "Fri, 11 Sep 2026 13:07:15 +0000",
       "signal_type": "regulatory",
       "relevance_score": 7.5,
-      "fetched_at": "2026-09-12T11:34:03.144337"
+      "fetched_at": "2026-09-13T12:40:20.448892"
     },
     {
       "id": "https://www.utilitydive.com/news/appeals-court-vacates-doe-emergency-order-michigan-power-plant/830189/",
@@ -406,7 +406,7 @@
       "date": "Fri, 11 Sep 2026 12:41:56 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144388"
+      "fetched_at": "2026-09-13T12:40:20.448941"
     },
     {
       "id": "https://www.utilitydive.com/news/nyisos-independence-is-critical-when-the-grid-is-stressed/829319/",
@@ -418,7 +418,7 @@
       "date": "Fri, 11 Sep 2026 11:48:36 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144393"
+      "fetched_at": "2026-09-13T12:40:20.448945"
     },
     {
       "id": "https://www.energy-storage.news/vattenfall-goes-ahead-with-1gwh-battery-storage-project-at-former-nuclear-site-in-germany/",
@@ -430,7 +430,7 @@
       "date": "Fri, 11 Sep 2026 11:03:35 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144343"
+      "fetched_at": "2026-09-13T12:40:20.448898"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
@@ -442,7 +442,7 @@
       "date": "Fri, 11 Sep 2026 11:00:44 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144442"
+      "fetched_at": "2026-09-13T12:40:20.448993"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
@@ -454,11 +454,11 @@
       "date": "Fri, 11 Sep 2026 11:00:30 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-12T11:34:03.144446"
+      "fetched_at": "2026-09-13T12:40:20.448998"
     },
     {
       "id": "https://www.utilitydive.com/news/pennsylvania-puc-to-consider-rates-and-curtailment-as-data-centers-grow/830174/",
-      "title": "Pennsylvania PUC to consider ratemaking, ROE and curtailment as data center load grows",
+      "title": "Pennsylvania PUC to consider ratemaking, ROE and curtailment as data centers grow",
       "source": "Utility Dive - Latest News",
       "url": "https://www.utilitydive.com/news/pennsylvania-puc-to-consider-rates-and-curtailment-as-data-centers-grow/830174/",
       "sector": "energy-storage",
@@ -466,11 +466,11 @@
       "date": "Fri, 11 Sep 2026 10:57:52 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144398"
+      "fetched_at": "2026-09-13T12:40:20.448949"
     },
     {
       "id": "https://www.utilitydive.com/news/unplanned-power-plant-outages-winter-weather-ferc-nerc/830141/",
-      "title": "Unplanned power plant outages fell sharply during 2025/26 winter storms: FERC-NERC report",
+      "title": "Unplanned power plant outages fall sharply during 2025/26 winter storms: FERC-NERC report",
       "source": "Utility Dive - Latest News",
       "url": "https://www.utilitydive.com/news/unplanned-power-plant-outages-winter-weather-ferc-nerc/830141/",
       "sector": "energy-storage",
@@ -478,9 +478,9 @@
       "date": "Fri, 11 Sep 2026 08:48:14 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-12T11:34:03.144403"
+      "fetched_at": "2026-09-13T12:40:20.448955"
     }
   ],
   "regulations": [],
-  "last_update": "2026-09-12T11:34:03.530172"
+  "last_update": "2026-09-13T12:40:20.820218"
 }
