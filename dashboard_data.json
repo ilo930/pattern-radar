@@ -10,7 +10,7 @@
       "date": "Wed, 16 Sep 2026 21:08:14 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935261"
+      "fetched_at": "2026-09-20T12:12:35.018031"
     },
     {
       "id": "https://www.utilitydive.com/news/climavision-offers-expanded-weather-forecasting-to-data-centers/830057/",
@@ -22,7 +22,7 @@
       "date": "Wed, 16 Sep 2026 11:09:06 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935232"
+      "fetched_at": "2026-09-20T12:12:35.018007"
     },
     {
       "id": "https://www.utilitydive.com/news/rising-utility-costs-could-put-pressure-on-cities-finances-sp-experts-wa/830557/",
@@ -34,7 +34,7 @@
       "date": "Wed, 16 Sep 2026 10:33:14 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935236"
+      "fetched_at": "2026-09-20T12:12:35.018011"
     },
     {
       "id": "https://www.utilitydive.com/news/state-led-planning-could-advance-clean-energy-in-deregulated-markets-repor/830529/",
@@ -46,7 +46,7 @@
       "date": "Wed, 16 Sep 2026 09:33:25 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935240"
+      "fetched_at": "2026-09-20T12:12:35.018014"
     },
     {
       "id": "https://www.utilitydive.com/news/investment-tax-credit-glut-gives-corporate-buyers-more-leverage/830267/",
@@ -58,7 +58,7 @@
       "date": "Wed, 16 Sep 2026 09:00:00 -0400",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-09-19T11:53:22.935244"
+      "fetched_at": "2026-09-20T12:12:35.018017"
     },
     {
       "id": "https://www.utilitydive.com/news/utilities-school-districts-see-growing-value-in-electric-buses-for-vpp/830499/",
@@ -70,7 +70,7 @@
       "date": "Wed, 16 Sep 2026 08:42:38 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935249"
+      "fetched_at": "2026-09-20T12:12:35.018021"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/",
@@ -82,19 +82,7 @@
       "date": "Wed, 09 Sep 2026 22:32:04 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935337"
-    },
-    {
-      "id": "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
-      "title": "SpaceX launches 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
-      "sector": "space",
-      "summary": "The Falcon 9 rocket flew on a south-easterly trajectory upon launching from Vandenberg Space Force Base. Liftoff happened at 2:35 a.m. PDT (5:35 a.m. EDT / 0935 UTC). <a class=\"mh-excerpt-more\" href=\"",
-      "date": "Tue, 25 Aug 2026 22:28:32 +0000",
-      "signal_type": "technical",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935353"
+      "fetched_at": "2026-09-20T12:12:35.018085"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
@@ -106,7 +94,7 @@
       "date": "Tue, 15 Sep 2026 22:26:32 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935265"
+      "fetched_at": "2026-09-20T12:12:35.018034"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/",
@@ -118,7 +106,7 @@
       "date": "Tue, 15 Sep 2026 21:29:03 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935314"
+      "fetched_at": "2026-09-20T12:12:35.018063"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
@@ -130,7 +118,7 @@
       "date": "Tue, 15 Sep 2026 18:48:08 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935268"
+      "fetched_at": "2026-09-20T12:12:35.018037"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/",
@@ -142,7 +130,7 @@
       "date": "Tue, 15 Sep 2026 03:51:39 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935318"
+      "fetched_at": "2026-09-20T12:12:35.018067"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
@@ -154,7 +142,7 @@
       "date": "Tue, 15 Sep 2026 03:47:36 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935273"
+      "fetched_at": "2026-09-20T12:12:35.018040"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/",
@@ -166,7 +154,7 @@
       "date": "Tue, 01 Sep 2026 20:56:22 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935345"
+      "fetched_at": "2026-09-20T12:12:35.018090"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
@@ -178,7 +166,7 @@
       "date": "Thu, 17 Sep 2026 14:37:37 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935257"
+      "fetched_at": "2026-09-20T12:12:35.018028"
     },
     {
       "id": "https://www.energy-storage.news/hithium-unveils-20000-cycle-sodium-ion-cell-and-4mwh-bess/",
@@ -190,7 +178,7 @@
       "date": "Thu, 17 Sep 2026 13:25:53 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935172"
+      "fetched_at": "2026-09-20T12:12:35.017956"
     },
     {
       "id": "https://www.energy-storage.news/contracted-revenue-key-to-california-bess-financing-as-merchant-market-weakens-esvolta-ceo-explains/",
@@ -202,7 +190,7 @@
       "date": "Thu, 17 Sep 2026 12:09:09 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935177"
+      "fetched_at": "2026-09-20T12:12:35.017960"
     },
     {
       "id": "https://www.utilitydive.com/news/trump-is-stalling-ev-adoption-heres-how-states-can-step-up/829632/",
@@ -214,7 +202,7 @@
       "date": "Thu, 17 Sep 2026 12:07:09 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935214"
+      "fetched_at": "2026-09-20T12:12:35.017991"
     },
     {
       "id": "https://www.energy-storage.news/commissioning-delays-and-technical-gaps-plague-battery-storage-handovers-industry-experts-warn/",
@@ -226,7 +214,7 @@
       "date": "Thu, 17 Sep 2026 12:06:25 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935194"
+      "fetched_at": "2026-09-20T12:12:35.017975"
     },
     {
       "id": "https://www.utilitydive.com/news/meta-apex-clean-energy-144-mw-texas-solar-ppa/830675/",
@@ -238,7 +226,7 @@
       "date": "Thu, 17 Sep 2026 11:42:04 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935219"
+      "fetched_at": "2026-09-20T12:12:35.017996"
     },
     {
       "id": "https://www.utilitydive.com/news/burlington-advances-on-site-solar-strategy-across-distribution-network/830650/",
@@ -250,7 +238,7 @@
       "date": "Thu, 17 Sep 2026 11:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935223"
+      "fetched_at": "2026-09-20T12:12:35.018000"
     },
     {
       "id": "https://www.utilitydive.com/news/house-passes-ratepayer-protection-bill-data-centers/830658/",
@@ -262,7 +250,7 @@
       "date": "Thu, 17 Sep 2026 10:31:21 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935227"
+      "fetched_at": "2026-09-20T12:12:35.018003"
     },
     {
       "id": "https://www.energy-storage.news/fluence-cuts-2026-revenue-ebitda-guidance-as-us-production-delays-bite/",
@@ -274,7 +262,7 @@
       "date": "Thu, 17 Sep 2026 08:35:44 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935200"
+      "fetched_at": "2026-09-20T12:12:35.017980"
     },
     {
       "id": "https://www.energy-storage.news/ihas-delhi-declaration-calls-for-policy-overhaul-to-unlock-indias-288gw-pumped-hydro-energy-storage-potential/",
@@ -286,7 +274,7 @@
       "date": "Thu, 17 Sep 2026 06:48:35 +0000",
       "signal_type": "regulatory",
       "relevance_score": 7.5,
-      "fetched_at": "2026-09-19T11:53:22.935205"
+      "fetched_at": "2026-09-20T12:12:35.017984"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/",
@@ -298,7 +286,7 @@
       "date": "Sun, 13 Sep 2026 16:45:33 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935327"
+      "fetched_at": "2026-09-20T12:12:35.018082"
     },
     {
       "id": "https://spaceflightnow.com/2026/08/29/roman-space-telescope-nasas-next-great-observatory-poised-for-sunday-launch/",
@@ -310,7 +298,31 @@
       "date": "Sat, 29 Aug 2026 22:17:36 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935349"
+      "fetched_at": "2026-09-20T12:12:35.018094"
+    },
+    {
+      "id": "https://spaceflightnow.com/2026/09/19/russian-progress-cargo-ship-arrives-at-international-space-station/",
+      "title": "Russian Progress cargo ship arrives at International Space Station",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/09/19/russian-progress-cargo-ship-arrives-at-international-space-station/",
+      "sector": "space",
+      "summary": "The Progress M-25 docked at the space-facing port of Russia\u2019s Poisk module at 9:44 a.m. EDT (1344 UTC) after a one-week delay. <a class=\"mh-excerpt-more\" href=\"https://spaceflightnow.com/2026/09/19/ru",
+      "date": "Sat, 19 Sep 2026 21:11:15 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-09-20T12:12:35.018057"
+    },
+    {
+      "id": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
+      "title": "SpaceX launches 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
+      "sector": "space",
+      "summary": "Liftoff from pad 4E at Vandenberg Space Force Base happened at 6:47 p.m. PDT (9:47 p.m. EDT / 0147 UTC). It was the 81st Starlink mission of the year. <a class=\"mh-excerpt-more\" href=\"https://spacefli",
+      "date": "Sat, 19 Sep 2026 20:06:04 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-09-20T12:12:35.018061"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/",
@@ -322,19 +334,7 @@
       "date": "Sat, 05 Sep 2026 22:06:47 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935341"
-    },
-    {
-      "id": "https://spaceflightnow.com/2026/08/24/live-coverage-spacex-to-launch-starlink-mission-on-a-falcon-boosters-record-breaking-37th-flight/",
-      "title": "SpaceX launches Starlink mission on a Falcon booster\u2019s record-breaking 37th flight",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/08/24/live-coverage-spacex-to-launch-starlink-mission-on-a-falcon-boosters-record-breaking-37th-flight/",
-      "sector": "space",
-      "summary": "The Starlink 10-49 mission is set to be the 100th launch of a Falcon 9 rocket in 2026. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 5:33 a.m. EDT (0933 UTC). <a class=\"mh",
-      "date": "Mon, 24 Aug 2026 19:19:59 +0000",
-      "signal_type": "technical",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935358"
+      "fetched_at": "2026-09-20T12:12:35.018087"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/",
@@ -346,7 +346,7 @@
       "date": "Mon, 14 Sep 2026 22:05:37 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935322"
+      "fetched_at": "2026-09-20T12:12:35.018078"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
@@ -358,7 +358,7 @@
       "date": "Mon, 14 Sep 2026 21:32:22 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935277"
+      "fetched_at": "2026-09-20T12:12:35.018045"
     },
     {
       "id": "https://www.energy-storage.news/us-roundup-eos-draws-us87-million-doe-loan-flexgen-lightshift-expand-to-16-projects-georgia-power-energises-128mw-facility/",
@@ -370,7 +370,7 @@
       "date": "Fri, 18 Sep 2026 12:36:43 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-09-19T11:53:22.934915"
+      "fetched_at": "2026-09-20T12:12:35.017656"
     },
     {
       "id": "https://www.energy-storage.news/jupiter-power-closes-us1-4-billion-financing-for-10-us-bess-projects-totalling-3-8gwh/",
@@ -382,7 +382,7 @@
       "date": "Fri, 18 Sep 2026 12:36:40 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-09-19T11:53:22.935149"
+      "fetched_at": "2026-09-20T12:12:35.017938"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
@@ -394,7 +394,7 @@
       "date": "Fri, 18 Sep 2026 11:00:11 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935253"
+      "fetched_at": "2026-09-20T12:12:35.018025"
     },
     {
       "id": "https://www.energy-storage.news/bess-industry-buzz-energy-storage-summit-germany-takeaways/",
@@ -406,7 +406,7 @@
       "date": "Fri, 18 Sep 2026 10:53:05 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935158"
+      "fetched_at": "2026-09-20T12:12:35.017945"
     },
     {
       "id": "https://www.utilitydive.com/news/microsoft-virginia-scc-data-center-transmission/830775/",
@@ -418,7 +418,7 @@
       "date": "Fri, 18 Sep 2026 10:09:13 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935210"
+      "fetched_at": "2026-09-20T12:12:35.017988"
     },
     {
       "id": "https://www.energy-storage.news/us-international-development-finance-corporation-supports-ukraine-bess-portfolio/",
@@ -430,7 +430,7 @@
       "date": "Fri, 18 Sep 2026 09:59:47 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935163"
+      "fetched_at": "2026-09-20T12:12:35.017949"
     },
     {
       "id": "https://www.energy-storage.news/australias-nsw-firming-tender-delivers-3gwh-of-battery-storage-as-all-round-2-projects-go-operational/",
@@ -442,7 +442,7 @@
       "date": "Fri, 18 Sep 2026 00:25:42 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935168"
+      "fetched_at": "2026-09-20T12:12:35.017952"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
@@ -454,7 +454,7 @@
       "date": "Fri, 11 Sep 2026 23:34:45 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935301"
+      "fetched_at": "2026-09-20T12:12:35.018048"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
@@ -466,7 +466,7 @@
       "date": "Fri, 11 Sep 2026 16:20:43 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-19T11:53:22.935306"
+      "fetched_at": "2026-09-20T12:12:35.018051"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
@@ -478,9 +478,9 @@
       "date": "Fri, 11 Sep 2026 11:00:44 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-19T11:53:22.935310"
+      "fetched_at": "2026-09-20T12:12:35.018054"
     }
   ],
   "regulations": [],
-  "last_update": "2026-09-19T11:53:23.413000"
+  "last_update": "2026-09-20T12:12:36.749410"
 }
