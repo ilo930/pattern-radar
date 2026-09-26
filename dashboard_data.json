@@ -10,7 +10,7 @@
       "date": "Wed, 23 Sep 2026 21:47:00 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685307"
+      "fetched_at": "2026-09-26T12:10:32.403675"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
@@ -22,11 +22,11 @@
       "date": "Wed, 23 Sep 2026 17:10:58 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685274"
+      "fetched_at": "2026-09-26T12:10:32.403645"
     },
     {
       "id": "https://www.utilitydive.com/news/microgrid-pnm-epri-data-center/831153/",
-      "title": "Microgrids must push beyond pilots, into everyday grid operations: panel",
+      "title": "Microgrids must push beyond pilots into everyday grid operations: panel",
       "source": "Utility Dive - Latest News",
       "url": "https://www.utilitydive.com/news/microgrid-pnm-epri-data-center/831153/",
       "sector": "energy-storage",
@@ -34,7 +34,7 @@
       "date": "Wed, 23 Sep 2026 11:33:19 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685236"
+      "fetched_at": "2026-09-26T12:10:32.403611"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
@@ -46,7 +46,7 @@
       "date": "Wed, 23 Sep 2026 11:00:17 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685278"
+      "fetched_at": "2026-09-26T12:10:32.403649"
     },
     {
       "id": "https://www.utilitydive.com/news/ferc-options-modernizing-pjm-governance-peskoe/830905/",
@@ -58,7 +58,7 @@
       "date": "Wed, 23 Sep 2026 10:28:49 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685240"
+      "fetched_at": "2026-09-26T12:10:32.403615"
     },
     {
       "id": "https://www.utilitydive.com/news/ferc-exelon-comed-powerhouse-hillwood-data-center/831127/",
@@ -70,55 +70,7 @@
       "date": "Wed, 23 Sep 2026 09:45:55 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685244"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/efforts-to-curb-data-center-speculation-gain-ground-across-the-us/830495/",
-      "title": "Efforts to curb data center speculation gain ground across the US",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/efforts-to-curb-data-center-speculation-gain-ground-across-the-us/830495/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/kNgFGia4MxL4zkfJxRkLEQ_QhI2A6wVTTpF9bY8k6Yg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdGFyZ2F0ZV9BYmlsZW5lLmpwZw==.webp\" /",
-      "date": "Wed, 23 Sep 2026 07:50:24 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685249"
-    },
-    {
-      "id": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-      "sector": "space",
-      "summary": "Group plans to be largely out of commission for several weeks.",
-      "date": "Wed, 16 Sep 2026 21:08:14 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685295"
-    },
-    {
-      "id": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/",
-      "title": "SpaceX launches classified payload for the U.S. Space Force",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/",
-      "sector": "space",
-      "summary": "The mission, dubbed USSF-153 mission, launched an undisclosed number of satellites for the U.S. Space Force. Liftoff from pad 4E at Vandenberg Space Force Base happened at 8:42 a.m. PDT (1142 a.m. EDT",
-      "date": "Wed, 09 Sep 2026 22:32:04 +0000",
-      "signal_type": "technical",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685346"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/lower-energy-costs-community-benefits-drive-30-battery-growth-rate-rmi/831039/",
-      "title": "Lower energy costs, community benefits drive 30% battery growth rate: RMI",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/lower-energy-costs-community-benefits-drive-30-battery-growth-rate-rmi/831039/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/E4uSRVKgfvHaWNloI4LOq2BWb3RbY5TDJ8RtkjY6M6w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9WaWVqYXNfTWljcm9ncmlkXy1fQmF0dGVyeV9Z",
-      "date": "Tue, 22 Sep 2026 12:39:18 -0400",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685253"
+      "fetched_at": "2026-09-26T12:10:32.403620"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
@@ -130,31 +82,7 @@
       "date": "Tue, 22 Sep 2026 11:00:37 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685282"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/its-time-for-utility-bill-reform/829674/",
-      "title": "It\u2019s time for utility bill reform",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/its-time-for-utility-bill-reform/829674/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/9M2jyF3eAe0jD1w7BsbUDPJ1LXohlExv4N4ckyletRk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU2MzIyNTEzLmpwZw==",
-      "date": "Tue, 22 Sep 2026 11:00:00 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685258"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
-      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
-      "sector": "space",
-      "summary": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
-      "date": "Tue, 15 Sep 2026 22:26:32 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685299"
+      "fetched_at": "2026-09-26T12:10:32.403654"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/",
@@ -166,7 +94,7 @@
       "date": "Tue, 15 Sep 2026 21:29:03 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685330"
+      "fetched_at": "2026-09-26T12:10:32.403698"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/",
@@ -178,7 +106,7 @@
       "date": "Tue, 15 Sep 2026 03:51:39 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685334"
+      "fetched_at": "2026-09-26T12:10:32.403702"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/",
@@ -190,7 +118,7 @@
       "date": "Thu, 24 Sep 2026 23:07:18 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685303"
+      "fetched_at": "2026-09-26T12:10:32.403671"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
@@ -202,7 +130,7 @@
       "date": "Thu, 24 Sep 2026 21:40:07 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685266"
+      "fetched_at": "2026-09-26T12:10:32.403637"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
@@ -214,7 +142,7 @@
       "date": "Thu, 24 Sep 2026 14:57:50 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685270"
+      "fetched_at": "2026-09-26T12:10:32.403641"
     },
     {
       "id": "https://www.energy-storage.news/fcas-convinced-regulators-to-compromise-on-grid-fees-in-germany-eco-stors-georg-gallmetzer-on-cementing-the-industrys-future/",
@@ -226,7 +154,7 @@
       "date": "Thu, 24 Sep 2026 13:01:50 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685180"
+      "fetched_at": "2026-09-26T12:10:32.403539"
     },
     {
       "id": "https://www.utilitydive.com/news/utility-giant-exelons-climate-arm-backs-grid-planning-firm-continuum/831276/",
@@ -238,7 +166,7 @@
       "date": "Thu, 24 Sep 2026 12:12:30 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685218"
+      "fetched_at": "2026-09-26T12:10:32.403588"
     },
     {
       "id": "https://www.energy-storage.news/data-centre-buildout-uplifting-us-bess-market-outlook-wood-mackenzie-says/",
@@ -250,7 +178,7 @@
       "date": "Thu, 24 Sep 2026 12:08:46 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685196"
+      "fetched_at": "2026-09-26T12:10:32.403555"
     },
     {
       "id": "https://www.utilitydive.com/news/doe-advanced-transmission-projects-spark-funding/831259/",
@@ -262,7 +190,7 @@
       "date": "Thu, 24 Sep 2026 11:06:57 -0400",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-09-25T12:42:05.685223"
+      "fetched_at": "2026-09-26T12:10:32.403593"
     },
     {
       "id": "https://www.utilitydive.com/news/community-solar-energy-storage-der-tax-credits/830117/",
@@ -274,7 +202,7 @@
       "date": "Thu, 24 Sep 2026 11:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685228"
+      "fetched_at": "2026-09-26T12:10:32.403597"
     },
     {
       "id": "https://www.energy-storage.news/nyserda-picks-eight-projects-for-new-york-utility-scale-energy-storage-programme/",
@@ -286,7 +214,7 @@
       "date": "Thu, 24 Sep 2026 10:56:33 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685204"
+      "fetched_at": "2026-09-26T12:10:32.403563"
     },
     {
       "id": "https://www.energy-storage.news/greenvolt-starts-building-2-4gwh-byd-supplied-poland-bess-900mwh-progressed-elsewhere-in-cee-baltics/",
@@ -298,7 +226,7 @@
       "date": "Thu, 24 Sep 2026 10:07:43 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685209"
+      "fetched_at": "2026-09-26T12:10:32.403569"
     },
     {
       "id": "https://www.energy-storage.news/eu-battery-passport-will-be-an-evolving-tool-rather-than-a-one-off/",
@@ -310,7 +238,19 @@
       "date": "Thu, 24 Sep 2026 10:00:41 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685214"
+      "fetched_at": "2026-09-26T12:10:32.403574"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/affordability-concerns-drive-momentum-for-performance-based-ratemaking/831120/",
+      "title": "Affordability concerns drive momentum for performance-based ratemaking",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/affordability-concerns-drive-momentum-for-performance-based-ratemaking/831120/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/I05RAiEj-TlZ7njDFZjtJiqh6teeI_TSW2LT__JnVJw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNoaWdhbl90cmFuc21pc3Npb24uanBn.web",
+      "date": "Thu, 24 Sep 2026 09:11:07 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-09-26T12:10:32.403601"
     },
     {
       "id": "https://www.utilitydive.com/news/new-york-audits-utility-ai-use-cites-risk-in-growing-dependency/831242/",
@@ -322,7 +262,7 @@
       "date": "Thu, 24 Sep 2026 08:36:58 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685232"
+      "fetched_at": "2026-09-26T12:10:32.403606"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
@@ -334,7 +274,7 @@
       "date": "Thu, 17 Sep 2026 14:37:37 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685291"
+      "fetched_at": "2026-09-26T12:10:32.403662"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/",
@@ -346,7 +286,7 @@
       "date": "Sun, 13 Sep 2026 16:45:33 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685342"
+      "fetched_at": "2026-09-26T12:10:32.403731"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/19/russian-progress-cargo-ship-arrives-at-international-space-station/",
@@ -358,7 +298,7 @@
       "date": "Sat, 19 Sep 2026 21:11:15 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685315"
+      "fetched_at": "2026-09-26T12:10:32.403689"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
@@ -370,7 +310,7 @@
       "date": "Sat, 19 Sep 2026 20:06:04 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685325"
+      "fetched_at": "2026-09-26T12:10:32.403694"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/",
@@ -382,7 +322,7 @@
       "date": "Mon, 21 Sep 2026 17:25:37 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685311"
+      "fetched_at": "2026-09-26T12:10:32.403680"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/",
@@ -394,7 +334,43 @@
       "date": "Mon, 14 Sep 2026 22:05:37 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685338"
+      "fetched_at": "2026-09-26T12:10:32.403706"
+    },
+    {
+      "id": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/",
+      "title": "SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/",
+      "sector": "space",
+      "summary": "Liftoff of the USSF-385 mission atop a Falcon 9 is scheduled for 7 a.m. PDT (10 a.m. EDT / 1400 UTC) at the opening of a three-hour launch window. <a class=\"mh-excerpt-more\" href=\"https://spaceflightn",
+      "date": "Fri, 25 Sep 2026 20:26:14 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-09-26T12:10:32.403666"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+      "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+      "sector": "space",
+      "summary": "\"There is always a tension that comes with seeing the first of anything fly.\"",
+      "date": "Fri, 25 Sep 2026 15:35:23 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-09-26T12:10:32.403625"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+      "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+      "sector": "space",
+      "summary": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
+      "date": "Fri, 25 Sep 2026 14:07:46 +0000",
+      "signal_type": "capital_deployment",
+      "relevance_score": 7.0,
+      "fetched_at": "2026-09-26T12:10:32.403629"
     },
     {
       "id": "https://www.energy-storage.news/bess-industry-buzz-owner-vs-trader-returns-market-saturation-more-northvolt-ma-alt-technologies-differing-fortunes/",
@@ -406,7 +382,7 @@
       "date": "Fri, 25 Sep 2026 12:21:32 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.684914"
+      "fetched_at": "2026-09-26T12:10:32.403272"
     },
     {
       "id": "https://www.energy-storage.news/us-roundup-bess-portfolio-deals-investment-and-partnerships-for-energy-vault-smt-energy-neovolta-and-sk-on/",
@@ -418,7 +394,7 @@
       "date": "Fri, 25 Sep 2026 11:04:59 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-09-25T12:42:05.685154"
+      "fetched_at": "2026-09-26T12:10:32.403514"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
@@ -430,7 +406,7 @@
       "date": "Fri, 25 Sep 2026 11:00:10 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685262"
+      "fetched_at": "2026-09-26T12:10:32.403633"
     },
     {
       "id": "https://www.energy-storage.news/us-power-conversion-manufacturers-in-spotlight-power-electronics-builds-houston-factory-heron-power-lands-rwe-pilot/",
@@ -442,7 +418,31 @@
       "date": "Fri, 25 Sep 2026 10:46:20 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-25T12:42:05.685164"
+      "fetched_at": "2026-09-26T12:10:32.403523"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/second-federal-judge-overturns-7b-solar-for-all-cancellation-by-trump-admi/831371/",
+      "title": "Second federal judge overturns $7B Solar for All cancellation by Trump administration",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/second-federal-judge-overturns-7b-solar-for-all-cancellation-by-trump-admi/831371/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/iufL00sIgeaxKNw8jnIGOFxagmAL1noTOrMGJ3_z0lk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yb29mdG9wX3NvbGFyX0NhbGlmb3JuaWEuanBn",
+      "date": "Fri, 25 Sep 2026 10:13:58 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-09-26T12:10:32.403579"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/ferc-rejects-oklo-complaint-pjm-interconnection/831357/",
+      "title": "FERC rejects Oklo complaint seeking to reinstate project to PJM\u2019s interconnection study cycle",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/ferc-rejects-oklo-complaint-pjm-interconnection/831357/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/AE7uPp236vg7q8q9iY6CCvXQwIdc0VSLJlP2b2VkLlQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjAzODEzMjg1LmpwZw==",
+      "date": "Fri, 25 Sep 2026 09:46:29 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-09-26T12:10:32.403583"
     },
     {
       "id": "https://www.energy-storage.news/esr-to-acquire-aquila-clean-energy-apac-in-asia-pacific-renewables-and-energy-storage-consolidation/",
@@ -454,7 +454,7 @@
       "date": "Fri, 25 Sep 2026 03:22:16 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685170"
+      "fetched_at": "2026-09-26T12:10:32.403529"
     },
     {
       "id": "https://www.energy-storage.news/aemo-connects-record-9-1gw-of-renewables-and-storage-to-australias-nem-in-fy26-warns-reliability-depends-on-timely-investment/",
@@ -466,7 +466,7 @@
       "date": "Fri, 25 Sep 2026 03:20:34 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-09-25T12:42:05.685175"
+      "fetched_at": "2026-09-26T12:10:32.403534"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
@@ -478,9 +478,9 @@
       "date": "Fri, 18 Sep 2026 11:00:11 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-25T12:42:05.685286"
+      "fetched_at": "2026-09-26T12:10:32.403658"
     }
   ],
   "regulations": [],
-  "last_update": "2026-09-25T12:42:06.536850"
+  "last_update": "2026-09-26T12:10:33.098394"
 }
