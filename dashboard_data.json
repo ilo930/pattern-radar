@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "id": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
+      "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
+      "sector": "space",
+      "summary": "Russia says it has a \"promising, reusable manned transport spacecraft.\"",
+      "date": "Wed, 30 Sep 2026 16:48:56 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-10-01T14:23:15.858547"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/facilities-using-48e-credits-to-make-energy-projects-pencil-out/831733/",
+      "title": "Facilities are using 48E investment tax credits to make energy projects pencil out",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/facilities-using-48e-credits-to-make-energy-projects-pencil-out/831733/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/H6Hj5AREcOQu-tJCpd4lv-91AC7g50Fik6KdLjBn5mM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU1MDExNDQyLmpwZw==",
+      "date": "Wed, 30 Sep 2026 12:00:00 -0400",
+      "signal_type": "capital_deployment",
+      "relevance_score": 7.0,
+      "fetched_at": "2026-10-01T14:23:15.858504"
+    },
+    {
       "id": "https://www.energy-storage.news/us-utilities-ameren-missouri-dte-energy-in-michigan-and-black-hills-energy-in-colorado-submit-irps-with-highlighted-bess-additions/",
       "title": "US utilities Ameren Missouri, DTE Energy in Michigan, and Black Hills Energy in Colorado submit IRPs with highlighted BESS additions",
       "source": "Energy-Storage.News",
@@ -10,7 +34,7 @@
       "date": "Wed, 30 Sep 2026 11:13:13 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.660889"
+      "fetched_at": "2026-10-01T14:23:15.858490"
     },
     {
       "id": "https://www.energy-storage.news/northland-power-puts-canadian-province-of-albertas-largest-bess-into-operation/",
@@ -22,91 +46,31 @@
       "date": "Wed, 30 Sep 2026 11:08:35 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661130"
+      "fetched_at": "2026-10-01T14:23:15.858495"
     },
     {
-      "id": "https://www.energy-storage.news/volkswagens-new-lfp-battery-jvs-with-gotion-will-adjust-ev-and-bess-cell-production-split-based-on-demand/",
-      "title": "Volkswagen\u2019s new LFP battery JVs with Gotion will adjust EV and BESS cell production split based on demand",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/volkswagens-new-lfp-battery-jvs-with-gotion-will-adjust-ev-and-bess-cell-production-split-based-on-demand/",
+      "id": "https://www.utilitydive.com/news/pjm-delays-backstop-procurement-ferc-data-center/831751/",
+      "title": "FERC chair slams PJM \u2018mess\u2019 as country\u2019s largest grid operator delays power auction",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/pjm-delays-backstop-procurement-ferc-data-center/831751/",
       "sector": "energy-storage",
-      "summary": "Gotion and Volkswagen AG will establish three joint ventures to manufacture lithium iron phosphate (LFP) batteries and battery materials in Valencia (Spain), Surany (Slovakia), and Kenitra (Morocco).",
-      "date": "Wed, 30 Sep 2026 09:07:34 +0000",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/-KYPtfPU1rvep9Hd-TDs9jNWgFfxxyHu8Fvb2EM9SFI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyMDU1MTk2LmpwZw==",
+      "date": "Wed, 30 Sep 2026 09:48:55 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661137"
+      "fetched_at": "2026-10-01T14:23:15.858508"
     },
     {
-      "id": "https://www.energy-storage.news/availability-why-this-bess-performance-metric-matters-so-much-and-how-to-calculate-it/",
-      "title": "Availability: Why this BESS performance metric matters so much, and how to calculate it",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/availability-why-this-bess-performance-metric-matters-so-much-and-how-to-calculate-it/",
+      "id": "https://www.utilitydive.com/news/ameren-missouri-files-20-year-plan-with-106-gw-gas-additions/831758/",
+      "title": "Ameren Missouri files 20-year plan with 10.6 GW of gas additions",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/ameren-missouri-files-20-year-plan-with-106-gw-gas-additions/831758/",
       "sector": "energy-storage",
-      "summary": "Liam Critchley with an ESN Premium deep dive into availability, one of the most-discussed metrics in battery storage performance.",
-      "date": "Wed, 30 Sep 2026 07:56:44 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661142"
-    },
-    {
-      "id": "https://www.energy-storage.news/kerala-indian-state-proposes-five-year-electricity-tariff-framework-with-new-provisions-for-bess/",
-      "title": "Kerala: Indian state proposes five-year electricity tariff framework with new provisions for BESS",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/kerala-indian-state-proposes-five-year-electricity-tariff-framework-with-new-provisions-for-bess/",
-      "sector": "energy-storage",
-      "summary": "Kerala has proposed a five-year tariff framework with rules for BESS, PSP, including efficiency, availability and grid-forming requirements.",
-      "date": "Wed, 30 Sep 2026 04:56:27 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661145"
-    },
-    {
-      "id": "https://www.energy-storage.news/spain-is-making-batteries-a-licensing-condition-for-data-centres-and-nobody-noticed/",
-      "title": "Spain is making batteries a licensing condition for data centres, and nobody noticed",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/spain-is-making-batteries-a-licensing-condition-for-data-centres-and-nobody-noticed/",
-      "sector": "energy-storage",
-      "summary": "Spain's recent proposal for data centres could be the catalyst the country's energy storage market has been waiting for, argues Ignacio L\u00f3pez Mart\u00edn from developer Capflex Energ\u00eda.",
-      "date": "Wed, 30 Sep 2026 04:51:05 +0000",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/IokdWHC0iTCdd8Ti-tmXZR-nitqVekbHqsfiVv34Evs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDktMzBfMTA1OTU2",
+      "date": "Wed, 30 Sep 2026 09:27:02 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661148"
-    },
-    {
-      "id": "https://www.energy-storage.news/gotion-to-supply-6gwh-of-battery-storage-for-saudi-arabias-first-utility-scale-bess-tender/",
-      "title": "Gotion to supply 6GWh of battery storage for Saudi Arabia\u2019s first utility-scale BESS tender",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/gotion-to-supply-6gwh-of-battery-storage-for-saudi-arabias-first-utility-scale-bess-tender/",
-      "sector": "energy-storage",
-      "summary": "Gotion High-Tech has been named as the BESS supplier for three projects totalling 6GWh awarded to an ACWA Power consortium in Saudi Arabia.",
-      "date": "Wed, 30 Sep 2026 04:01:38 +0000",
-      "signal_type": "supply_shock",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661152"
-    },
-    {
-      "id": "https://www.energy-storage.news/australia-energy-vault-secures-nsw-approval-for-1gwh-bess-tagenergy-submits-4gwh-victoria-project/",
-      "title": "Australia: Energy Vault secures NSW approval for 1GWh BESS, TagEnergy submits 4GWh Victoria project",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/australia-energy-vault-secures-nsw-approval-for-1gwh-bess-tagenergy-submits-4gwh-victoria-project/",
-      "sector": "energy-storage",
-      "summary": "Two Australian battery storage developments advanced, both moving large-scale projects closer to construction through separate approval pathways.",
-      "date": "Wed, 30 Sep 2026 03:35:14 +0000",
-      "signal_type": "capital_deployment",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661164"
-    },
-    {
-      "id": "https://www.energy-storage.news/frv-australia-completes-first-standalone-bess-with-100mw-200mwh-terang-project-in-victoria/",
-      "title": "FRV Australia completes first standalone BESS with 100MW/200MWh Terang project in Victoria",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/frv-australia-completes-first-standalone-bess-with-100mw-200mwh-terang-project-in-victoria/",
-      "sector": "energy-storage",
-      "summary": "FRV Australia has commissioned the 100MW/200MWh Terang battery storage system in Victoria, the company's first standalone storage project.",
-      "date": "Wed, 30 Sep 2026 03:30:58 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661168"
+      "fetched_at": "2026-10-01T14:23:15.858513"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/",
@@ -118,19 +82,7 @@
       "date": "Wed, 23 Sep 2026 21:47:00 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661276"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
-      "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
-      "sector": "space",
-      "summary": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
-      "date": "Wed, 23 Sep 2026 17:10:58 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661232"
+      "fetched_at": "2026-10-01T14:23:15.858616"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
@@ -142,19 +94,7 @@
       "date": "Tue, 29 Sep 2026 18:34:00 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661208"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/facilities-fueling-energy-storage-installations/831510/",
-      "title": "Facilities fueling energy storage installations",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/facilities-fueling-energy-storage-installations/831510/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KSb42buGFZLMFc93gmyq3ZYY65YmlgNshJ9fIx99yLA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzMDgxNTAzLmpwZw==",
-      "date": "Tue, 29 Sep 2026 12:00:00 -0400",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661175"
+      "fetched_at": "2026-10-01T14:23:15.858551"
     },
     {
       "id": "https://www.utilitydive.com/news/the-data-center-boom-continues-apace-but-projects-face-mounting-obstacles/830496/",
@@ -166,19 +106,19 @@
       "date": "Tue, 29 Sep 2026 12:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661178"
+      "fetched_at": "2026-10-01T14:23:15.858517"
     },
     {
-      "id": "https://www.energy-storage.news/sma-battery-inverter-first-to-win-grid-forming-certification-for-german-inertia-market/",
-      "title": "SMA battery inverter first to win grid-forming certification for German inertia market",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/sma-battery-inverter-first-to-win-grid-forming-certification-for-german-inertia-market/",
+      "id": "https://www.utilitydive.com/news/facilities-fueling-energy-storage-installations/831510/",
+      "title": "Facilities fueling energy storage installations",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/facilities-fueling-energy-storage-installations/831510/",
       "sector": "energy-storage",
-      "summary": "Inverter manufacturer SMA Solar Technology has become the first to be certified as capable of providing inertia to the German grid.",
-      "date": "Tue, 29 Sep 2026 11:37:42 +0000",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KSb42buGFZLMFc93gmyq3ZYY65YmlgNshJ9fIx99yLA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzMDgxNTAzLmpwZw==",
+      "date": "Tue, 29 Sep 2026 12:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661172"
+      "fetched_at": "2026-10-01T14:23:15.858521"
     },
     {
       "id": "https://www.utilitydive.com/news/amid-acquisition-energy-vault-keeps-close-watch-on-trumps-bulk-power-orde/831646/",
@@ -190,7 +130,7 @@
       "date": "Tue, 29 Sep 2026 11:34:42 -0400",
       "signal_type": "capital_deployment",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661182"
+      "fetched_at": "2026-10-01T14:23:15.858526"
     },
     {
       "id": "https://www.utilitydive.com/news/virtuous-cycle-inclusive-utility-investment-virtual-power-plants/830123/",
@@ -202,7 +142,7 @@
       "date": "Tue, 29 Sep 2026 11:00:00 -0400",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-09-30T13:33:25.661186"
+      "fetched_at": "2026-10-01T14:23:15.858530"
     },
     {
       "id": "https://www.utilitydive.com/news/most-nyc-buildings-met-emissions-standard-in-first-compliance-year/831620/",
@@ -214,7 +154,7 @@
       "date": "Tue, 29 Sep 2026 10:33:36 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661189"
+      "fetched_at": "2026-10-01T14:23:15.858535"
     },
     {
       "id": "https://www.utilitydive.com/news/usda-rural-solar-reap-program-lawsuit-earthjustice/831614/",
@@ -226,7 +166,7 @@
       "date": "Tue, 29 Sep 2026 09:57:29 -0400",
       "signal_type": "regulatory",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661192"
+      "fetched_at": "2026-10-01T14:23:15.858540"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/",
@@ -238,7 +178,7 @@
       "date": "Tue, 29 Sep 2026 01:14:36 +0000",
       "signal_type": "technical",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661234"
+      "fetched_at": "2026-10-01T14:23:15.858586"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/",
@@ -250,7 +190,7 @@
       "date": "Thu, 24 Sep 2026 23:07:18 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661273"
+      "fetched_at": "2026-10-01T14:23:15.858612"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
@@ -262,19 +202,139 @@
       "date": "Thu, 24 Sep 2026 21:40:07 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661227"
+      "fetched_at": "2026-10-01T14:23:15.858578"
     },
     {
-      "id": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
-      "title": "NASA chief concerned China may deny access to parts of Moon's south pole",
+      "id": "https://www.energy-storage.news/major-us-partnerships-may-signal-battery-storages-infrastructure-era/",
+      "title": "Major US partnerships may signal battery storage\u2019s infrastructure era",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/major-us-partnerships-may-signal-battery-storages-infrastructure-era/",
+      "sector": "energy-storage",
+      "summary": "Battery energy storage systems (BESS) are increasingly being positioned as essential infrastructure investments rather than purely financial assets, as seen in a series of strategic partnerships annou",
+      "date": "Thu, 01 Oct 2026 13:15:43 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-01T14:23:15.858124"
+    },
+    {
+      "id": "https://www.energy-storage.news/maharashtras-regulator-proposes-mandatory-bess-for-renewable-projects-seeking-grid-connectivity-in-indian-state/",
+      "title": "Maharashtra\u2019s regulator proposes mandatory BESS for renewable projects seeking grid connectivity in Indian state",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/maharashtras-regulator-proposes-mandatory-bess-for-renewable-projects-seeking-grid-connectivity-in-indian-state/",
+      "sector": "energy-storage",
+      "summary": "Maharashtra's electricity regulator has proposed mandatory BESS for renewable projects seeking grid connectivity.",
+      "date": "Thu, 01 Oct 2026 13:04:05 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-01T14:23:15.858437"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
+      "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
       "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
+      "url": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
       "sector": "space",
-      "summary": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
-      "date": "Thu, 24 Sep 2026 14:57:50 +0000",
+      "summary": "\"We did some really, really cool stuff. I'm absolutely gutted we weren't able to get further.\"",
+      "date": "Thu, 01 Oct 2026 11:15:15 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661229"
+      "fetched_at": "2026-10-01T14:23:15.858544"
+    },
+    {
+      "id": "https://www.energy-storage.news/wartsilas-energy-storage-division-rebrands-through-rct-solar-joint-venture/",
+      "title": "W\u00e4rtsil\u00e4\u2019s energy storage division rebrands through RCT Solutions joint venture",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/wartsilas-energy-storage-division-rebrands-through-rct-solar-joint-venture/",
+      "sector": "energy-storage",
+      "summary": "W\u00e4rtsil\u00e4\u2019s energy storage business will now operate under the new brand name Varo, following the close of the company\u2019s joint venture (JV) with RCT Solar.",
+      "date": "Thu, 01 Oct 2026 11:12:19 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-01T14:23:15.858446"
+    },
+    {
+      "id": "https://www.energy-storage.news/california-energy-commissions-noemi-gallardo-on-the-states-bess-expansion/",
+      "title": "California Energy Commission\u2019s Noem\u00ed Gallardo on the state\u2019s BESS expansion",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/california-energy-commissions-noemi-gallardo-on-the-states-bess-expansion/",
+      "sector": "energy-storage",
+      "summary": "Energy-Storage.news spoke with Noem\u00ed\u202fGallardo, Commissioner at the California Energy Commission (CEC), at the US Solar &#038; Storage Finance event in Garden Grove, California, about the growth of BES",
+      "date": "Thu, 01 Oct 2026 09:57:48 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-01T14:23:15.858451"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/looking-beyond-peak-how-measure-grid-utilization/831533/",
+      "title": "Looking beyond peak: Industry coalition floats new approach to measuring grid utilization",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/looking-beyond-peak-how-measure-grid-utilization/831533/",
+      "sector": "energy-storage",
+      "summary": "<p>Current grid utilization should be viewed not as a problem, but as an opportunity to advance affordability and free up new capacity, writes&nbsp;Ian Magruder, executive director of Utilize Coalitio",
+      "date": "Thu, 01 Oct 2026 09:24:02 -0400",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-01T14:23:15.858499"
+    },
+    {
+      "id": "https://www.energy-storage.news/it-will-work-and-itll-be-in-australia-eora-energy-on-the-future-of-vanadium-flow-batteries/",
+      "title": "\u2018It will work, and it\u2019ll be in Australia\u2019: EORA Energy on the future of vanadium flow batteries",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/it-will-work-and-itll-be-in-australia-eora-energy-on-the-future-of-vanadium-flow-batteries/",
+      "sector": "energy-storage",
+      "summary": "James Costello of EORA Energy discusses the shift from supplying battery technology to developing full energy infrastructure projects.",
+      "date": "Thu, 01 Oct 2026 08:39:24 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-10-01T14:23:15.858457"
+    },
+    {
+      "id": "https://www.energy-storage.news/sungrow-completes-108mw-grid-forming-battery-storage-system-with-black-start-capability-in-cambodia/",
+      "title": "Sungrow completes 108MW grid-forming battery storage system with black start capability in Cambodia",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/sungrow-completes-108mw-grid-forming-battery-storage-system-with-black-start-capability-in-cambodia/",
+      "sector": "energy-storage",
+      "summary": "Sungrow has completed grid connection and full acceptance testing of a 108.4MW/215.6MWh grid-forming BESS in Cambodia.",
+      "date": "Thu, 01 Oct 2026 08:31:04 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-01T14:23:15.858462"
+    },
+    {
+      "id": "https://www.energy-storage.news/financial-services-group-orix-builds-589mwh-of-bess-in-japan-after-securing-first-external-investment/",
+      "title": "Financial services group Orix builds 589MWh of BESS in Japan after securing first external investment",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/financial-services-group-orix-builds-589mwh-of-bess-in-japan-after-securing-first-external-investment/",
+      "sector": "energy-storage",
+      "summary": "Orix Corporation has begun construction of its first battery storage projects to be supported by external investment.",
+      "date": "Thu, 01 Oct 2026 02:58:48 +0000",
+      "signal_type": "capital_deployment",
+      "relevance_score": 8.0,
+      "fetched_at": "2026-10-01T14:23:15.858466"
+    },
+    {
+      "id": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/",
+      "title": "Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/",
+      "sector": "space",
+      "summary": "NASA astronaut Jessica Watkins, will become the first agency astronaut to fly for a second time onboard a SpaceX Dragon spacecraft. Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space F",
+      "date": "Thu, 01 Oct 2026 02:03:53 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-01T14:23:15.858582"
+    },
+    {
+      "id": "https://www.energy-storage.news/queenslands-cleanco-credits-battery-storage-boom-as-australian-state-records-40-wholesale-electricity-price-drop/",
+      "title": "Queensland\u2019s CleanCo credits battery storage boom as Australian state records 40% wholesale electricity price drop",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/queenslands-cleanco-credits-battery-storage-boom-as-australian-state-records-40-wholesale-electricity-price-drop/",
+      "sector": "energy-storage",
+      "summary": "Queensland's average wholesale electricity price fell by 40% in the 2025-26 financial year, a drop CleanCo Queensland attributes to BESS.",
+      "date": "Thu, 01 Oct 2026 01:19:52 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-01T14:23:15.858485"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/",
@@ -286,7 +346,7 @@
       "date": "Sat, 26 Sep 2026 19:36:47 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661267"
+      "fetched_at": "2026-10-01T14:23:15.858604"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/19/russian-progress-cargo-ship-arrives-at-international-space-station/",
@@ -298,19 +358,7 @@
       "date": "Sat, 19 Sep 2026 21:11:15 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661281"
-    },
-    {
-      "id": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
-      "title": "SpaceX launches 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
-      "sector": "space",
-      "summary": "Liftoff from pad 4E at Vandenberg Space Force Base happened at 6:47 p.m. PDT (9:47 p.m. EDT / 0147 UTC). It was the 81st Starlink mission of the year. <a class=\"mh-excerpt-more\" href=\"https://spacefli",
-      "date": "Sat, 19 Sep 2026 20:06:04 +0000",
-      "signal_type": "technical",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661284"
+      "fetched_at": "2026-10-01T14:23:15.858624"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
@@ -322,7 +370,7 @@
       "date": "Mon, 28 Sep 2026 22:24:33 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661211"
+      "fetched_at": "2026-10-01T14:23:15.858555"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
@@ -334,7 +382,7 @@
       "date": "Mon, 28 Sep 2026 21:26:19 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661213"
+      "fetched_at": "2026-10-01T14:23:15.858559"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/",
@@ -346,7 +394,7 @@
       "date": "Mon, 28 Sep 2026 20:40:02 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661237"
+      "fetched_at": "2026-10-01T14:23:15.858590"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
@@ -358,55 +406,7 @@
       "date": "Mon, 28 Sep 2026 16:03:50 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661216"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/data-centers-backup-power-contributing-to-health-risks-report-says/831507/",
-      "title": "Data center backup power contributes to health risks: report",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/data-centers-backup-power-contributing-to-health-risks-report-says/831507/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/l4lTqIYg2xHhSXhn3Nx80k_0Wfmsy_czmO2J1hjBJdM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyNDAyMzY2XzEuanBn",
-      "date": "Mon, 28 Sep 2026 11:47:54 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661195"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/spp-resource-adequacy-western-balancing-area-baa-ferc/831482/",
-      "title": "SPP\u2019s \u2018stop-gap\u2019 resource adequacy plan for Western balancing area panned at FERC",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/spp-resource-adequacy-western-balancing-area-baa-ferc/831482/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_3DySS74bsgDpLPSxBaSaAkNlpTsqu8WjlMlmsIYn3k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzc0MDMzODcuanBn.web",
-      "date": "Mon, 28 Sep 2026 10:24:02 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661199"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/nyserda-taps-950-mw-lithium-batteries-700-mw-renewables/831455/",
-      "title": "NYSERDA taps 950 MW lithium batteries, 700 MW renewables",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/nyserda-taps-950-mw-lithium-batteries-700-mw-renewables/831455/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/DJcOAYu03TIy8RN-Vof7faXPhTrWb6jXsJR_PODz1nk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQxMzA4ODY1LmpwZw==",
-      "date": "Mon, 28 Sep 2026 08:29:39 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661202"
-    },
-    {
-      "id": "https://www.utilitydive.com/spons/from-data-centers-to-ai-factories-what-utilities-need-to-know-about-the-ne/831041/",
-      "title": "From data centers to AI factories: What utilities need to know about the next wave of load growth",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/spons/from-data-centers-to-ai-factories-what-utilities-need-to-know-about-the-ne/831041/",
-      "sector": "energy-storage",
-      "summary": "<p>&nbsp;The AI boom is here. Can utilities plan fast enough to power it?</p>",
-      "date": "Mon, 28 Sep 2026 05:00:00 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661205"
+      "fetched_at": "2026-10-01T14:23:15.858563"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/",
@@ -418,7 +418,7 @@
       "date": "Mon, 28 Sep 2026 00:21:39 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661240"
+      "fetched_at": "2026-10-01T14:23:15.858600"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/",
@@ -430,7 +430,7 @@
       "date": "Mon, 21 Sep 2026 17:25:37 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661279"
+      "fetched_at": "2026-10-01T14:23:15.858620"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/",
@@ -442,7 +442,7 @@
       "date": "Fri, 25 Sep 2026 20:26:14 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661271"
+      "fetched_at": "2026-10-01T14:23:15.858608"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
@@ -454,7 +454,7 @@
       "date": "Fri, 25 Sep 2026 15:35:23 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-09-30T13:33:25.661219"
+      "fetched_at": "2026-10-01T14:23:15.858567"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
@@ -466,7 +466,7 @@
       "date": "Fri, 25 Sep 2026 14:07:46 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-09-30T13:33:25.661221"
+      "fetched_at": "2026-10-01T14:23:15.858571"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
@@ -478,9 +478,9 @@
       "date": "Fri, 25 Sep 2026 11:00:10 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-09-30T13:33:25.661224"
+      "fetched_at": "2026-10-01T14:23:15.858574"
     }
   ],
   "regulations": [],
-  "last_update": "2026-09-30T13:33:26.777888"
+  "last_update": "2026-10-01T14:23:16.816245"
 }
