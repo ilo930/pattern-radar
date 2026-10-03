@@ -10,7 +10,7 @@
       "date": "Wed, 30 Sep 2026 16:48:56 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423895"
+      "fetched_at": "2026-10-03T12:24:54.762605"
     },
     {
       "id": "https://www.utilitydive.com/news/facilities-using-48e-credits-to-make-energy-projects-pencil-out/831733/",
@@ -22,7 +22,7 @@
       "date": "Wed, 30 Sep 2026 12:00:00 -0400",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-10-02T13:46:13.423868"
+      "fetched_at": "2026-10-03T12:24:54.762570"
     },
     {
       "id": "https://www.utilitydive.com/news/pjm-delays-backstop-procurement-ferc-data-center/831751/",
@@ -34,7 +34,7 @@
       "date": "Wed, 30 Sep 2026 09:48:55 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423871"
+      "fetched_at": "2026-10-03T12:24:54.762575"
     },
     {
       "id": "https://www.utilitydive.com/news/ameren-missouri-files-20-year-plan-with-106-gw-gas-additions/831758/",
@@ -46,7 +46,7 @@
       "date": "Wed, 30 Sep 2026 09:27:02 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423875"
+      "fetched_at": "2026-10-03T12:24:54.762579"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
@@ -58,31 +58,7 @@
       "date": "Tue, 29 Sep 2026 18:34:00 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423897"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/the-data-center-boom-continues-apace-but-projects-face-mounting-obstacles/830496/",
-      "title": "The data center boom continues apace, but projects face mounting obstacles",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/the-data-center-boom-continues-apace-but-projects-face-mounting-obstacles/830496/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/2CM4J6TrdK7Z5ffgw7dHhyBVUvzT0d7C_nw3nmSnRYQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OT19EYXRhX0NlbnRlcl9zaWduLmpwZw==.web",
-      "date": "Tue, 29 Sep 2026 12:00:00 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423878"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/facilities-fueling-energy-storage-installations/831510/",
-      "title": "Facilities fueling energy storage installations",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/facilities-fueling-energy-storage-installations/831510/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KSb42buGFZLMFc93gmyq3ZYY65YmlgNshJ9fIx99yLA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzMDgxNTAzLmpwZw==",
-      "date": "Tue, 29 Sep 2026 12:00:00 -0400",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423882"
+      "fetched_at": "2026-10-03T12:24:54.762609"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/",
@@ -94,7 +70,7 @@
       "date": "Tue, 29 Sep 2026 01:14:36 +0000",
       "signal_type": "technical",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423930"
+      "fetched_at": "2026-10-03T12:24:54.762643"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/",
@@ -106,7 +82,7 @@
       "date": "Thu, 24 Sep 2026 23:07:18 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423966"
+      "fetched_at": "2026-10-03T12:24:54.762670"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
@@ -118,7 +94,7 @@
       "date": "Thu, 01 Oct 2026 22:37:30 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423917"
+      "fetched_at": "2026-10-03T12:24:54.762626"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
@@ -130,7 +106,7 @@
       "date": "Thu, 01 Oct 2026 22:07:33 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423885"
+      "fetched_at": "2026-10-03T12:24:54.762592"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/",
@@ -142,7 +118,7 @@
       "date": "Thu, 01 Oct 2026 20:46:05 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423920"
+      "fetched_at": "2026-10-03T12:24:54.762631"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/",
@@ -154,7 +130,7 @@
       "date": "Thu, 01 Oct 2026 17:51:39 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423923"
+      "fetched_at": "2026-10-03T12:24:54.762635"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
@@ -166,7 +142,7 @@
       "date": "Thu, 01 Oct 2026 15:30:49 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423888"
+      "fetched_at": "2026-10-03T12:24:54.762596"
     },
     {
       "id": "https://www.energy-storage.news/major-us-partnerships-may-signal-battery-storages-infrastructure-era/",
@@ -178,7 +154,7 @@
       "date": "Thu, 01 Oct 2026 13:15:43 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423841"
+      "fetched_at": "2026-10-03T12:24:54.762527"
     },
     {
       "id": "https://www.energy-storage.news/maharashtras-regulator-proposes-mandatory-bess-for-renewable-projects-seeking-grid-connectivity-in-indian-state/",
@@ -190,7 +166,7 @@
       "date": "Thu, 01 Oct 2026 13:04:05 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423845"
+      "fetched_at": "2026-10-03T12:24:54.762533"
     },
     {
       "id": "https://www.utilitydive.com/news/levis-marks-and-spencer-launch-renewable-energy-initiative-for-fashion-suppliers/831754/",
@@ -202,7 +178,7 @@
       "date": "Thu, 01 Oct 2026 12:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423849"
+      "fetched_at": "2026-10-03T12:24:54.762548"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
@@ -214,7 +190,7 @@
       "date": "Thu, 01 Oct 2026 11:15:15 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423892"
+      "fetched_at": "2026-10-03T12:24:54.762600"
     },
     {
       "id": "https://www.utilitydive.com/news/nypa-240-mw-solar-project-edf-rich-road/831878/",
@@ -226,7 +202,7 @@
       "date": "Thu, 01 Oct 2026 09:57:20 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423853"
+      "fetched_at": "2026-10-03T12:24:54.762552"
     },
     {
       "id": "https://www.utilitydive.com/news/senate-permitting-bill-would-expand-federal-role-in-electric-transmission-s/831886/",
@@ -238,7 +214,7 @@
       "date": "Thu, 01 Oct 2026 09:55:34 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423856"
+      "fetched_at": "2026-10-03T12:24:54.762556"
     },
     {
       "id": "https://www.utilitydive.com/news/looking-beyond-peak-how-measure-grid-utilization/831533/",
@@ -250,7 +226,7 @@
       "date": "Thu, 01 Oct 2026 09:24:02 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423860"
+      "fetched_at": "2026-10-03T12:24:54.762561"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/",
@@ -262,7 +238,7 @@
       "date": "Thu, 01 Oct 2026 02:03:53 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423927"
+      "fetched_at": "2026-10-03T12:24:54.762639"
     },
     {
       "id": "https://www.utilitydive.com/news/solar-for-all-funding-ep-court-uncertainty/831144/",
@@ -274,7 +250,7 @@
       "date": "Thu, 01 Oct 2026 02:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423864"
+      "fetched_at": "2026-10-03T12:24:54.762566"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/",
@@ -286,7 +262,7 @@
       "date": "Sat, 26 Sep 2026 19:36:47 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423960"
+      "fetched_at": "2026-10-03T12:24:54.762662"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
@@ -298,7 +274,7 @@
       "date": "Mon, 28 Sep 2026 22:24:33 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423901"
+      "fetched_at": "2026-10-03T12:24:54.762613"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
@@ -310,7 +286,7 @@
       "date": "Mon, 28 Sep 2026 21:26:19 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423903"
+      "fetched_at": "2026-10-03T12:24:54.762617"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/",
@@ -322,7 +298,7 @@
       "date": "Mon, 28 Sep 2026 20:40:02 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423938"
+      "fetched_at": "2026-10-03T12:24:54.762653"
     },
     {
       "id": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
@@ -334,7 +310,7 @@
       "date": "Mon, 28 Sep 2026 16:03:50 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423907"
+      "fetched_at": "2026-10-03T12:24:54.762621"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/",
@@ -346,7 +322,7 @@
       "date": "Mon, 28 Sep 2026 00:21:39 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423956"
+      "fetched_at": "2026-10-03T12:24:54.762658"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/",
@@ -358,31 +334,31 @@
       "date": "Fri, 25 Sep 2026 20:26:14 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423963"
+      "fetched_at": "2026-10-03T12:24:54.762666"
     },
     {
-      "id": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
-      "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
+      "id": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
+      "title": "US military ends long-running program to spot nuclear missile launches",
       "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+      "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
       "sector": "space",
-      "summary": "\"There is always a tension that comes with seeing the first of anything fly.\"",
-      "date": "Fri, 25 Sep 2026 15:35:23 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423910"
+      "summary": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
+      "date": "Fri, 02 Oct 2026 17:32:14 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-03T12:24:54.762583"
     },
     {
-      "id": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
-      "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+      "id": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
+      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
       "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
       "sector": "space",
-      "summary": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
-      "date": "Fri, 25 Sep 2026 14:07:46 +0000",
-      "signal_type": "capital_deployment",
-      "relevance_score": 7.0,
-      "fetched_at": "2026-10-02T13:46:13.423914"
+      "summary": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
+      "date": "Fri, 02 Oct 2026 13:54:34 +0000",
+      "signal_type": "technical",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-03T12:24:54.762588"
     },
     {
       "id": "https://www.energy-storage.news/india-approves-us19-3-billion-green-energy-corridor-phase-iii-with-50gwh-bess/",
@@ -394,7 +370,19 @@
       "date": "Fri, 02 Oct 2026 11:04:07 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-10-02T13:46:13.423563"
+      "fetched_at": "2026-10-03T12:24:54.762229"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/cities-states-sue-epa-over-power-plant-emissions-rollback/832016/",
+      "title": "Cities, states sue EPA over power plant emissions rollback",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/cities-states-sue-epa-over-power-plant-emissions-rollback/832016/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/nAk94Lh_56THLuBwC_AGbNKQwjWkK256ekY2Yy0NEUY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc0MDgxOTMyLmpwZw==",
+      "date": "Fri, 02 Oct 2026 10:27:26 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-10-03T12:24:54.762538"
     },
     {
       "id": "https://www.energy-storage.news/california-governor-newsom-signs-vpp-and-balcony-solar-bills-vetoes-community-solar-legislation/",
@@ -406,7 +394,7 @@
       "date": "Fri, 02 Oct 2026 10:13:20 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-02T13:46:13.423802"
+      "fetched_at": "2026-10-03T12:24:54.762473"
     },
     {
       "id": "https://www.energy-storage.news/bess-industry-buzz-ercot-economics-googles-hourly-matching-pilot-and-the-worlds-most-dense-bess-blocks/",
@@ -418,7 +406,19 @@
       "date": "Fri, 02 Oct 2026 09:54:33 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423809"
+      "fetched_at": "2026-10-03T12:24:54.762483"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/ferc-transalta-202c-cost-recovery-centralia/832001/",
+      "title": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/ferc-transalta-202c-cost-recovery-centralia/832001/",
+      "sector": "energy-storage",
+      "summary": "<p>Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and despite the unit&rsquo;s lack of output, payment is due, the agency",
+      "date": "Fri, 02 Oct 2026 09:28:00 -0400",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-10-03T12:24:54.762543"
     },
     {
       "id": "https://www.energy-storage.news/renalfa-ipp-eurowind-inaugurate-solar-plus-storage-hybrid-renewable-energy-park-in-bulgaria/",
@@ -430,7 +430,7 @@
       "date": "Fri, 02 Oct 2026 08:57:45 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423813"
+      "fetched_at": "2026-10-03T12:24:54.762490"
     },
     {
       "id": "https://www.energy-storage.news/technical-availability-maximising-bess-returns-varco-energ-uk-asset-management/",
@@ -442,7 +442,7 @@
       "date": "Fri, 02 Oct 2026 07:25:53 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423817"
+      "fetched_at": "2026-10-03T12:24:54.762495"
     },
     {
       "id": "https://www.energy-storage.news/canadas-northland-power-closes-financing-on-1-2gwh-of-cm-contracted-bess-projects-in-poland/",
@@ -454,7 +454,7 @@
       "date": "Fri, 02 Oct 2026 06:56:36 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423821"
+      "fetched_at": "2026-10-03T12:24:54.762499"
     },
     {
       "id": "https://www.energy-storage.news/fu-gen-nala-renewables-close-100mw-bess-finland/",
@@ -466,7 +466,7 @@
       "date": "Fri, 02 Oct 2026 03:38:31 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423825"
+      "fetched_at": "2026-10-03T12:24:54.762504"
     },
     {
       "id": "https://www.energy-storage.news/bullawah-wind-farm-approved-718mwh-battery-nsw/",
@@ -478,9 +478,9 @@
       "date": "Fri, 02 Oct 2026 03:36:30 +0000",
       "signal_type": "regulatory",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-02T13:46:13.423831"
+      "fetched_at": "2026-10-03T12:24:54.762511"
     }
   ],
   "regulations": [],
-  "last_update": "2026-10-02T13:46:14.179484"
+  "last_update": "2026-10-03T12:24:55.114145"
 }
