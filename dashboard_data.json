@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "id": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+      "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+      "sector": "space",
+      "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+      "date": "Wed, 14 Oct 2026 20:48:07 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-10-15T12:34:53.231420"
+    },
+    {
+      "id": "https://www.energy-storage.news/energy-storage-awards-2026-shortlist-reveal-kicks-off-countdown-to-the-industrys-big-night-out/",
+      "title": "Energy Storage Awards 2026: Shortlist reveal kicks off countdown to the industry\u2019s big night out",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/energy-storage-awards-2026-shortlist-reveal-kicks-off-countdown-to-the-industrys-big-night-out/",
+      "sector": "energy-storage",
+      "summary": "The expert judges\u2019 difficult decisions to select winners from hundreds of worthy entries for the Energy Storage Awards 2026 are almost finalised.",
+      "date": "Wed, 14 Oct 2026 14:43:27 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-15T12:34:53.231363"
+    },
+    {
       "id": "https://www.energy-storage.news/illinois-seeks-feedback-after-coming-up-short-in-large-scale-battery-storage-procurement/",
       "title": "Illinois seeks feedback after coming up short in large-scale battery storage procurement",
       "source": "Energy-Storage.News",
@@ -10,7 +34,7 @@
       "date": "Wed, 14 Oct 2026 12:32:34 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710612"
+      "fetched_at": "2026-10-15T12:34:53.231369"
     },
     {
       "id": "https://www.energy-storage.news/ltsas-under-scrutiny-what-bess-owners-really-need-from-their-contracts/",
@@ -22,55 +46,19 @@
       "date": "Wed, 14 Oct 2026 11:27:37 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710836"
+      "fetched_at": "2026-10-15T12:34:53.231373"
     },
     {
-      "id": "https://www.energy-storage.news/south-africas-state-utility-eskom-opens-selection-process-for-1-5gw-21gwh-pumped-hydro-plant/",
-      "title": "South Africa\u2019s state utility Eskom opens selection process for 1.5GW/21GWh pumped hydro plant",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/south-africas-state-utility-eskom-opens-selection-process-for-1-5gw-21gwh-pumped-hydro-plant/",
+      "id": "https://www.utilitydive.com/news/fossil-generation-pipeline-rebounds-while-new-clean-generation-slows-edf/832978/",
+      "title": "Fossil generation pipeline rebounds while new clean generation slows: EDF",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/fossil-generation-pipeline-rebounds-while-new-clean-generation-slows-edf/832978/",
       "sector": "energy-storage",
-      "summary": "South Africa continues its push for energy storage capacity, with utility and grid operator Eskom issuing a call to work on a 21GWh pumped hydro energy storage (PHES) project.",
-      "date": "Wed, 14 Oct 2026 08:48:46 +0000",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/aVfNNxcvdNkmc-DLax7iNyIiOdoPGmMRFoRvB8EvFo0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU0MDU2MTExXzg1WG91",
+      "date": "Wed, 14 Oct 2026 10:55:47 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710843"
-    },
-    {
-      "id": "https://www.energy-storage.news/europes-battery-market-isnt-ready-for-second-life-bess-business-models-yet/",
-      "title": "Europe\u2019s battery market isn\u2019t ready for second-life BESS business models yet",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/europes-battery-market-isnt-ready-for-second-life-bess-business-models-yet/",
-      "sector": "energy-storage",
-      "summary": "Europe is no longer betting on second-life repurposing of EV batteries for stationary BESS applications, and that is not a bad thing, argues David Oudsandji, CEO of Voltfang.",
-      "date": "Wed, 14 Oct 2026 05:37:28 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710849"
-    },
-    {
-      "id": "https://www.energy-storage.news/mexicos-mixed-investment-scheme-provides-clean-energy-investors-with-certainty/",
-      "title": "\u2018Mexico\u2019s mixed investment scheme provides clean energy investors with certainty\u2019",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/mexicos-mixed-investment-scheme-provides-clean-energy-investors-with-certainty/",
-      "sector": "energy-storage",
-      "summary": "Alberto Valenzuela discusses ahead of Energy Storage Summit Latin America about Mexico's growing interest in renewables and energy storage, and the factors driving this growth.",
-      "date": "Wed, 14 Oct 2026 02:15:05 +0000",
-      "signal_type": "capital_deployment",
-      "relevance_score": 7.0,
-      "fetched_at": "2026-10-14T12:48:40.710854"
-    },
-    {
-      "id": "https://www.energy-storage.news/merchant-exposure-divides-bess-investors-in-japan-singapore-and-australia-dla-piper-finds/",
-      "title": "Merchant exposure divides BESS investors in Japan, Singapore and Australia, DLA Piper finds",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/merchant-exposure-divides-bess-investors-in-japan-singapore-and-australia-dla-piper-finds/",
-      "sector": "energy-storage",
-      "summary": "DLA Piper finds merchant BESS appeal splits Japan, Singapore and Australia, with regulatory certainty, grid access and returns shaping investor views.",
-      "date": "Wed, 14 Oct 2026 01:44:03 +0000",
-      "signal_type": "capital_deployment",
-      "relevance_score": 8.0,
-      "fetched_at": "2026-10-14T12:48:40.710859"
+      "fetched_at": "2026-10-15T12:34:53.231377"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
@@ -82,7 +70,7 @@
       "date": "Wed, 07 Oct 2026 11:00:40 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710964"
+      "fetched_at": "2026-10-15T12:34:53.231443"
     },
     {
       "id": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/",
@@ -94,7 +82,7 @@
       "date": "Tue, 29 Sep 2026 01:14:36 +0000",
       "signal_type": "technical",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.711031"
+      "fetched_at": "2026-10-15T12:34:53.231500"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
@@ -106,7 +94,7 @@
       "date": "Tue, 13 Oct 2026 14:07:50 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710985"
+      "fetched_at": "2026-10-15T12:34:53.231458"
     },
     {
       "id": "https://www.utilitydive.com/news/battery-system-failures-fell-98-in-7-years-but-older-systems-need-special/832882/",
@@ -118,7 +106,7 @@
       "date": "Tue, 13 Oct 2026 13:35:15 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710899"
+      "fetched_at": "2026-10-15T12:34:53.231382"
     },
     {
       "id": "https://www.utilitydive.com/news/how-small-batteries-are-helping-an-nyc-business-cut-energy-costs/832809/",
@@ -130,7 +118,7 @@
       "date": "Tue, 13 Oct 2026 12:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710903"
+      "fetched_at": "2026-10-15T12:34:53.231386"
     },
     {
       "id": "https://www.utilitydive.com/news/california-iso-planned-shutoffs-heat-wave-wind/832865/",
@@ -142,7 +130,7 @@
       "date": "Tue, 13 Oct 2026 11:27:05 -0400",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710908"
+      "fetched_at": "2026-10-15T12:34:53.231392"
     },
     {
       "id": "https://www.utilitydive.com/news/solving-californias-energy-affordability-crisis-can-help-the-whole-nation/832815/",
@@ -154,19 +142,7 @@
       "date": "Tue, 13 Oct 2026 10:56:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710913"
-    },
-    {
-      "id": "https://www.energy-storage.news/you-need-to-get-comfortable-with-regulatory-reform-as-a-known-risk-battery-asset-management-summit-uk-ireland-kicks-off/",
-      "title": "\u2018You need to get comfortable with regulatory reform as a known risk\u2019: Battery Asset Management Summit UK & Ireland kicks off",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/you-need-to-get-comfortable-with-regulatory-reform-as-a-known-risk-battery-asset-management-summit-uk-ireland-kicks-off/",
-      "sector": "energy-storage",
-      "summary": "Bankability &#038; offtake and regulatory &#038; system reform were the key talking points on the opening panel of the Battery Asset Management Summit UK &#038; Ireland 2026 which runs today and tomor",
-      "date": "Tue, 13 Oct 2026 10:43:38 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710863"
+      "fetched_at": "2026-10-15T12:34:53.231396"
     },
     {
       "id": "https://www.utilitydive.com/news/ferc-duke-energy-large-load-tariff-nitsa/832847/",
@@ -178,43 +154,7 @@
       "date": "Tue, 13 Oct 2026 10:20:49 -0400",
       "signal_type": "regulatory",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710918"
-    },
-    {
-      "id": "https://www.energy-storage.news/foss-company-closes-us58-million-tax-equity-deal-for-gridstors-texas-bess-project/",
-      "title": "Foss & Company closes US$58 million tax equity deal for GridStor\u2019s Texas BESS project",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/foss-company-closes-us58-million-tax-equity-deal-for-gridstors-texas-bess-project/",
-      "sector": "energy-storage",
-      "summary": "US tax equity syndicator Foss &#038; Company has closed a US$58 million partnership flip transaction to finance an energy storage project in Hidalgo County, Texas, developed by GridStor.",
-      "date": "Tue, 13 Oct 2026 10:18:18 +0000",
-      "signal_type": "capital_deployment",
-      "relevance_score": 8.0,
-      "fetched_at": "2026-10-14T12:48:40.710884"
-    },
-    {
-      "id": "https://www.energy-storage.news/clearway-energy-increases-utah-energy-centre-capacity-to-2120mwh/",
-      "title": "Clearway Energy increases Utah \u2018Energy Centre\u2019 capacity to 2,120MWh",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/clearway-energy-increases-utah-energy-centre-capacity-to-2120mwh/",
-      "sector": "energy-storage",
-      "summary": "Independent power producer (IPP) Clearway Energy has added 210MW of energy storage capacity to its Honeycomb Energy Centre fleet in Southern Utah, US.",
-      "date": "Tue, 13 Oct 2026 10:14:01 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710889"
-    },
-    {
-      "id": "https://www.energy-storage.news/neoen-bw-ess-and-mn8-back-efforts-to-standardise-bess-procurement-through-new-energy-storage-contract-alliance/",
-      "title": "Neoen, BW ESS and MN8 back efforts to standardise BESS procurement through new Energy Storage Contract Alliance",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/neoen-bw-ess-and-mn8-back-efforts-to-standardise-bess-procurement-through-new-energy-storage-contract-alliance/",
-      "sector": "energy-storage",
-      "summary": "Big names in the downstream battery storage market have signed up to join an initiative aimed at simplifying BESS procurement.",
-      "date": "Tue, 13 Oct 2026 09:29:47 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710894"
+      "fetched_at": "2026-10-15T12:34:53.231400"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
@@ -226,7 +166,7 @@
       "date": "Tue, 13 Oct 2026 01:19:30 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710990"
+      "fetched_at": "2026-10-15T12:34:53.231462"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/",
@@ -238,7 +178,91 @@
       "date": "Tue, 06 Oct 2026 16:00:02 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710968"
+      "fetched_at": "2026-10-15T12:34:53.231447"
+    },
+    {
+      "id": "https://www.energy-storage.news/nightpeak-energy-doubles-texas-bess-site-to-300mw/",
+      "title": "Nightpeak Energy doubles Texas BESS site to 300MW",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/nightpeak-energy-doubles-texas-bess-site-to-300mw/",
+      "sector": "energy-storage",
+      "summary": "Energy storage owner-operator Nightpeak Energy has reached financial close and commercial operation on its 150MW/300MWh Bocanova 2 battery storage project in Brazoria County, Southeast Texas.",
+      "date": "Thu, 15 Oct 2026 11:34:30 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-15T12:34:53.231085"
+    },
+    {
+      "id": "https://www.energy-storage.news/new-zoning-rules-and-moratoriums-for-us-bess-and-data-centres/",
+      "title": "New zoning rules and moratoriums for US BESS and data centres",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/new-zoning-rules-and-moratoriums-for-us-bess-and-data-centres/",
+      "sector": "energy-storage",
+      "summary": "From the Midwest to New York, local and state governments are introducing new zoning rules and restrictions on BESS and data centre projects.",
+      "date": "Thu, 15 Oct 2026 11:33:23 +0000",
+      "signal_type": "regulatory",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-15T12:34:53.231322"
+    },
+    {
+      "id": "https://www.energy-storage.news/greek-pm-says-storage-should-accompany-renewables-as-metlen-karatzis-inaugurate-790mwh-bess/",
+      "title": "Greek PM says \u2018storage should accompany renewables\u2019 as Metlen, Karatzis inaugurate 790MWh BESS",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/greek-pm-says-storage-should-accompany-renewables-as-metlen-karatzis-inaugurate-790mwh-bess/",
+      "sector": "energy-storage",
+      "summary": "Metals and energy group Metlen and conglomerate Karatzis Group have inaugurated the largest BESS in Greece, in a ceremony attended by the country\u2019s Prime Minister.",
+      "date": "Thu, 15 Oct 2026 11:10:50 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-15T12:34:53.231330"
+    },
+    {
+      "id": "https://www.energy-storage.news/we-are-taking-appropriate-action-to-defend-ip-rights-energy-dome-exa-energys-co2-storage-tech-compared-as-1gwh-china-project-goes-online/",
+      "title": "\u2018We are\u00a0taking appropriate action to defend IP rights\u2019: Energy Dome & Exa Energy\u2019s CO2 storage tech compared as 1GWh China project goes online",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/we-are-taking-appropriate-action-to-defend-ip-rights-energy-dome-exa-energys-co2-storage-tech-compared-as-1gwh-china-project-goes-online/",
+      "sector": "energy-storage",
+      "summary": "How similar is the technology of Exa Energy, which just connected a 100MW/1GWh carbon dioxide-based energy storage system to the grid in China, to that of Energy Dome?",
+      "date": "Thu, 15 Oct 2026 08:34:33 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-15T12:34:53.231335"
+    },
+    {
+      "id": "https://www.energy-storage.news/world-falls-well-short-on-commitment-to-energy-storage-despite-increased-ambitions-think-tank-ember-says/",
+      "title": "World falls well short on commitment to energy storage despite increased ambitions, think tank Ember says",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/world-falls-well-short-on-commitment-to-energy-storage-despite-increased-ambitions-think-tank-ember-says/",
+      "sector": "energy-storage",
+      "summary": "Insufficient progress has been made towards the Energy Storage and Grids Pledge, endorsed by dozens of countries at COP29 two years ago.",
+      "date": "Thu, 15 Oct 2026 08:17:47 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-15T12:34:53.231340"
+    },
+    {
+      "id": "https://www.energy-storage.news/australia-e-storage-commissions-960mwh-bess-in-south-australia-for-cip-gotion-delivers-for-lightsource-hybrid-in-queensland/",
+      "title": "Australia: e-STORAGE commissions 960MWh BESS in South Australia for CIP; Gotion delivers for Lightsource hybrid in Queensland",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/australia-e-storage-commissions-960mwh-bess-in-south-australia-for-cip-gotion-delivers-for-lightsource-hybrid-in-queensland/",
+      "sector": "energy-storage",
+      "summary": "960MWh Summerfield BESS in South Australia enters commissioning, while Gotion starts building the 843MWh Lower Wonga project in Queensland.",
+      "date": "Thu, 15 Oct 2026 02:46:57 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-10-15T12:34:53.231344"
+    },
+    {
+      "id": "https://www.energy-storage.news/australias-asl-opens-consultation-on-1-5gw-firming-tender-as-post-coal-reliability-gaps-appear-in-new-south-wales/",
+      "title": "Australia\u2019s ASL opens consultation on 1.5GW firming tender as post-coal reliability gaps appear in New South Wales",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/australias-asl-opens-consultation-on-1-5gw-firming-tender-as-post-coal-reliability-gaps-appear-in-new-south-wales/",
+      "sector": "energy-storage",
+      "summary": "ASL has set a target of 1,500MW of new firming infrastructure in NSW by the end of May 2033 and opened a consultation on the tender.",
+      "date": "Thu, 15 Oct 2026 02:19:18 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-10-15T12:34:53.231348"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
@@ -250,7 +274,7 @@
       "date": "Thu, 08 Oct 2026 21:37:32 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710952"
+      "fetched_at": "2026-10-15T12:34:53.231432"
     },
     {
       "id": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
@@ -262,7 +286,7 @@
       "date": "Thu, 08 Oct 2026 20:15:53 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710956"
+      "fetched_at": "2026-10-15T12:34:53.231435"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
@@ -274,7 +298,7 @@
       "date": "Thu, 08 Oct 2026 15:28:36 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710960"
+      "fetched_at": "2026-10-15T12:34:53.231439"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
@@ -286,7 +310,7 @@
       "date": "Thu, 01 Oct 2026 22:37:30 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.711014"
+      "fetched_at": "2026-10-15T12:34:53.231485"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/",
@@ -298,7 +322,7 @@
       "date": "Thu, 01 Oct 2026 20:46:05 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.711019"
+      "fetched_at": "2026-10-15T12:34:53.231489"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/",
@@ -310,7 +334,7 @@
       "date": "Thu, 01 Oct 2026 17:51:39 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.711023"
+      "fetched_at": "2026-10-15T12:34:53.231493"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/",
@@ -322,7 +346,7 @@
       "date": "Thu, 01 Oct 2026 02:03:53 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.711027"
+      "fetched_at": "2026-10-15T12:34:53.231497"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
@@ -334,7 +358,7 @@
       "date": "Sun, 04 Oct 2026 20:33:26 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.711002"
+      "fetched_at": "2026-10-15T12:34:53.231481"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
@@ -346,7 +370,7 @@
       "date": "Sat, 03 Oct 2026 19:45:17 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710973"
+      "fetched_at": "2026-10-15T12:34:53.231451"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/",
@@ -358,7 +382,7 @@
       "date": "Mon, 12 Oct 2026 22:21:40 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710994"
+      "fetched_at": "2026-10-15T12:34:53.231466"
     },
     {
       "id": "https://www.utilitydive.com/news/local-hearing-dominion-nextera-merger-rates-data-centers/832739/",
@@ -370,7 +394,7 @@
       "date": "Mon, 12 Oct 2026 10:54:48 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710922"
+      "fetched_at": "2026-10-15T12:34:53.231404"
     },
     {
       "id": "https://www.utilitydive.com/news/ferc-pjm-large-load-interconnection-iras-byonc/832716/",
@@ -382,7 +406,7 @@
       "date": "Mon, 12 Oct 2026 09:56:41 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710926"
+      "fetched_at": "2026-10-15T12:34:53.231408"
     },
     {
       "id": "https://www.utilitydive.com/news/isaias-recovery-enters-third-day-120k-remain-without-power/832698/",
@@ -394,7 +418,7 @@
       "date": "Mon, 12 Oct 2026 08:29:53 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710930"
+      "fetched_at": "2026-10-15T12:34:53.231412"
     },
     {
       "id": "https://www.utilitydive.com/spons/private-lte-how-utilities-should-think-about-cost-control-and-tradeoffs/832291/",
@@ -406,19 +430,7 @@
       "date": "Mon, 12 Oct 2026 05:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710934"
-    },
-    {
-      "id": "https://www.utilitydive.com/spons/beyond-the-checklist-how-connected-asset-data-is-reshaping-grid-risk/831853/",
-      "title": "Beyond the checklist: How connected asset data is reshaping grid risk",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/spons/beyond-the-checklist-how-connected-asset-data-is-reshaping-grid-risk/831853/",
-      "sector": "energy-storage",
-      "summary": "<p>Regulators are raising the bar on what an inspection has to prove.</p>",
-      "date": "Mon, 12 Oct 2026 05:00:00 -0400",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710938"
+      "fetched_at": "2026-10-15T12:34:53.231417"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
@@ -430,7 +442,7 @@
       "date": "Fri, 09 Oct 2026 21:41:30 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710998"
+      "fetched_at": "2026-10-15T12:34:53.231469"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
@@ -442,7 +454,7 @@
       "date": "Fri, 09 Oct 2026 21:34:09 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710943"
+      "fetched_at": "2026-10-15T12:34:53.231424"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
@@ -454,7 +466,7 @@
       "date": "Fri, 09 Oct 2026 11:00:57 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-10-14T12:48:40.710948"
+      "fetched_at": "2026-10-15T12:34:53.231428"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
@@ -466,21 +478,9 @@
       "date": "Fri, 02 Oct 2026 17:32:14 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710977"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-      "sector": "space",
-      "summary": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
-      "date": "Fri, 02 Oct 2026 13:54:34 +0000",
-      "signal_type": "technical",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-10-14T12:48:40.710982"
+      "fetched_at": "2026-10-15T12:34:53.231455"
     }
   ],
   "regulations": [],
-  "last_update": "2026-10-14T12:48:41.456376"
+  "last_update": "2026-10-15T12:34:54.200793"
 }
