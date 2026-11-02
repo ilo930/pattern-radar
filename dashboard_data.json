@@ -10,7 +10,7 @@
       "date": "Wed, 28 Oct 2026 22:51:15 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213256"
+      "fetched_at": "2026-11-02T16:57:57.663826"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
@@ -22,7 +22,7 @@
       "date": "Wed, 28 Oct 2026 22:46:41 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213298"
+      "fetched_at": "2026-11-02T16:57:57.663862"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/",
@@ -34,7 +34,7 @@
       "date": "Wed, 28 Oct 2026 21:03:33 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213307"
+      "fetched_at": "2026-11-02T16:57:57.663865"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
@@ -46,7 +46,7 @@
       "date": "Wed, 28 Oct 2026 19:20:36 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213260"
+      "fetched_at": "2026-11-02T16:57:57.663829"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
@@ -58,7 +58,7 @@
       "date": "Tue, 27 Oct 2026 22:04:50 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213264"
+      "fetched_at": "2026-11-02T16:57:57.663833"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
@@ -70,7 +70,7 @@
       "date": "Tue, 27 Oct 2026 00:50:37 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213311"
+      "fetched_at": "2026-11-02T16:57:57.663875"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
@@ -82,19 +82,7 @@
       "date": "Tue, 20 Oct 2026 21:18:11 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213315"
-    },
-    {
-      "id": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
-      "title": "As it happened: spacewalkers install new solar array",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
-      "sector": "space",
-      "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are performing a spacewalk to install the 7th of 8 ISS Roll-Out Solar Arrays (iROSA) to upgrade the orbiting outpost's power",
-      "date": "Thu, 29 Oct 2026 23:45:33 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213289"
+      "fetched_at": "2026-11-02T16:57:57.663879"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/",
@@ -106,19 +94,19 @@
       "date": "Thu, 29 Oct 2026 21:57:22 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213293"
+      "fetched_at": "2026-11-02T16:57:57.663855"
     },
     {
-      "id": "https://www.energy-storage.news/scatecs-us650-million-solar-plus-storage-project-for-egypt-aluminium-gets-ebrd-eib-and-afd-financing-commitment/",
-      "title": "Scatec\u2019s US$650 million solar-plus-storage project for Egypt Aluminium gets EBRD, EIB and AfD financing commitment",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/scatecs-us650-million-solar-plus-storage-project-for-egypt-aluminium-gets-ebrd-eib-and-afd-financing-commitment/",
-      "sector": "energy-storage",
-      "summary": "Scatec, the European Investment Bank (EIB), the European Bank for Reconstruction and Development (EBRD) and the African Development Bank (AfDB) have signed an investment agreement for Dandara solar-pl",
-      "date": "Thu, 29 Oct 2026 15:46:23 +0000",
-      "signal_type": "capital_deployment",
-      "relevance_score": 8.0,
-      "fetched_at": "2026-11-01T14:12:00.213176"
+      "id": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
+      "title": "As it happened: spacewalkers install new solar array",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
+      "sector": "space",
+      "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are performing a spacewalk to install the 7th of 8 ISS Roll-Out Solar Arrays (iROSA) to upgrade the orbiting outpost's power",
+      "date": "Thu, 29 Oct 2026 18:45:33 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-02T16:57:57.663858"
     },
     {
       "id": "https://www.utilitydive.com/news/ge-vernova-in-9b-deal-to-buy-high-voltage-manufacturer-as-gas-turbine-orde/873223/",
@@ -130,31 +118,7 @@
       "date": "Thu, 29 Oct 2026 13:40:22 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213212"
-    },
-    {
-      "id": "https://www.energy-storage.news/california-energy-commission-releases-us46-million-for-ders-supporting-grid-reliability/",
-      "title": "California Energy Commission releases US$46 million for DERS supporting grid reliability",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/california-energy-commission-releases-us46-million-for-ders-supporting-grid-reliability/",
-      "sector": "energy-storage",
-      "summary": "The California Energy Commission (CEC) has released over US$46 million for the state\u2019s Distributed Electricity Backup Assets (DEBA) Programme.",
-      "date": "Thu, 29 Oct 2026 13:27:47 +0000",
-      "signal_type": "capital_deployment",
-      "relevance_score": 8.0,
-      "fetched_at": "2026-11-01T14:12:00.213182"
-    },
-    {
-      "id": "https://www.energy-storage.news/intense-bess-competition-and-density-race-increases-technical-and-contractual-risks-advisor-says/",
-      "title": "Intense BESS competition and density race increases technical and contractual risks, advisor says",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/intense-bess-competition-and-density-race-increases-technical-and-contractual-risks-advisor-says/",
-      "sector": "energy-storage",
-      "summary": "The intense competition between BESS suppliers in the European market and the ever-more dense products available increases technical risk and the possibility of contractual issues further down the lin",
-      "date": "Thu, 29 Oct 2026 13:19:52 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213187"
+      "fetched_at": "2026-11-02T16:57:57.663799"
     },
     {
       "id": "https://www.utilitydive.com/news/baaja-permitting-reform-interregional-transmission-harder/873041/",
@@ -166,7 +130,7 @@
       "date": "Thu, 29 Oct 2026 11:21:25 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213216"
+      "fetched_at": "2026-11-02T16:57:57.663803"
     },
     {
       "id": "https://www.utilitydive.com/news/aep-transmission-data-center-earnings/873189/",
@@ -178,7 +142,7 @@
       "date": "Thu, 29 Oct 2026 11:05:24 -0400",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-11-01T14:12:00.213221"
+      "fetched_at": "2026-11-02T16:57:57.663807"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
@@ -190,43 +154,7 @@
       "date": "Thu, 29 Oct 2026 11:00:08 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213252"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/chinese-linked-solar-developer-loses-appeal-to-connect-to-texas-grid/873178/",
-      "title": "Chinese-linked solar developer loses appeal over Texas grid interconnection",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/chinese-linked-solar-developer-loses-appeal-to-connect-to-texas-grid/873178/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3PzkQnkIs0VELCdUNnmDJgpPXqzpEIpU1SI7AG0G04A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UZXhhc19zb2xhci5qcGc=.webp\" /></div><",
-      "date": "Thu, 29 Oct 2026 09:21:29 -0400",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213226"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/firstenergy-data-center-pipeline-maidsville/873149/",
-      "title": "FirstEnergy data center pipeline increases to 26 GW in Q3",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/firstenergy-data-center-pipeline-maidsville/873149/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/hasPkLKR6t1KD6EfkjKCaZTW1yNxMTzkEA_E3FhGn9Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYwMjQxNzg2LmpwZw==",
-      "date": "Thu, 29 Oct 2026 09:00:02 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213230"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/data-center-purchases-of-electrical-equipment-up-80-since-2025-hubbell/873134/",
-      "title": "Data center purchases of electrical equipment up 80% since 2025: Hubbell",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/data-center-purchases-of-electrical-equipment-up-80-since-2025-hubbell/873134/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KGu9AE6pLRI_1eDno1Gf5DwSZI0tXBaNHtM4vSzgR14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BdXN0aW5fVGV4YXNfU3Vic3RhdGlvbi5qcGc=",
-      "date": "Thu, 29 Oct 2026 08:00:00 -0400",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213235"
+      "fetched_at": "2026-11-02T16:57:57.663822"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
@@ -238,7 +166,7 @@
       "date": "Sun, 18 Oct 2026 16:32:02 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213319"
+      "fetched_at": "2026-11-02T16:57:57.663883"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
@@ -250,7 +178,91 @@
       "date": "Sat, 31 Oct 2026 00:07:22 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213239"
+      "fetched_at": "2026-11-02T16:57:57.663810"
+    },
+    {
+      "id": "https://www.energy-storage.news/trump-bulk-power-equipment-ban-sparks-industry-pushback-lets-not-reinvent-the-wheel/",
+      "title": "Trump bulk power equipment ban sparks industry pushback: \u2018Let\u2019s not reinvent the wheel\u2019",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/trump-bulk-power-equipment-ban-sparks-industry-pushback-lets-not-reinvent-the-wheel/",
+      "sector": "energy-storage",
+      "summary": "US President Donald Trump\u2019s 26 August emergency executive order banning imports of certain foreign-made power equipment has prompted widespread public comment and private concern across the energy sto",
+      "date": "Mon, 02 Nov 2026 12:42:19 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-02T16:57:57.663464"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/exelon-energy-storage-new-jersey-earnings/873423/",
+      "title": "Exelon eyes $8B in energy storage, partly to address PJM supply crunch",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/exelon-energy-storage-new-jersey-earnings/873423/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/GzM8kkoUd0gqvk4QnWqntspxbFyRRmYUqDSMlu3AKh0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTcyNTAxNTYxX25na1Vw",
+      "date": "Mon, 02 Nov 2026 09:26:00 -0500",
+      "signal_type": "supply_shock",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-11-02T16:57:57.663770"
+    },
+    {
+      "id": "https://www.utilitydive.com/spons/utilities-need-to-become-project-developers-are-they-ready/831847/",
+      "title": "Utilities need to become project developers. Are they ready?",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/spons/utilities-need-to-become-project-developers-are-they-ready/831847/",
+      "sector": "energy-storage",
+      "summary": "<p>Load growth is surging 50x faster than before. Can utilities scale fast enough to meet demand?</p>",
+      "date": "Mon, 02 Nov 2026 05:00:00 -0500",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-02T16:57:57.663774"
+    },
+    {
+      "id": "https://www.utilitydive.com/spons/rethinking-the-outage-map-for-a-multi-hazard-world/872890/",
+      "title": "Rethinking the outage map for a multi-hazard world",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/spons/rethinking-the-outage-map-for-a-multi-hazard-world/872890/",
+      "sector": "energy-storage",
+      "summary": "<p>Beyond restoration times: why plain language, multiple communication channels and equity define great outage maps.</p>",
+      "date": "Mon, 02 Nov 2026 05:00:00 -0500",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-02T16:57:57.663778"
+    },
+    {
+      "id": "https://www.energy-storage.news/agl-refers-2gwh-bess-in-queensland-to-australias-epbc-act-as-acenergy-submits-250mw-victoria-project/",
+      "title": "AGL refers 2GWh BESS in Queensland to Australia\u2019s EPBC Act as ACEnergy submits 250MW Victoria project",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/agl-refers-2gwh-bess-in-queensland-to-australias-epbc-act-as-acenergy-submits-250mw-victoria-project/",
+      "sector": "energy-storage",
+      "summary": "Two Australian battery storage projects in Queensland and Victoria have entered federal environmental review, with AGL Energy and developer ACEnergy each submitting referrals under the same national p",
+      "date": "Mon, 02 Nov 2026 02:22:39 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-11-02T16:57:57.663717"
+    },
+    {
+      "id": "https://www.energy-storage.news/advancing-grid-forming-energy-storage-sungrow-wins-hazelwood-bess-2-pcs-and-bess-order-in-australia/",
+      "title": "\u2018Advancing grid-forming energy storage\u2019: Sungrow wins Hazelwood BESS 2 PCS and BESS order in Australia",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/advancing-grid-forming-energy-storage-sungrow-wins-hazelwood-bess-2-pcs-and-bess-order-in-australia/",
+      "sector": "energy-storage",
+      "summary": "Sungrow will supply both the BESS and the grid-forming power conversion equipment for ENGIE's Hazelwood BESS expansion in Victoria, Australia.",
+      "date": "Mon, 02 Nov 2026 02:13:35 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-11-02T16:57:57.663725"
+    },
+    {
+      "id": "https://www.energy-storage.news/five-days-deliver-38-of-australias-nem-bess-fleet-revenue-for-october/",
+      "title": "Five days deliver 38% of Australia\u2019s NEM BESS fleet revenue for October",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/five-days-deliver-38-of-australias-nem-bess-fleet-revenue-for-october/",
+      "sector": "energy-storage",
+      "summary": "Australia's grid-scale BESS fleet earned an estimated AU$37.62 million in the National Electricity Market (NEM) in October 2026.",
+      "date": "Mon, 02 Nov 2026 01:59:49 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-11-02T16:57:57.663730"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
@@ -262,7 +274,7 @@
       "date": "Fri, 30 Oct 2026 22:46:02 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213281"
+      "fetched_at": "2026-11-02T16:57:57.663847"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
@@ -274,7 +286,7 @@
       "date": "Fri, 30 Oct 2026 16:12:59 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213243"
+      "fetched_at": "2026-11-02T16:57:57.663814"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/",
@@ -286,7 +298,7 @@
       "date": "Fri, 30 Oct 2026 15:50:37 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213285"
+      "fetched_at": "2026-11-02T16:57:57.663851"
     },
     {
       "id": "https://www.energy-storage.news/bess-augmentation-what-owner-operators-need-to-know/",
@@ -298,7 +310,7 @@
       "date": "Fri, 30 Oct 2026 12:25:14 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.212890"
+      "fetched_at": "2026-11-02T16:57:57.663734"
     },
     {
       "id": "https://www.utilitydive.com/news/hitachi-sees-rise-in-nuclear-revenue-as-smr-delivery-date-approaches/873327/",
@@ -310,7 +322,7 @@
       "date": "Fri, 30 Oct 2026 11:39:42 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213192"
+      "fetched_at": "2026-11-02T16:57:57.663782"
     },
     {
       "id": "https://www.energy-storage.news/fercs-rulings-on-pjm-home-of-data-centre-alley-put-the-spotlight-on-states/",
@@ -322,7 +334,7 @@
       "date": "Fri, 30 Oct 2026 11:37:05 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213128"
+      "fetched_at": "2026-11-02T16:57:57.663738"
     },
     {
       "id": "https://www.utilitydive.com/news/wildfire-reform-sce-edison-international-earnings/873322/",
@@ -334,7 +346,7 @@
       "date": "Fri, 30 Oct 2026 11:10:33 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213197"
+      "fetched_at": "2026-11-02T16:57:57.663786"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
@@ -346,7 +358,7 @@
       "date": "Fri, 30 Oct 2026 11:00:35 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213247"
+      "fetched_at": "2026-11-02T16:57:57.663818"
     },
     {
       "id": "https://www.utilitydive.com/news/utilities-want-fossil-plants-more-expensive-clean-energy-regulators/833301/",
@@ -358,7 +370,7 @@
       "date": "Fri, 30 Oct 2026 11:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213202"
+      "fetched_at": "2026-11-02T16:57:57.663791"
     },
     {
       "id": "https://www.energy-storage.news/bess-industry-buzz-sonnens-collapse-bess-contracts-new-market-entrants-and-over-reporting-availability/",
@@ -370,7 +382,7 @@
       "date": "Fri, 30 Oct 2026 09:52:19 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213138"
+      "fetched_at": "2026-11-02T16:57:57.663742"
     },
     {
       "id": "https://www.energy-storage.news/samsung-sdi-60gwh-of-ess-battery-orders-in-2026-so-far-53-year-over-year-revenue-surge/",
@@ -382,7 +394,7 @@
       "date": "Fri, 30 Oct 2026 09:52:03 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213144"
+      "fetched_at": "2026-11-02T16:57:57.663749"
     },
     {
       "id": "https://www.utilitydive.com/news/xcel-energy-renewables-wind-earnings/873273/",
@@ -394,7 +406,7 @@
       "date": "Fri, 30 Oct 2026 08:00:00 -0400",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213207"
+      "fetched_at": "2026-11-02T16:57:57.663795"
     },
     {
       "id": "https://www.energy-storage.news/chinese-portable-battery-storage-players-report-rising-overseas-orders-in-q3-results/",
@@ -406,7 +418,7 @@
       "date": "Fri, 30 Oct 2026 04:10:32 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213150"
+      "fetched_at": "2026-11-02T16:57:57.663761"
     },
     {
       "id": "https://www.energy-storage.news/8-hour-bess-market-completely-artificial-but-asymmetric-registration-adds-value-says-tesla-at-all-energy-australia-2026/",
@@ -418,19 +430,7 @@
       "date": "Fri, 30 Oct 2026 01:21:31 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213154"
-    },
-    {
-      "id": "https://www.energy-storage.news/sma-launches-dc-coupled-grid-forming-solar-plus-storage-solution-for-germany-australia-and-the-uk/",
-      "title": "SMA launches DC-coupled grid-forming solar-plus-storage solution for Germany, Australia and the UK",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/sma-launches-dc-coupled-grid-forming-solar-plus-storage-solution-for-germany-australia-and-the-uk/",
-      "sector": "energy-storage",
-      "summary": "Germany-headquartered inverter manufacturer SMA has launched a grid-forming solar-plus-storage solution in Australia, unveiling it at the All-Energy Australia 2026 event in Melbourne this week.",
-      "date": "Fri, 30 Oct 2026 01:08:21 +0000",
-      "signal_type": "technical",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213159"
+      "fetched_at": "2026-11-02T16:57:57.663766"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
@@ -442,7 +442,7 @@
       "date": "Fri, 23 Oct 2026 22:48:25 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213269"
+      "fetched_at": "2026-11-02T16:57:57.663836"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
@@ -454,7 +454,7 @@
       "date": "Fri, 23 Oct 2026 19:33:58 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-01T14:12:00.213273"
+      "fetched_at": "2026-11-02T16:57:57.663840"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
@@ -466,7 +466,7 @@
       "date": "Fri, 23 Oct 2026 11:00:57 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213277"
+      "fetched_at": "2026-11-02T16:57:57.663843"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/",
@@ -478,9 +478,9 @@
       "date": "Fri, 16 Oct 2026 13:17:28 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-01T14:12:00.213323"
+      "fetched_at": "2026-11-02T16:57:57.663887"
     }
   ],
   "regulations": [],
-  "last_update": "2026-11-01T14:12:00.434428"
+  "last_update": "2026-11-02T16:57:58.446357"
 }
