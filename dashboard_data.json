@@ -10,7 +10,7 @@
       "date": "Wed, 04 Nov 2026 20:36:05 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645989"
+      "fetched_at": "2026-11-08T14:12:30.130035"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/",
@@ -22,7 +22,7 @@
       "date": "Wed, 04 Nov 2026 20:14:59 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.646030"
+      "fetched_at": "2026-11-08T14:12:30.130124"
     },
     {
       "id": "https://www.utilitydive.com/news/aps-sales-double-by-2041-proposes-extending-coal-use-to-2038/873648/",
@@ -34,7 +34,7 @@
       "date": "Wed, 04 Nov 2026 12:27:34 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645976"
+      "fetched_at": "2026-11-08T14:12:30.130008"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
@@ -46,7 +46,7 @@
       "date": "Tue, 03 Nov 2026 16:50:32 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645991"
+      "fetched_at": "2026-11-08T14:12:30.130041"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/",
@@ -58,7 +58,7 @@
       "date": "Tue, 03 Nov 2026 13:35:33 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.646034"
+      "fetched_at": "2026-11-08T14:12:30.130131"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/",
@@ -70,7 +70,7 @@
       "date": "Thu, 29 Oct 2026 21:57:22 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.646043"
+      "fetched_at": "2026-11-08T14:12:30.130171"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
@@ -82,7 +82,7 @@
       "date": "Thu, 05 Nov 2026 22:34:58 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.646015"
+      "fetched_at": "2026-11-08T14:12:30.130096"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
@@ -94,7 +94,7 @@
       "date": "Thu, 05 Nov 2026 22:30:36 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.646018"
+      "fetched_at": "2026-11-08T14:12:30.130102"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
@@ -106,7 +106,7 @@
       "date": "Thu, 05 Nov 2026 22:28:40 +0000",
       "signal_type": "supply_shock",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.646022"
+      "fetched_at": "2026-11-08T14:12:30.130109"
     },
     {
       "id": "https://www.energy-storage.news/alfen-ceo-sodium-ion-bess-plans-catl/",
@@ -118,7 +118,7 @@
       "date": "Thu, 05 Nov 2026 14:42:06 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.645918"
+      "fetched_at": "2026-11-08T14:12:30.129892"
     },
     {
       "id": "https://www.utilitydive.com/news/eaton-ceo-ac-to-dc-migration-is-real-because-of-large-power-savings/873887/",
@@ -130,11 +130,11 @@
       "date": "Thu, 05 Nov 2026 12:05:42 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645963"
+      "fetched_at": "2026-11-08T14:12:30.129980"
     },
     {
       "id": "https://www.utilitydive.com/news/storage-solar-colocation-eia-seia/873882/",
-      "title": "Co-located solar, storage jumps to 16% of all installations, up from 2% in 2017: EIA",
+      "title": "Co-located solar, storage jumps to 16% of all solar installations, up from 2% in 2017: EIA",
       "source": "Utility Dive - Latest News",
       "url": "https://www.utilitydive.com/news/storage-solar-colocation-eia-seia/873882/",
       "sector": "energy-storage",
@@ -142,7 +142,7 @@
       "date": "Thu, 05 Nov 2026 11:37:03 -0500",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.645966"
+      "fetched_at": "2026-11-08T14:12:30.129987"
     },
     {
       "id": "https://www.energy-storage.news/us-distributed-energy-storage-updates-from-base-power-and-sunrun/",
@@ -154,7 +154,7 @@
       "date": "Thu, 05 Nov 2026 11:27:50 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.645921"
+      "fetched_at": "2026-11-08T14:12:30.129899"
     },
     {
       "id": "https://www.energy-storage.news/what-democratic-control-of-congress-could-mean-for-us-bess-and-renewables/",
@@ -166,7 +166,7 @@
       "date": "Thu, 05 Nov 2026 11:23:26 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.645933"
+      "fetched_at": "2026-11-08T14:12:30.129919"
     },
     {
       "id": "https://www.utilitydive.com/news/entergy-makes-progress-on-arkansas-data-center-reports-strong-q3-sales/873873/",
@@ -178,7 +178,7 @@
       "date": "Thu, 05 Nov 2026 10:51:49 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645969"
+      "fetched_at": "2026-11-08T14:12:30.129994"
     },
     {
       "id": "https://www.energy-storage.news/return-secures-835-million-germany-bess-rollout-targets-1gw-annually/",
@@ -190,7 +190,7 @@
       "date": "Thu, 05 Nov 2026 10:32:53 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-11-07T13:51:47.645937"
+      "fetched_at": "2026-11-08T14:12:30.129927"
     },
     {
       "id": "https://www.utilitydive.com/news/exelon-invenergy-ferc-complaint-pjm-miso-capacity-market-/873845/",
@@ -202,7 +202,7 @@
       "date": "Thu, 05 Nov 2026 09:27:13 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645973"
+      "fetched_at": "2026-11-08T14:12:30.130000"
     },
     {
       "id": "https://www.energy-storage.news/ready-to-provide-energy-security-eku-energys-500mwh-bess-enters-commercial-operation-in-australias-act/",
@@ -214,7 +214,7 @@
       "date": "Thu, 05 Nov 2026 09:18:35 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.645941"
+      "fetched_at": "2026-11-08T14:12:30.129935"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
@@ -226,7 +226,7 @@
       "date": "Sat, 31 Oct 2026 00:07:22 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.646001"
+      "fetched_at": "2026-11-08T14:12:30.130062"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
@@ -238,7 +238,7 @@
       "date": "Sat, 07 Nov 2026 02:18:04 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-11-07T13:51:47.646009"
+      "fetched_at": "2026-11-08T14:12:30.130082"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
@@ -250,7 +250,7 @@
       "date": "Mon, 02 Nov 2026 23:30:16 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645994"
+      "fetched_at": "2026-11-08T14:12:30.130048"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
@@ -262,7 +262,7 @@
       "date": "Mon, 02 Nov 2026 17:09:13 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645997"
+      "fetched_at": "2026-11-08T14:12:30.130054"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
@@ -274,7 +274,7 @@
       "date": "Fri, 30 Oct 2026 22:46:02 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.646037"
+      "fetched_at": "2026-11-08T14:12:30.130138"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
@@ -286,7 +286,7 @@
       "date": "Fri, 30 Oct 2026 16:12:59 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.646003"
+      "fetched_at": "2026-11-08T14:12:30.130068"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/",
@@ -298,7 +298,7 @@
       "date": "Fri, 30 Oct 2026 15:50:37 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.646040"
+      "fetched_at": "2026-11-08T14:12:30.130165"
     },
     {
       "id": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
@@ -310,7 +310,7 @@
       "date": "Fri, 30 Oct 2026 11:00:35 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.646006"
+      "fetched_at": "2026-11-08T14:12:30.130075"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
@@ -322,7 +322,7 @@
       "date": "Fri, 06 Nov 2026 22:00:39 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.646012"
+      "fetched_at": "2026-11-08T14:12:30.130088"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
@@ -334,7 +334,7 @@
       "date": "Fri, 06 Nov 2026 18:20:47 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.645979"
+      "fetched_at": "2026-11-08T14:12:30.130015"
     },
     {
       "id": "https://www.energy-storage.news/ford-energy-partners-with-desri-to-deploy-us-bess/",
@@ -346,7 +346,7 @@
       "date": "Fri, 06 Nov 2026 14:06:23 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.645688"
+      "fetched_at": "2026-11-08T14:12:30.129542"
     },
     {
       "id": "https://www.energy-storage.news/bess-industry-buzz-blue-wave-in-the-midterms-rte-disagreements-cybersecurity-incident-in-chile/",
@@ -358,7 +358,7 @@
       "date": "Fri, 06 Nov 2026 14:05:57 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.645900"
+      "fetched_at": "2026-11-08T14:12:30.129858"
     },
     {
       "id": "https://www.energy-storage.news/norwegian-central-bank-buys-us300-million-stake-in-brookfields-soon-to-be-acquired-bess-developer-aypa-power/",
@@ -370,7 +370,7 @@
       "date": "Fri, 06 Nov 2026 14:04:07 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-11-07T13:51:47.645906"
+      "fetched_at": "2026-11-08T14:12:30.129868"
     },
     {
       "id": "https://www.energy-storage.news/india-approves-viability-gap-funding-to-support-92gwh-of-bess-and-pumped-hydro-energy-storage-capacity/",
@@ -378,11 +378,11 @@
       "source": "Energy-Storage.News",
       "url": "https://www.energy-storage.news/india-approves-viability-gap-funding-to-support-92gwh-of-bess-and-pumped-hydro-energy-storage-capacity/",
       "sector": "energy-storage",
-      "summary": "India\u2019s Union government has approved the next IR145 billion (US$1.5 billion) phase of the Viability Gap Funding (VGP) policy support mechanism for energy storage capacity additions. In addition, a Mi",
+      "summary": "India\u2019s Union government has approved the next IR145 billion phase of Viability Gap Funding (VGP) for energy storage capacity additions.",
       "date": "Fri, 06 Nov 2026 14:02:00 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-11-07T13:51:47.645910"
+      "fetched_at": "2026-11-08T14:12:30.129876"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
@@ -394,7 +394,7 @@
       "date": "Fri, 06 Nov 2026 13:33:20 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645982"
+      "fetched_at": "2026-11-08T14:12:30.130022"
     },
     {
       "id": "https://www.utilitydive.com/news/historic-election-night-wont-change-growth-focus-at-duke-energy-executi/873965/",
@@ -406,11 +406,11 @@
       "date": "Fri, 06 Nov 2026 13:00:00 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645945"
+      "fetched_at": "2026-11-08T14:12:30.129943"
     },
     {
       "id": "https://www.utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010/",
-      "title": "Sempra expects 20% increase to Oncor\u2019s capex plan, driven by load growth",
+      "title": "Sempra expects 20% increase to Oncor\u2019s spending plan, driven by load growth",
       "source": "Utility Dive - Latest News",
       "url": "https://www.utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010/",
       "sector": "energy-storage",
@@ -418,7 +418,7 @@
       "date": "Fri, 06 Nov 2026 11:10:36 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645949"
+      "fetched_at": "2026-11-08T14:12:30.129950"
     },
     {
       "id": "https://www.utilitydive.com/news/data-centers-grid-flexibility-tariffs-ercot-spp-pjm/833678/",
@@ -430,7 +430,7 @@
       "date": "Fri, 06 Nov 2026 10:27:12 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645952"
+      "fetched_at": "2026-11-08T14:12:30.129958"
     },
     {
       "id": "https://www.utilitydive.com/news/eversources-revolution-wind-rate-case-earnings/873983/",
@@ -438,11 +438,11 @@
       "source": "Utility Dive - Latest News",
       "url": "https://www.utilitydive.com/news/eversources-revolution-wind-rate-case-earnings/873983/",
       "sector": "energy-storage",
-      "summary": "<p>Eversource Energy&rsquo;s third-quarter income fell 22% year over year to $346 million, partly driven by a lack of income from Aquarion, a water utility subsidiary the company sold in June.</p>",
+      "summary": "<p>Eversource Energy&rsquo;s third-quarter income fell 22% year over year, to $346 million, driven in part by a lack of income from Aquarion, a water utility subsidiary the company sold in June.</p>",
       "date": "Fri, 06 Nov 2026 09:44:59 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645956"
+      "fetched_at": "2026-11-08T14:12:30.129966"
     },
     {
       "id": "https://www.utilitydive.com/news/dte-expands-5-year-electric-investment-plan-sells-unregulated-vantage/873974/",
@@ -454,7 +454,7 @@
       "date": "Fri, 06 Nov 2026 09:15:24 -0500",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-11-07T13:51:47.645959"
+      "fetched_at": "2026-11-08T14:12:30.129973"
     },
     {
       "id": "https://www.energy-storage.news/energyaustralia-takes-delivery-of-final-units-for-250mwh-hallett-battery-storage-system/",
@@ -466,7 +466,7 @@
       "date": "Fri, 06 Nov 2026 08:44:46 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-07T13:51:47.645914"
+      "fetched_at": "2026-11-08T14:12:30.129884"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
@@ -478,9 +478,9 @@
       "date": "Fri, 06 Nov 2026 00:17:06 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-07T13:51:47.645985"
+      "fetched_at": "2026-11-08T14:12:30.130028"
     }
   ],
   "regulations": [],
-  "last_update": "2026-11-07T13:51:48.108371"
+  "last_update": "2026-11-08T14:12:31.023484"
 }
