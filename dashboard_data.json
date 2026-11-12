@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "id": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "sector": "space",
+      "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+      "date": "Wed, 11 Nov 2026 20:22:03 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-11-12T15:54:37.670055"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+      "sector": "space",
+      "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+      "date": "Wed, 11 Nov 2026 19:00:26 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-12T15:54:37.670059"
+    },
+    {
       "id": "https://www.energy-storage.news/lydians-600mwh-utah-bess-reaches-commercial-operation-supporting-meta-data-centre/",
       "title": "Lydian\u2019s 600MWh Utah BESS reaches commercial operation, supporting Meta data centre",
       "source": "Energy-Storage.News",
@@ -10,7 +34,7 @@
       "date": "Wed, 11 Nov 2026 14:25:09 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201147"
+      "fetched_at": "2026-11-12T15:54:37.669976"
     },
     {
       "id": "https://www.energy-storage.news/calibrant-energy-secures-us145-million-for-solar-and-bess-across-us-power-markets-including-pjm-hyperscaler-project/",
@@ -22,7 +46,7 @@
       "date": "Wed, 11 Nov 2026 14:21:46 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 8.0,
-      "fetched_at": "2026-11-11T15:01:45.201467"
+      "fetched_at": "2026-11-12T15:54:37.669995"
     },
     {
       "id": "https://www.energy-storage.news/semi-solid-state-batteries-for-bess-potential-and-challenges/",
@@ -34,7 +58,19 @@
       "date": "Wed, 11 Nov 2026 12:22:59 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201477"
+      "fetched_at": "2026-11-12T15:54:37.670001"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/constellation-pursues-hybrid-nuclearcapacity-contracts-alongside-uprates/874408/",
+      "title": "Constellation pursues hybrid capacity contracts alongside nuclear uprates",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/constellation-pursues-hybrid-nuclearcapacity-contracts-alongside-uprates/874408/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/sh7S8Yd8mT7JsvEOS2eBrMI-gAui5wpd1Oz_xtUF_gM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UaHJlZV9NaWxlX0lzbGFuZF9hdF9uaWdodC5q",
+      "date": "Wed, 11 Nov 2026 12:07:19 -0500",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-12T15:54:37.670011"
     },
     {
       "id": "https://www.energy-storage.news/relyez-debuts-on-hkex-main-board-becoming-latest-chinese-energy-storage-player-to-list-in-hong-kong/",
@@ -46,55 +82,43 @@
       "date": "Wed, 11 Nov 2026 11:33:07 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201483"
+      "fetched_at": "2026-11-12T15:54:37.670006"
     },
     {
-      "id": "https://www.energy-storage.news/juniz-energy-enlists-envision-for-442mwh-grid-forming-bess-in-germany/",
-      "title": "ju:niz Energy enlists Envision for 442MWh grid-forming BESS in Germany",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/juniz-energy-enlists-envision-for-442mwh-grid-forming-bess-in-germany/",
+      "id": "https://www.utilitydive.com/news/no-home-left-behind-scaling-vpp-participation-while-maintaining-customer-c/873474/",
+      "title": "No home left behind: Scaling VPP participation while maintaining customer control",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/no-home-left-behind-scaling-vpp-participation-while-maintaining-customer-c/873474/",
       "sector": "energy-storage",
-      "summary": "Envision Energy will supply its Gen 8 BESS platform for ju:niz Energy's 442MWh Smareg 13 project in Bavaria, Germany.",
-      "date": "Wed, 11 Nov 2026 08:57:08 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201489"
-    },
-    {
-      "id": "https://www.energy-storage.news/800mwh-bess-enters-nsw-assessment-as-recurrents-600mwh-sundown-project-clears-australias-epbc-act/",
-      "title": "800MWh BESS enters NSW assessment as Recurrent\u2019s 600MWh Sundown project clears Australia\u2019s EPBC Act",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/800mwh-bess-enters-nsw-assessment-as-recurrents-600mwh-sundown-project-clears-australias-epbc-act/",
-      "sector": "energy-storage",
-      "summary": "Delta and partner Samsung Vista C&#038;I Australia have lodged an EIS for an 800MWh BESS at the Vales Point Power Station site in NSW.",
-      "date": "Wed, 11 Nov 2026 08:53:04 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201494"
-    },
-    {
-      "id": "https://www.energy-storage.news/western-australia-backs-australian-vanadiums-relocatable-flow-battery-electrolyte-facility/",
-      "title": "Western Australia backs Australian Vanadium\u2019s relocatable flow battery electrolyte facility",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/western-australia-backs-australian-vanadiums-relocatable-flow-battery-electrolyte-facility/",
-      "sector": "energy-storage",
-      "summary": "The Western Australian (WA) government has awarded AU$15 million for a relocatable vanadium electrolyte manufacturing facility.",
-      "date": "Wed, 11 Nov 2026 08:51:29 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201499"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
-      "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
-      "sector": "space",
-      "summary": "\"Data centers in space looking pretty appealing right now.\"",
-      "date": "Wed, 04 Nov 2026 20:36:05 +0000",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/bD7iRB4p2z9MW7YqjmwwUzcI0X81qkyaqZacwStDPHo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTMxNTI1NTg2XzEuanBn",
+      "date": "Wed, 11 Nov 2026 11:07:19 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201621"
+      "fetched_at": "2026-11-12T15:54:37.670016"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/california-orders-utilities-to-develop-joint-der-orchestration-framework/874355/",
+      "title": "California orders utilities to develop joint DER orchestration framework",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/california-orders-utilities-to-develop-joint-der-orchestration-framework/874355/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/SUkKiA-fFMKL5oUQy8GWqqNVD70Ph1fvPfgm41Jxglk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS93YXltb19lbGVjdHJpY19jaGFyZ2luZy5qcGc=",
+      "date": "Wed, 11 Nov 2026 07:47:25 -0500",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-12T15:54:37.670020"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/ferc-lacerte-midterms-pjm-utility/874353/",
+      "title": "FERC\u2019s LaCerte weighs in on midterms, PJM and utility monopolies",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/ferc-lacerte-midterms-pjm-utility/874353/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/dw_DW5Ezkta_nawiQV0jSkR_LpGJQOV8DjlCCaPwGPs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMTMwOWEuanBlZw==.webp\" /></div><",
+      "date": "Wed, 11 Nov 2026 05:37:27 -0500",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-12T15:54:37.670025"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/",
@@ -106,7 +130,7 @@
       "date": "Wed, 04 Nov 2026 20:14:59 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201660"
+      "fetched_at": "2026-11-12T15:54:37.670144"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
@@ -118,7 +142,7 @@
       "date": "Tue, 10 Nov 2026 23:02:39 +0000",
       "signal_type": "supply_shock",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201584"
+      "fetched_at": "2026-11-12T15:54:37.670063"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
@@ -130,31 +154,7 @@
       "date": "Tue, 10 Nov 2026 16:17:51 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201588"
-    },
-    {
-      "id": "https://www.energy-storage.news/baaja-us-legislation-to-speed-up-permitting-carries-hidden-political-risk-wont-solve-interconnection-queue-wait/",
-      "title": "BAAJA: US legislation to speed up permitting carries hidden political risk, \u2018won\u2019t solve interconnection queue wait\u2019",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/baaja-us-legislation-to-speed-up-permitting-carries-hidden-political-risk-wont-solve-interconnection-queue-wait/",
-      "sector": "energy-storage",
-      "summary": "The energy storage industry is abuzz with discussion of passing BAAJA following Democrats\u2019 taking of the House and Senate in the 2026 US midterm elections.",
-      "date": "Tue, 10 Nov 2026 14:13:31 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201519"
-    },
-    {
-      "id": "https://www.energy-storage.news/canada-alectra-convergent-complete-320mwh-portfolio-in-ontario-rodan-advances-countrys-largest-btm-bess/",
-      "title": "Canada: Alectra-Convergent complete 320MWh portfolio in Ontario, Rodan advances country\u2019s largest BTM BESS",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/canada-alectra-convergent-complete-320mwh-portfolio-in-ontario-rodan-advances-countrys-largest-btm-bess/",
-      "sector": "energy-storage",
-      "summary": "Alectra Energy Solutions and Convergent Energy &#038; Power have completed a 320MWh BESS portfolio at three sites in Ontario.",
-      "date": "Tue, 10 Nov 2026 13:02:06 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201526"
+      "fetched_at": "2026-11-12T15:54:37.670067"
     },
     {
       "id": "https://www.utilitydive.com/news/ai-boom-could-shift-diesel-generators-backup-everyday-use/873954/",
@@ -166,19 +166,7 @@
       "date": "Tue, 10 Nov 2026 12:24:20 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201536"
-    },
-    {
-      "id": "https://www.energy-storage.news/sumitomo-corporation-greenvolt-deploy-bess-japan/",
-      "title": "Sumitomo Corporation, Greenvolt deploy BESS at both ends of scale in Japan\u2019s layered market",
-      "source": "Energy-Storage.News",
-      "url": "https://www.energy-storage.news/sumitomo-corporation-greenvolt-deploy-bess-japan/",
-      "sector": "energy-storage",
-      "summary": "Battery energy storage system (BESS) projects in Japan by Sumitomo Corporation and Greenvolt provide an interesting snapshot of the country\u2019s development landscape.",
-      "date": "Tue, 10 Nov 2026 12:20:17 +0000",
-      "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201531"
+      "fetched_at": "2026-11-12T15:54:37.670030"
     },
     {
       "id": "https://www.utilitydive.com/news/ge-vernova-to-spend-345m-expanding-transformer-manufacturing-capacity-in/874272/",
@@ -190,7 +178,7 @@
       "date": "Tue, 10 Nov 2026 12:03:44 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201541"
+      "fetched_at": "2026-11-12T15:54:37.670034"
     },
     {
       "id": "https://www.utilitydive.com/news/community-engagement-is-key-to-on-site-battery-energy-storage-experts-say/874194/",
@@ -202,7 +190,7 @@
       "date": "Tue, 10 Nov 2026 11:05:42 -0500",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201546"
+      "fetched_at": "2026-11-12T15:54:37.670038"
     },
     {
       "id": "https://www.utilitydive.com/news/are-data-centers-really-paying-aes-indianas-google-deal-highlights-a-thor/873040/",
@@ -214,7 +202,7 @@
       "date": "Tue, 10 Nov 2026 10:35:36 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201551"
+      "fetched_at": "2026-11-12T15:54:37.670042"
     },
     {
       "id": "https://www.utilitydive.com/news/permitting-bill-advances-in-senate-but-its-future-is-uncertain-after-democ/874250/",
@@ -226,7 +214,7 @@
       "date": "Tue, 10 Nov 2026 10:02:14 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201556"
+      "fetched_at": "2026-11-12T15:54:37.670046"
     },
     {
       "id": "https://www.utilitydive.com/news/generators-prepared-extreme-cold-nerc/874248/",
@@ -238,31 +226,7 @@
       "date": "Tue, 10 Nov 2026 09:30:50 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201560"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/minnesota-puc-rate-case-affordability-naruc/874222/",
-      "title": "Utilities should consider \u2018taking a breather\u2019 from rate cases: Minnesota PUC vice chair",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/minnesota-puc-rate-case-affordability-naruc/874222/",
-      "sector": "energy-storage",
-      "summary": "<p>&ldquo;Filing rate cases right now is really painful,&rdquo; Joseph Sullivan told Utility Dive in an interview. He also discussed his concerns with overly complex data center cost allocation and an",
-      "date": "Tue, 10 Nov 2026 06:09:21 -0500",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201565"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
-      "title": "This space company is betting its future on a propellant available everywhere",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
-      "sector": "space",
-      "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
-      "date": "Tue, 03 Nov 2026 16:50:32 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201625"
+      "fetched_at": "2026-11-12T15:54:37.670051"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/",
@@ -274,7 +238,7 @@
       "date": "Tue, 03 Nov 2026 13:35:33 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201665"
+      "fetched_at": "2026-11-12T15:54:37.670149"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/",
@@ -286,7 +250,79 @@
       "date": "Thu, 29 Oct 2026 21:57:22 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201678"
+      "fetched_at": "2026-11-12T15:54:37.670163"
+    },
+    {
+      "id": "https://www.energy-storage.news/dc-bidirectional-charging-and-data-centre-demand-are-reshaping-the-case-for-us-ders/",
+      "title": "DC bidirectional charging and data centre demand are reshaping the case for US DERs",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/dc-bidirectional-charging-and-data-centre-demand-are-reshaping-the-case-for-us-ders/",
+      "sector": "energy-storage",
+      "summary": "As data centre demand surges, utilities and developers are turning to distributed energy resources (DERs) to ease grid strain.",
+      "date": "Thu, 12 Nov 2026 14:33:57 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-12T15:54:37.669673"
+    },
+    {
+      "id": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
+      "title": "German utility to build 7.5MW/30MWh project using Eos\u2019 zinc-bromide battery tech",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
+      "sector": "energy-storage",
+      "summary": "Stadtwerke Gaggenau, a municipal utility in Germany, has hired a general contractor to build a 4-hour BESS project using the zinc-bromide technology from US firm Eos Energy Enterprises.",
+      "date": "Thu, 12 Nov 2026 11:59:58 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-11-12T15:54:37.669945"
+    },
+    {
+      "id": "https://www.energy-storage.news/flexgen-chosen-as-system-integrator-for-google-backed-us-solar-plus-storage-project-with-mn8-eos/",
+      "title": "FlexGen chosen as system integrator for Google-backed US solar-plus-storage project with MN8, Eos",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/flexgen-chosen-as-system-integrator-for-google-backed-us-solar-plus-storage-project-with-mn8-eos/",
+      "sector": "energy-storage",
+      "summary": "Software-focused energy storage system integrator FlexGen will serve as the integrator of MN8 Energy\u2019s solar-plus-storage project in Kanawha, West Virginia, US, using solutions from Eos Energy Enterpr",
+      "date": "Thu, 12 Nov 2026 10:58:28 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-11-12T15:54:37.669956"
+    },
+    {
+      "id": "https://www.energy-storage.news/what-six-months-of-dutch-market-data-tell-us-about-the-true-worth-of-renewables-bess-dispatch-optimisation/",
+      "title": "What six months of Dutch market data tell us about the true worth of renewables & BESS dispatch optimisation",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/what-six-months-of-dutch-market-data-tell-us-about-the-true-worth-of-renewables-bess-dispatch-optimisation/",
+      "sector": "energy-storage",
+      "summary": "Analysis of optimiser performance in the Dutch electricity market highlights the need to separate claims and forecasting from realistic outcomes, writes Omer Bumin of trading infrastructure software c",
+      "date": "Thu, 12 Nov 2026 09:54:46 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-11-12T15:54:37.669962"
+    },
+    {
+      "id": "https://www.energy-storage.news/alinta-energys-200mwh-wagerup-bess-online-in-western-australia-after-significant-redesign/",
+      "title": "Alinta Energy\u2019s 200MWh Wagerup BESS online in Western Australia after \u2018significant redesign\u2019",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/alinta-energys-200mwh-wagerup-bess-online-in-western-australia-after-significant-redesign/",
+      "sector": "energy-storage",
+      "summary": "Alinta Energy's 100MW/200MWh BESS at its Wagerup thermal power plant in Western Australia has been operating commercially since September.",
+      "date": "Thu, 12 Nov 2026 08:53:07 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-11-12T15:54:37.669967"
+    },
+    {
+      "id": "https://www.energy-storage.news/must-be-ready-and-able-to-deliver-energyaustralia-pays-au750000-over-alleged-fcas-failures-at-four-bess/",
+      "title": "\u2018Must be ready and able to deliver\u2019: EnergyAustralia pays AU$750,000 over alleged FCAS failures at four BESS",
+      "source": "Energy-Storage.News",
+      "url": "https://www.energy-storage.news/must-be-ready-and-able-to-deliver-energyaustralia-pays-au750000-over-alleged-fcas-failures-at-four-bess/",
+      "sector": "energy-storage",
+      "summary": "EnergyAustralia has paid AU$750,000 (US$519,300) in penalties after the Australian Energy Regulator (AER) alleged that four battery energy storage systems (BESS) it manages failed to deliver frequency",
+      "date": "Thu, 12 Nov 2026 08:51:14 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-11-12T15:54:37.669972"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
@@ -298,7 +334,7 @@
       "date": "Thu, 05 Nov 2026 22:34:58 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201639"
+      "fetched_at": "2026-11-12T15:54:37.670105"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
@@ -310,7 +346,7 @@
       "date": "Thu, 05 Nov 2026 22:30:36 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201644"
+      "fetched_at": "2026-11-12T15:54:37.670109"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
@@ -322,7 +358,7 @@
       "date": "Thu, 05 Nov 2026 22:28:40 +0000",
       "signal_type": "supply_shock",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201649"
+      "fetched_at": "2026-11-12T15:54:37.670119"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
@@ -334,7 +370,7 @@
       "date": "Sat, 07 Nov 2026 02:18:04 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-11-11T15:01:45.201630"
+      "fetched_at": "2026-11-12T15:54:37.670097"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
@@ -346,7 +382,7 @@
       "date": "Mon, 09 Nov 2026 19:08:37 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201593"
+      "fetched_at": "2026-11-12T15:54:37.670072"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
@@ -358,7 +394,7 @@
       "date": "Mon, 09 Nov 2026 15:39:21 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-11-11T15:01:45.201597"
+      "fetched_at": "2026-11-12T15:54:37.670076"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
@@ -370,43 +406,7 @@
       "date": "Mon, 09 Nov 2026 12:00:05 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201602"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/large-loads-affordability-western-markets-arizona-acc/874071/",
-      "title": "Arizona\u2019s longest-tenured utility commissioner on large loads, affordability and Western markets",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/large-loads-affordability-western-markets-arizona-acc/874071/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/8xpNYsH78dlZo9HOAwkIGZyFUPpvUUUad-zw2sHuJfA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzI3NC5wbmc=.webp\" /></d",
-      "date": "Mon, 09 Nov 2026 11:42:22 -0500",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201569"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/ppl-increases-capital-plan-to-25b-with-proposed-kentucky-gas-plant/874129/",
-      "title": "PPL increases capital plan to $25B with proposed Kentucky gas plant",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/ppl-increases-capital-plan-to-25b-with-proposed-kentucky-gas-plant/874129/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/2ZRTUTxVHPlct1m7GiqyxuHxGbkruz9-2HZhR6Hu9Uk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkxMDE2MTc3LmpwZw==",
-      "date": "Mon, 09 Nov 2026 11:38:05 -0500",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201574"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/grid-investment-affordability-naruc-state-policy/874080/",
-      "title": "Inside the \u2018pressure cooker\u2019: Electric utility regulators gather in wake of electoral earthquake",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/grid-investment-affordability-naruc-state-policy/874080/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3RZOPqj7AGub98zz860mDfOP8-0E3LhDS5JUG3-pkG0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yYXRlcGF5ZXJfcHJvdGVzdC5qcGc=.webp\" /",
-      "date": "Mon, 09 Nov 2026 08:16:11 -0500",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201579"
+      "fetched_at": "2026-11-12T15:54:37.670080"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
@@ -418,7 +418,7 @@
       "date": "Fri, 30 Oct 2026 22:46:02 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201669"
+      "fetched_at": "2026-11-12T15:54:37.670154"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/",
@@ -430,7 +430,7 @@
       "date": "Fri, 30 Oct 2026 15:50:37 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201674"
+      "fetched_at": "2026-11-12T15:54:37.670158"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
@@ -442,7 +442,7 @@
       "date": "Fri, 06 Nov 2026 22:00:39 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201634"
+      "fetched_at": "2026-11-12T15:54:37.670101"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
@@ -454,7 +454,7 @@
       "date": "Fri, 06 Nov 2026 18:20:47 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-11T15:01:45.201607"
+      "fetched_at": "2026-11-12T15:54:37.670085"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
@@ -466,7 +466,7 @@
       "date": "Fri, 06 Nov 2026 13:33:20 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201612"
+      "fetched_at": "2026-11-12T15:54:37.670089"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
@@ -478,9 +478,9 @@
       "date": "Fri, 06 Nov 2026 00:17:06 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-11T15:01:45.201617"
+      "fetched_at": "2026-11-12T15:54:37.670093"
     }
   ],
   "regulations": [],
-  "last_update": "2026-11-11T15:01:46.235549"
+  "last_update": "2026-11-12T15:54:38.032363"
 }
