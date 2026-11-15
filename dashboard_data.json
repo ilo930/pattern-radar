@@ -10,7 +10,7 @@
       "date": "Wed, 11 Nov 2026 20:22:03 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335336"
+      "fetched_at": "2026-11-15T14:38:55.926644"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
@@ -22,7 +22,7 @@
       "date": "Wed, 11 Nov 2026 19:00:26 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335340"
+      "fetched_at": "2026-11-15T14:38:55.926646"
     },
     {
       "id": "https://www.utilitydive.com/news/constellation-pursues-hybrid-nuclearcapacity-contracts-alongside-uprates/874408/",
@@ -34,7 +34,7 @@
       "date": "Wed, 11 Nov 2026 12:07:19 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335306"
+      "fetched_at": "2026-11-15T14:38:55.926621"
     },
     {
       "id": "https://www.utilitydive.com/news/no-home-left-behind-scaling-vpp-participation-while-maintaining-customer-c/873474/",
@@ -46,7 +46,7 @@
       "date": "Wed, 11 Nov 2026 11:07:19 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335310"
+      "fetched_at": "2026-11-15T14:38:55.926624"
     },
     {
       "id": "https://www.utilitydive.com/news/california-orders-utilities-to-develop-joint-der-orchestration-framework/874355/",
@@ -58,7 +58,7 @@
       "date": "Wed, 11 Nov 2026 07:47:25 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335315"
+      "fetched_at": "2026-11-15T14:38:55.926627"
     },
     {
       "id": "https://www.utilitydive.com/news/ferc-lacerte-midterms-pjm-utility/874353/",
@@ -70,7 +70,7 @@
       "date": "Wed, 11 Nov 2026 05:37:27 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335319"
+      "fetched_at": "2026-11-15T14:38:55.926630"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/",
@@ -82,7 +82,7 @@
       "date": "Wed, 04 Nov 2026 20:14:59 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335400"
+      "fetched_at": "2026-11-15T14:38:55.926688"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
@@ -94,7 +94,7 @@
       "date": "Tue, 10 Nov 2026 23:02:39 +0000",
       "signal_type": "supply_shock",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335344"
+      "fetched_at": "2026-11-15T14:38:55.926648"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
@@ -106,7 +106,7 @@
       "date": "Tue, 10 Nov 2026 16:17:51 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335348"
+      "fetched_at": "2026-11-15T14:38:55.926651"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/",
@@ -118,7 +118,7 @@
       "date": "Tue, 03 Nov 2026 13:35:33 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335405"
+      "fetched_at": "2026-11-15T14:38:55.926690"
     },
     {
       "id": "https://www.energy-storage.news/airtrunk-secures-exclusivity-on-800mwh-battery-storage-as-part-of-1gw-hunter-renewables-deal-in-australia/",
@@ -130,7 +130,7 @@
       "date": "Thu, 12 Nov 2026 21:12:52 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335247"
+      "fetched_at": "2026-11-15T14:38:55.926576"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
@@ -142,7 +142,7 @@
       "date": "Thu, 12 Nov 2026 18:28:22 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335332"
+      "fetched_at": "2026-11-15T14:38:55.926641"
     },
     {
       "id": "https://www.energy-storage.news/dc-bidirectional-charging-and-data-centre-demand-are-reshaping-the-case-for-us-ders/",
@@ -154,7 +154,7 @@
       "date": "Thu, 12 Nov 2026 14:33:57 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335251"
+      "fetched_at": "2026-11-15T14:38:55.926580"
     },
     {
       "id": "https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/",
@@ -166,7 +166,7 @@
       "date": "Thu, 12 Nov 2026 13:25:33 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335289"
+      "fetched_at": "2026-11-15T14:38:55.926609"
     },
     {
       "id": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
@@ -178,7 +178,7 @@
       "date": "Thu, 12 Nov 2026 11:59:58 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335265"
+      "fetched_at": "2026-11-15T14:38:55.926591"
     },
     {
       "id": "https://www.utilitydive.com/news/coned-says-resource-adequacy-environmental-compliance-drive-planning/874511/",
@@ -190,7 +190,7 @@
       "date": "Thu, 12 Nov 2026 11:05:13 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335294"
+      "fetched_at": "2026-11-15T14:38:55.926612"
     },
     {
       "id": "https://www.energy-storage.news/flexgen-chosen-as-system-integrator-for-google-backed-us-solar-plus-storage-project-with-mn8-eos/",
@@ -202,7 +202,7 @@
       "date": "Thu, 12 Nov 2026 10:58:28 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335270"
+      "fetched_at": "2026-11-15T14:38:55.926594"
     },
     {
       "id": "https://www.utilitydive.com/news/around-400-onshore-wind-projects-await-dod-action-official-says-in-court/874521/",
@@ -214,7 +214,7 @@
       "date": "Thu, 12 Nov 2026 10:48:08 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335298"
+      "fetched_at": "2026-11-15T14:38:55.926615"
     },
     {
       "id": "https://www.energy-storage.news/what-six-months-of-dutch-market-data-tell-us-about-the-true-worth-of-renewables-bess-dispatch-optimisation/",
@@ -226,7 +226,7 @@
       "date": "Thu, 12 Nov 2026 09:54:46 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335276"
+      "fetched_at": "2026-11-15T14:38:55.926598"
     },
     {
       "id": "https://www.utilitydive.com/news/data-centers-could-lower-your-electricity-bill-but-will-utilities-let-them/873144/",
@@ -238,7 +238,7 @@
       "date": "Thu, 12 Nov 2026 08:22:25 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335302"
+      "fetched_at": "2026-11-15T14:38:55.926618"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
@@ -250,7 +250,7 @@
       "date": "Thu, 05 Nov 2026 22:34:58 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335387"
+      "fetched_at": "2026-11-15T14:38:55.926675"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
@@ -262,7 +262,7 @@
       "date": "Thu, 05 Nov 2026 22:30:36 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335392"
+      "fetched_at": "2026-11-15T14:38:55.926678"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
@@ -274,7 +274,19 @@
       "date": "Thu, 05 Nov 2026 22:28:40 +0000",
       "signal_type": "supply_shock",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335396"
+      "fetched_at": "2026-11-15T14:38:55.926680"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "title": "SpaceX returned its Starship rocket on Saturday\u2014but there's a catch",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "sector": "space",
+      "summary": "It felt like stepping into the future.",
+      "date": "Sun, 15 Nov 2026 00:40:59 +0000",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-11-15T14:38:55.926633"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
@@ -286,7 +298,7 @@
       "date": "Sat, 14 Nov 2026 00:49:13 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335324"
+      "fetched_at": "2026-11-15T14:38:55.926636"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
@@ -298,7 +310,7 @@
       "date": "Sat, 07 Nov 2026 02:18:04 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-11-14T14:02:40.335373"
+      "fetched_at": "2026-11-15T14:38:55.926664"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
@@ -310,7 +322,7 @@
       "date": "Mon, 09 Nov 2026 19:08:37 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335353"
+      "fetched_at": "2026-11-15T14:38:55.926654"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
@@ -322,19 +334,7 @@
       "date": "Mon, 09 Nov 2026 15:39:21 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-11-14T14:02:40.335357"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
-      "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
-      "sector": "space",
-      "summary": "\"There\u2019s no doubt that whatever it\u2019s going to be called, it won\u2019t be called Golden Dome.\"",
-      "date": "Mon, 09 Nov 2026 12:00:05 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335361"
+      "fetched_at": "2026-11-15T14:38:55.926657"
     },
     {
       "id": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
@@ -346,19 +346,19 @@
       "date": "Fri, 30 Oct 2026 22:46:02 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335409"
+      "fetched_at": "2026-11-15T14:38:55.926693"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-      "title": "Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown",
+      "title": "Starship returns to Starbase and a successful tower catch",
       "source": "Spaceflight Now",
       "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
       "sector": "space",
-      "summary": "Liftoff of the Starship vehicle from Starbase in Texas occurred at 4:47 p.m. CST (5:47 p.m. EST / 2247 UTC) on Friday, Nov. 13. The Ship could return to a landing at Starbase on Saturday. <a class=\"mh",
+      "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States. <a class=\"mh-e",
       "date": "Fri, 13 Nov 2026 19:15:11 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335365"
+      "fetched_at": "2026-11-15T14:38:55.926659"
     },
     {
       "id": "https://www.energy-storage.news/the-next-phase-of-ess-lg-energy-solutions-strategy-for-an-evolving-energy-market/",
@@ -370,7 +370,7 @@
       "date": "Fri, 13 Nov 2026 14:14:09 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335017"
+      "fetched_at": "2026-11-15T14:38:55.926302"
     },
     {
       "id": "https://www.utilitydive.com/news/utility-tech-officials-see-opportunities-to-increase-grid-utilization/874644/",
@@ -382,19 +382,19 @@
       "date": "Fri, 13 Nov 2026 12:26:00 -0500",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335280"
+      "fetched_at": "2026-11-15T14:38:55.926602"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-      "title": "ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon",
+      "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
       "source": "Spaceflight Now",
       "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
       "sector": "space",
-      "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:32 p.m. EST (1732 UTC) on Saturday. <a class=\"mh-excerpt-more\" href=\"https://spaceflightnow.com/2026/",
+      "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday. <a class=\"mh-excerpt-more\" href=\"https://spaceflightnow.com/2026/11",
       "date": "Fri, 13 Nov 2026 12:25:06 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335369"
+      "fetched_at": "2026-11-15T14:38:55.926662"
     },
     {
       "id": "https://www.energy-storage.news/toll-makes-way-for-floor-offtake-contracting-beginning-to-standardise-in-uk-bess-market/",
@@ -406,7 +406,7 @@
       "date": "Fri, 13 Nov 2026 12:24:56 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335224"
+      "fetched_at": "2026-11-15T14:38:55.926542"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
@@ -418,7 +418,7 @@
       "date": "Fri, 13 Nov 2026 12:00:40 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335328"
+      "fetched_at": "2026-11-15T14:38:55.926639"
     },
     {
       "id": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
@@ -430,7 +430,7 @@
       "date": "Fri, 13 Nov 2026 12:00:00 -0500",
       "signal_type": "regulatory",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-14T14:02:40.335285"
+      "fetched_at": "2026-11-15T14:38:55.926605"
     },
     {
       "id": "https://www.energy-storage.news/sunrun-closes-preferred-equity-investment-for-us-distributed-energy-resources-totalling-110mwh-of-batteries/",
@@ -442,7 +442,7 @@
       "date": "Fri, 13 Nov 2026 11:38:00 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-11-14T14:02:40.335231"
+      "fetched_at": "2026-11-15T14:38:55.926547"
     },
     {
       "id": "https://www.energy-storage.news/bess-industry-buzz-catl-sodium-ion-specs-bess-availability-and-the-price-of-speed-to-power/",
@@ -454,7 +454,7 @@
       "date": "Fri, 13 Nov 2026 10:01:42 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335236"
+      "fetched_at": "2026-11-15T14:38:55.926568"
     },
     {
       "id": "https://www.energy-storage.news/lacour-energy-refers-4000mwh-wind-plus-storage-site-to-australias-epbc-act/",
@@ -466,7 +466,7 @@
       "date": "Fri, 13 Nov 2026 09:10:33 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335241"
+      "fetched_at": "2026-11-15T14:38:55.926573"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
@@ -478,9 +478,9 @@
       "date": "Fri, 06 Nov 2026 22:00:39 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-14T14:02:40.335382"
+      "fetched_at": "2026-11-15T14:38:55.926666"
     }
   ],
   "regulations": [],
-  "last_update": "2026-11-14T14:02:40.971655"
+  "last_update": "2026-11-15T14:38:56.432087"
 }
