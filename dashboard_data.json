@@ -10,7 +10,7 @@
       "date": "Wed, 18 Nov 2026 21:11:37 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-11-20T16:00:07.928557"
+      "fetched_at": "2026-11-21T15:15:02.894625"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/",
@@ -22,7 +22,7 @@
       "date": "Wed, 18 Nov 2026 17:46:40 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928559"
+      "fetched_at": "2026-11-21T15:15:02.894629"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
@@ -34,7 +34,7 @@
       "date": "Wed, 18 Nov 2026 16:58:32 +0000",
       "signal_type": "supply_shock",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928539"
+      "fetched_at": "2026-11-21T15:15:02.894604"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
@@ -46,7 +46,7 @@
       "date": "Wed, 18 Nov 2026 12:15:44 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928542"
+      "fetched_at": "2026-11-21T15:15:02.894609"
     },
     {
       "id": "https://www.utilitydive.com/news/the-grid-will-fall-short-of-ais-power-needs-6-resources-close-the-gap/874125/",
@@ -58,43 +58,7 @@
       "date": "Wed, 18 Nov 2026 10:57:17 -0500",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928516"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
-      "title": "NextEra-Dominion merger hearings kick off with focus on scope",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/oRz3VYaqsdejdV2l0e9UH4nCIyQYxiIvkBM2eK4MUhY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0tldGNodW0uanBn.webp\" /></div><",
-      "date": "Wed, 18 Nov 2026 10:50:14 -0500",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928519"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/national-grid-eversource-vpp-demand-response/875039/",
-      "title": "How National Grid, Eversource are using VPPs to solve local-level constraints",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/national-grid-eversource-vpp-demand-response/875039/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/xyIVs9HfZPCroa_qCgaVaW6IrN4LkolaC8ODIXNe-8A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NjgwOTA0N18xLmpwZw==",
-      "date": "Wed, 18 Nov 2026 10:31:06 -0500",
-      "signal_type": "supply_shock",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928521"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
-      "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
-      "sector": "energy-storage",
-      "summary": "<p>The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming,&nbsp;an area rich in wind resources and slated for major grid expansion projects.</p>",
-      "date": "Wed, 18 Nov 2026 09:23:48 -0500",
-      "signal_type": "capital_deployment",
-      "relevance_score": 7.0,
-      "fetched_at": "2026-11-20T16:00:07.928524"
+      "fetched_at": "2026-11-21T15:15:02.894573"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
@@ -106,7 +70,7 @@
       "date": "Tue, 17 Nov 2026 22:44:46 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928544"
+      "fetched_at": "2026-11-21T15:15:02.894613"
     },
     {
       "id": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
@@ -118,43 +82,19 @@
       "date": "Tue, 17 Nov 2026 18:00:51 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928547"
-    },
-    {
-      "id": "https://www.utilitydive.com/news/data-center-slowdown-raises-risks-for-utility-investments/874924/",
-      "title": "Data center slowdown would raise risks for utility investments",
-      "source": "Utility Dive - Latest News",
-      "url": "https://www.utilitydive.com/news/data-center-slowdown-raises-risks-for-utility-investments/874924/",
-      "sector": "energy-storage",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KiddANUQPTRG6c-L8Hl4NZ5oyn9pKMq9Og5ACxGMef0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyMjM1MDI5LmpwZw==",
-      "date": "Tue, 17 Nov 2026 13:10:00 -0500",
-      "signal_type": "capital_deployment",
-      "relevance_score": 7.0,
-      "fetched_at": "2026-11-20T16:00:07.928527"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
-      "title": "Artist brings old Space Shuttle tank back to life",
-      "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
-      "sector": "space",
-      "summary": "\"It's definitely the largest art project I've ever worked on.\"",
-      "date": "Tue, 17 Nov 2026 12:15:54 +0000",
-      "signal_type": "news",
-      "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928549"
+      "fetched_at": "2026-11-21T15:15:02.894617"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
-      "title": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday",
+      "title": "SpaceX launches classified payload for the U.S. Space Force",
       "source": "Spaceflight Now",
       "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
       "sector": "space",
-      "summary": "The mission is the latest in the series of \u2018R\u2019 missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for Friday, Nov. 20, during a window that opens at 6:32 p.m. PST (9:32 p.m.",
+      "summary": "The mission was the latest in the series of \u2018R\u2019 missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, No",
       "date": "Thu, 19 Nov 2026 23:51:47 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928554"
+      "fetched_at": "2026-11-21T15:15:02.894621"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
@@ -166,7 +106,7 @@
       "date": "Thu, 19 Nov 2026 19:52:54 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928534"
+      "fetched_at": "2026-11-21T15:15:02.894595"
     },
     {
       "id": "https://www.energy-storage.news/the-biggest-change-is-scale-giga-storage-on-evolution-of-bess-asset-management-in-europe/",
@@ -178,7 +118,7 @@
       "date": "Thu, 19 Nov 2026 16:14:12 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928493"
+      "fetched_at": "2026-11-21T15:15:02.894514"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
@@ -190,7 +130,7 @@
       "date": "Thu, 19 Nov 2026 13:40:02 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928537"
+      "fetched_at": "2026-11-21T15:15:02.894599"
     },
     {
       "id": "https://www.utilitydive.com/news/google-signs-50-mw-superhot-geothermal-ppa-with-quaise-energy/875217/",
@@ -202,7 +142,7 @@
       "date": "Thu, 19 Nov 2026 12:58:42 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928503"
+      "fetched_at": "2026-11-21T15:15:02.894550"
     },
     {
       "id": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
@@ -214,7 +154,7 @@
       "date": "Thu, 19 Nov 2026 12:13:16 -0500",
       "signal_type": "regulatory",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928506"
+      "fetched_at": "2026-11-21T15:15:02.894554"
     },
     {
       "id": "https://www.energy-storage.news/data-centre-power-buildouts-are-deja-vu-for-us-storage-integrators-with-off-grid-roots/",
@@ -226,7 +166,7 @@
       "date": "Thu, 19 Nov 2026 12:04:30 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928497"
+      "fetched_at": "2026-11-21T15:15:02.894520"
     },
     {
       "id": "https://www.energy-storage.news/avery-dennison-argent-psa-tape-dielectric-performance-bess-30-year-lifetimes/",
@@ -238,7 +178,7 @@
       "date": "Thu, 19 Nov 2026 11:53:02 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928500"
+      "fetched_at": "2026-11-21T15:15:02.894526"
     },
     {
       "id": "https://www.utilitydive.com/news/ratepayer-advocates-pjm-market-monitor-capacity-auction/875165/",
@@ -250,7 +190,7 @@
       "date": "Thu, 19 Nov 2026 09:29:26 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928508"
+      "fetched_at": "2026-11-21T15:15:02.894559"
     },
     {
       "id": "https://www.utilitydive.com/news/el-nino-challenge-grid-operators-winter-nerc/875156/",
@@ -262,7 +202,7 @@
       "date": "Thu, 19 Nov 2026 06:38:50 -0500",
       "signal_type": "supply_shock",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928511"
+      "fetched_at": "2026-11-21T15:15:02.894563"
     },
     {
       "id": "https://www.utilitydive.com/news/new-york-is-short-electric-resources-beginning-2033-iso/875155/",
@@ -274,7 +214,7 @@
       "date": "Thu, 19 Nov 2026 05:55:14 -0500",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928514"
+      "fetched_at": "2026-11-21T15:15:02.894567"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
@@ -286,7 +226,7 @@
       "date": "Thu, 05 Nov 2026 22:34:58 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928580"
+      "fetched_at": "2026-11-21T15:15:02.894661"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
@@ -298,7 +238,7 @@
       "date": "Thu, 05 Nov 2026 22:30:36 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928583"
+      "fetched_at": "2026-11-21T15:15:02.894666"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
@@ -310,7 +250,7 @@
       "date": "Sun, 15 Nov 2026 19:16:59 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928562"
+      "fetched_at": "2026-11-21T15:15:02.894633"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
@@ -322,19 +262,31 @@
       "date": "Sat, 07 Nov 2026 02:18:04 +0000",
       "signal_type": "capital_deployment",
       "relevance_score": 7.0,
-      "fetched_at": "2026-11-20T16:00:07.928575"
+      "fetched_at": "2026-11-21T15:15:02.894652"
     },
     {
-      "id": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
-      "title": "When will humans actually fly on Starship?",
+      "id": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
       "source": "Space - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
       "sector": "space",
-      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
-      "date": "Mon, 16 Nov 2026 19:46:08 +0000",
+      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "date": "Fri, 20 Nov 2026 22:16:51 +0000",
       "signal_type": "news",
-      "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928552"
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-21T15:15:02.894577"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "title": "NASA\u2019s new Moon plan is taking shape, but some big questions remain",
+      "source": "Space - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "sector": "space",
+      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+      "date": "Fri, 20 Nov 2026 20:26:33 +0000",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-21T15:15:02.894581"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
@@ -346,7 +298,7 @@
       "date": "Fri, 20 Nov 2026 14:15:21 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928529"
+      "fetched_at": "2026-11-21T15:15:02.894586"
     },
     {
       "id": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
@@ -358,7 +310,7 @@
       "date": "Fri, 20 Nov 2026 13:35:45 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928532"
+      "fetched_at": "2026-11-21T15:15:02.894590"
     },
     {
       "id": "https://www.energy-storage.news/sodium-is-a-chance-for-us-to-lean-forward-and-win-alsym-energy-at-re-on-why-us-battery-policy-needs-to-shift-upstream/",
@@ -370,7 +322,7 @@
       "date": "Fri, 20 Nov 2026 12:53:38 +0000",
       "signal_type": "regulatory",
       "relevance_score": 7.5,
-      "fetched_at": "2026-11-20T16:00:07.928230"
+      "fetched_at": "2026-11-21T15:15:02.894174"
     },
     {
       "id": "https://www.energy-storage.news/whos-gaining-geopolitical-advantage-in-the-energy-transition/",
@@ -382,7 +334,7 @@
       "date": "Fri, 20 Nov 2026 12:01:59 +0000",
       "signal_type": "news",
       "relevance_score": 5.0,
-      "fetched_at": "2026-11-20T16:00:07.928466"
+      "fetched_at": "2026-11-21T15:15:02.894465"
     },
     {
       "id": "https://www.energy-storage.news/germany-operators-4gwh-large-scale-bess-construction-fid-deadline/",
@@ -394,7 +346,7 @@
       "date": "Fri, 20 Nov 2026 11:55:25 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928471"
+      "fetched_at": "2026-11-21T15:15:02.894475"
     },
     {
       "id": "https://www.energy-storage.news/bess-industry-buzz-re-eu-made-premiums-european-revenue-variability/",
@@ -406,7 +358,31 @@
       "date": "Fri, 20 Nov 2026 11:34:56 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928474"
+      "fetched_at": "2026-11-21T15:15:02.894481"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/senate-passes-baaja-permitting-bill/875334/",
+      "title": "Permitting reform bill heads to House as Democratic divisions persist",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/senate-passes-baaja-permitting-bill/875334/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Eb8CPDIMgTZfWeoF8zWLyjtIGZVltnQffydL3GMRSFI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1OTUxNjA4LmpwZw==",
+      "date": "Fri, 20 Nov 2026 10:48:13 -0500",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-21T15:15:02.894531"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/budderfly-to-invest-500m-to-finance-and-operate-municipal-energy-upgrades/875320/",
+      "title": "Budderfly to invest $500M to finance and operate municipal energy upgrades",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/budderfly-to-invest-500m-to-finance-and-operate-municipal-energy-upgrades/875320/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/GareYTGk_8Lde7ryajvZ0QvDGqOHwek_opW3bdo304w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9taWRkbGVfc2Nob29sX3NvbGFyLmpwZw==.web",
+      "date": "Fri, 20 Nov 2026 10:13:48 -0500",
+      "signal_type": "capital_deployment",
+      "relevance_score": 7.0,
+      "fetched_at": "2026-11-21T15:15:02.894536"
     },
     {
       "id": "https://www.energy-storage.news/edf-acquires-250mw-holloway-battery-storage-project-new-south-wales-australia/",
@@ -418,7 +394,7 @@
       "date": "Fri, 20 Nov 2026 10:00:04 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928477"
+      "fetched_at": "2026-11-21T15:15:02.894487"
     },
     {
       "id": "https://www.energy-storage.news/australia-bess-storage-gap-2030-construction-18-months-ieefa-scorecard/",
@@ -430,7 +406,7 @@
       "date": "Fri, 20 Nov 2026 09:48:09 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928480"
+      "fetched_at": "2026-11-21T15:15:02.894492"
     },
     {
       "id": "https://www.energy-storage.news/how-a-spanish-battery-makes-money-today-and-what-lenders-will-finance-tomorrow/",
@@ -442,7 +418,31 @@
       "date": "Fri, 20 Nov 2026 09:34:27 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928483"
+      "fetched_at": "2026-11-21T15:15:02.894496"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/western-northeast-market-reforms-drought-grid-ferc/875311/",
+      "title": "Market reforms bolster grid, may lower costs this winter: FERC",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/western-northeast-market-reforms-drought-grid-ferc/875311/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BUTrdgMqFFYhoRZNSnYea_tQAWIGibTDl3f6-hxGt9s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg3NjUyNzQwLmpwZw==",
+      "date": "Fri, 20 Nov 2026 09:32:25 -0500",
+      "signal_type": "news",
+      "relevance_score": 6.0,
+      "fetched_at": "2026-11-21T15:15:02.894541"
+    },
+    {
+      "id": "https://www.utilitydive.com/news/texas-finalizes-ercot-ceo-contract-extension-pay-raise-tied-to-performance/875318/",
+      "title": "Texas finalizes ERCOT CEO contract extension, pay raise tied to performance",
+      "source": "Utility Dive - Latest News",
+      "url": "https://www.utilitydive.com/news/texas-finalizes-ercot-ceo-contract-extension-pay-raise-tied-to-performance/875318/",
+      "sector": "energy-storage",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/iHps4b_mqd2KWePWL7Yh8aNnMLKZsJoijoLyzbsQGsw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QYWJsb1ZlZ2FzLnBuZw==.webp\" /></div><",
+      "date": "Fri, 20 Nov 2026 08:49:50 -0500",
+      "signal_type": "news",
+      "relevance_score": 5.0,
+      "fetched_at": "2026-11-21T15:15:02.894546"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
@@ -454,7 +454,7 @@
       "date": "Fri, 13 Nov 2026 19:15:11 +0000",
       "signal_type": "news",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928565"
+      "fetched_at": "2026-11-21T15:15:02.894638"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
@@ -466,7 +466,7 @@
       "date": "Fri, 13 Nov 2026 12:25:06 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928567"
+      "fetched_at": "2026-11-21T15:15:02.894642"
     },
     {
       "id": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
@@ -478,9 +478,9 @@
       "date": "Fri, 06 Nov 2026 22:00:39 +0000",
       "signal_type": "technical",
       "relevance_score": 6.0,
-      "fetched_at": "2026-11-20T16:00:07.928578"
+      "fetched_at": "2026-11-21T15:15:02.894657"
     }
   ],
   "regulations": [],
-  "last_update": "2026-11-20T16:00:08.829040"
+  "last_update": "2026-11-21T15:15:03.146078"
 }
